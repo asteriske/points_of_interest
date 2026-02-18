@@ -1,0 +1,629 @@
+<?xml version="1.0" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Activities Map</name>
+    <description>Activity locations extracted from markdown files</description>
+    <Placemark>
+      <name>Wethersfield Estate &amp; Garden (Amenia)</name>
+      <description>Wethersfield Estate &amp; Garden - Amenia
+📍 257 Pugsley Hill Road
+📞 (845) 373-8037
+🌐 https://www.wethersfield.org/
+🔗 https://www.instagram.com/p/DM_TuuUuN2R/
+ℹ️ One of the most magical gardens in the Hudson Valley, Wethersfield Estate &amp; Garden is a 1,000-acre property featuring classical Italian-style gardens, wooded trails, mythological statues, and over 20 miles of paths. The estate offers panoramic views that stretch for miles and includes wildflowers,...</description>
+      <Point>
+        <coordinates>-73.6256092,41.8882096,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hessel Museum of Art (Annandale-on-Hudson)</name>
+      <description>Hessel Museum of Art - Annandale-on-Hudson
+📍 33 Garden Road, Annandale-on-Hudson, NY 12504
+📞 (845) 758-7598
+🌐 https://ccs.bard.edu/museum
+🔗 https://www.instagram.com/p/DTxh5rcDRnY/?img_index=1
+ℹ️ The CCS Hessel Museum of Art is an art museum located on the campus of Bard College in Annandale-on-Hudson, New York. The museum was built in 2006 and draws from the Marieluise Hessel Collection of Contemporary Art, which contains more than 1,700 objects on permanent loan to Bard. CCS Bard and the...</description>
+      <Point>
+        <coordinates>-73.9143773,42.0202897,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>NY Showplace Tag Sale (Astoria)</name>
+      <description>NY Showplace Tag Sale - Astoria
+📍 36-01 35th Street, Astoria, NY 11106
+📞 (212) 633-6063
+🌐 https://nyshowplace.com/pages/tag-sale
+🔗 https://www.instagram.com/reels/DMix1gdyuAN/
+ℹ️ NY Showplace is an auction house and retail marketplace specializing in luxury goods, antiques, art, design, and vintage items. Their Astoria warehouse is a massive 24,000 square foot showroom that hosts both weekly auctions and monthly tag sales. The tag sales feature items that didn't sell at...</description>
+      <Point>
+        <coordinates>-73.9265339,40.7547164,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Dia Beacon (Beacon)</name>
+      <description>Dia Beacon - Beacon
+📍 3 Beekman Street, Beacon, NY 12508
+📞 (845) 440-0100
+🌐 https://www.diaart.org/visit/visit-our-locations-sites/dia-beacon-beacon-united-states
+🔗 https://www.instagram.com/p/DTxh5rcDRnY/?img_index=1
+ℹ️ Dia Beacon is the museum for the Dia Art Foundation's collection of art from the 1960s to the present and is one of the 12 locations and sites they manage. The museum, which opened in 2003, is situated near the banks of the Hudson River in Beacon, New York in an enormous former Nabisco box factory....</description>
+      <Point>
+        <coordinates>-73.9826016,41.5001712,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>The KuBe Art Center (Beacon)</name>
+      <description>The KuBe Art Center - Beacon
+📍 211 Fishkill Ave, Beacon, NY 12508
+📞 (845) 765-8270
+🌐 https://kubeartcenter.org
+🔗 https://www.instagram.com/p/DTxh5rcDRnY/?img_index=1
+ℹ️ The KuBe (Kunsthalle Beacon) repurposes the site of a former high school as a space to promote international exchange of culture and art, as well as unite local and global artists in a community forum. With over 60 artist studios, 10 gallery spaces, and 2 libraries, KuBe is a thriving space that...</description>
+      <Point>
+        <coordinates>-73.964994,41.505818,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bhaktapur Durbar Square (Bhaktapur, Nepal)</name>
+      <description>Bhaktapur Durbar Square - Bhaktapur, Nepal
+📍 Bhaktapur-02, Bhaktapur District, Bagmati Province, Nepal
+🌐 N/A
+🔗 https://www.tripadvisor.com/AttractionProductReview-g293890-d19709437-The_Most_Beautiful_1_Day_Experience_in_Kathmandu_Nepal-Kathmandu_Kathmandu_Valley_.html
+ℹ️ Bhaktapur Durbar Square is a UNESCO World Heritage Site and one of three royal palace squares in the Kathmandu Valley. The ancient city of Bhaktapur, also known as &quot;the city of devotees,&quot; was once the capital of the Malla Kingdom and remains the best-preserved medieval town in Nepal. The Durbar...</description>
+      <Point>
+        <coordinates>85.4281,27.6721,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>BakeDeco (Kerekes Bakery &amp; Restaurant Equipment) (Brooklyn)</name>
+      <description>BakeDeco (Kerekes Bakery &amp; Restaurant Equipment) - Brooklyn
+📍 6103 15th Avenue, Brooklyn, NY 11219
+📞 (718) 232-7044
+🌐 https://www.bakedeco.com
+🔗 https://www.instagram.com/p/DS6ALyCkXqW/
+ℹ️ BakeDeco, also known as Kerekes Bakery &amp; Restaurant Equipment, is a comprehensive distributor of restaurant supplies and equipment for every food service establishment. They feature a full line of high-quality pastry and bakery supplies, commercial kitchen equipment (both new and used), baking...</description>
+      <Point>
+        <coordinates>-73.9949171,40.6252439,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bronx River Greenway (The Bronx)</name>
+      <description>Bronx River Greenway - The Bronx
+📍 Starts at 241st Street (5 train terminus)
+📞 N/A
+🌐 http://bronxriver.org/puma/images/usersubmitted/file/Get%20Moving%20on%20the%20Bronx%20River%20-%202016%20Activity%20Guide.pdf
+🔗 https://www.nytimes.com/interactive/2019/08/14/nyregion/hiking-nyc.html
+ℹ️ An eight-mile trail that begins at 241st Street, the last stop on the 5 train, offering access to the city's only freshwater river. The Bronx River has been recently restored and is popular with kayakers. The meandering path provides easy access to the river and offers multiple route options...</description>
+      <Point>
+        <coordinates>-73.8703488,40.8466023,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kazimiroff Nature Trail (Pelham Bay Park)</name>
+      <description>Kazimiroff Nature Trail - Pelham Bay Park
+📍 Hunter Island, Pelham Bay Park
+📞 (718) 430-1891 (Pelham Bay Park Administrator's Office)
+🌐 https://www.nycgovparks.org/parks/pelham-bay-park/highlights/11915
+🔗 https://www.nycgovparks.org/parks/pelham-bay-park/highlights/11915
+ℹ️ The Kazimiroff Nature Trail honors Dr. Theodore Kazimiroff (1914-1980), a dentist by profession who is most remembered for his dedication to the fight for the protection of the delicate ecosystems that still thrive in the Bronx. Born in the Bronx on May 22, 1914, Kazimiroff graduated from Manhattan...</description>
+      <Point>
+        <coordinates>-73.827938,40.852548,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Highland Park to Forest Park Trail (Brooklyn/Queens)</name>
+      <description>Highland Park to Forest Park Trail - Brooklyn/Queens
+📍 Accessible via J train at Cleveland Street
+📞 N/A
+🌐 http://forestparktrust.org/parks/highland-park/
+🔗 https://www.nytimes.com/interactive/2019/08/14/nyregion/hiking-nyc.html
+ℹ️ This segment of the Brooklyn-Queens Greenway connects Highland Park to Forest Park through 10 miles of trail alongside kettle pools and through wild fields. Cemeteries and tangled parkland demarcate eastern Brooklyn and central Queens, offering an excellent retreat for urban hikers. The moderate...</description>
+      <Point>
+        <coordinates>-73.8877422,40.6871747,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Yesterday's News (Vintage Shop NYC - Carroll Gardens)</name>
+      <description>Yesterday's News - Vintage Shop NYC - Carroll Gardens
+📍 428 Court Street, Brooklyn, NY 11231
+📞 Not listed
+🌐 http://www.yesterdaysnews.biz/
+🔗 https://www.instagram.com/reel/DS387lujiin
+ℹ️ Yesterday's News is a beloved vintage shop in Carroll Gardens, Brooklyn, specializing in mid-century modern furniture, vintage housewares, and collectibles. The shop features an ever-changing inventory of carefully curated vintage items from the 1840s to the 1980s, including furniture (deco...</description>
+      <Point>
+        <coordinates>-73.9975109,40.679359,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Changu Narayan Temple (Changunarayan, Nepal)</name>
+      <description>Changu Narayan Temple - Changunarayan, Nepal
+📍 Changunarayan-04, Bhaktapur District, Bagmati Province, Nepal
+🌐 N/A
+🔗 https://www.tripadvisor.com/AttractionProductReview-g293890-d19709437-The_Most_Beautiful_1_Day_Experience_in_Kathmandu_Nepal-Kathmandu_Kathmandu_Valley_.html
+ℹ️ Changu Narayan Temple is the oldest Hindu temple in the Kathmandu Valley and a UNESCO World Heritage Site. Dedicated to Lord Vishnu (Narayan), the temple dates back to the 4th century AD and sits atop a hill at the end of the Kathmandu Valley. The temple complex features exceptional stone, wood,...</description>
+      <Point>
+        <coordinates>85.4279,27.7163,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Chitwan National Park (Chitwan, Nepal)</name>
+      <description>Chitwan National Park - Chitwan, Nepal
+📍 Chitwan National Park, Narayani Zone, Central Region, Nepal
+🌐 https://chitwannationalpark.gov.np/
+🔗 https://www.tripadvisor.com/AttractionProductReview-g293890-d17990421-8_Days_Tour_in_Nepal_3_Star_Accommodation-Kathmandu_Kathmandu_Valley_Bagmati_Zone_.html
+ℹ️ Chitwan National Park is Nepal's first national park, established in 1973, and a UNESCO World Heritage Site. Covering 952.63 square kilometers of subtropical lowland in the Terai region, it is home to one of the last populations of single-horned Asiatic rhinoceros and is one of the last refuges of...</description>
+      <Point>
+        <coordinates>84.4383,27.5168,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Magazzino Italian Art (Cold Spring)</name>
+      <description>Magazzino Italian Art - Cold Spring
+📍 2700 Route 9, Cold Spring, NY 10516
+📞 (845) 666-7202
+🌐 https://www.magazzino.art
+🔗 https://www.instagram.com/p/DTxh5rcDRnY/?img_index=1
+ℹ️ Magazzino Italian Art is a museum and research center dedicated to advancing scholarship and public appreciation of postwar and contemporary Italian art in the United States. Meaning &quot;warehouse&quot; in Italian, Magazzino was co-founded by Nancy Olnick and Giorgio Spanu. The 20,000 square-foot museum,...</description>
+      <Point>
+        <coordinates>-73.9148517,41.429881,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Gizmo Sewing Supplies (East Village)</name>
+      <description>Gizmo Sewing Supplies - East Village
+📍 626 East 14th Street, New York, NY 10009
+📞 (212) 477-2773
+🔗 https://www.instagram.com/reel/DS387lujiin
+ℹ️ Gizmo Sewing Supplies (also known as Gizmo Notion) is a comprehensive sewing supplies shop in the East Village offering sales and repairs for all kinds of sewing machines, along with an extensive selection of buttons, trimmings, and sewing accessories. The shop carries quilting fabrics, knitting...</description>
+      <Point>
+        <coordinates>-73.9769694,40.7286867,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Secondhand Ranch (Philadelphia)</name>
+      <description>Secondhand Ranch - Philadelphia
+📍 1148 Frankford Ave, Philadelphia, PA 19125
+📞 (267) 807-1340
+🌐 https://www.secondhandranch.com
+🔗 https://www.instagram.com/p/DS0UeeyCYtQ/
+ℹ️ Secondhand Ranch is a honky-tonk dive bar combined with a vintage thrift shop in Fishtown - where &quot;clothes, cocktails, and honky-tonk collide.&quot; The concept originated in Denver in 2020 when founder Josh Sampson opened Garage Sale Vintage. Sampson describes it as &quot;a love letter to the circular...</description>
+      <Point>
+        <coordinates>-75.1346839,39.9684765,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>East Coast Trimming Corp. (Garment District)</name>
+      <description>East Coast Trimming Corp. - Garment District
+📍 142 W 38th St, New York, NY 10018
+📞 (212) 221-0050
+🌐 http://eastcoasttrimming.com/
+🔗 https://www.instagram.com/reel/DS387lujiin
+ℹ️ East Coast Trimming Corp. is the home of Hyman Hendler Ribbon, a historic ribbon and trimming supplier located in NYC's garment district. The shop specializes in vintage ribbons, buttons, trimmings, and sewing notions. They maintain an extensive warehouse of vintage items dating back to the early...</description>
+      <Point>
+        <coordinates>-73.9879708,40.753064,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Lauren Trimming, Inc. (Garment District)</name>
+      <description>Lauren Trimming, Inc. - Garment District
+📍 247 West 37th St, New York, NY 10018
+📞 (646) 964-5734
+🔗 https://www.instagram.com/reel/DS387lujiin
+ℹ️ Lauren Trimming, Inc. is a design and fashion supplier located in NYC's garment district, specializing in buttons, trimmings, and sewing notions for fashion designers and crafters. The shop serves the professional garment industry as well as individual customers, offering a curated selection of...</description>
+      <Point>
+        <coordinates>-73.9912286,40.7539855,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Lou Lou Buttons (Garment District)</name>
+      <description>Lou Lou Buttons - Garment District
+📍 71 West 38th Street
+📞 (212) 398-5498
+🌐 https://www.louloubuttons.com
+🔗 https://www.instagram.com/loulou_buttons/tagged/
+ℹ️ Lou Lou Buttons bills itself as &quot;New York's Best Kept Secret Now Online&quot; and claims to be the &quot;Largest Online Buttons Store in the World&quot; with over 10 million buttons in stock. Located in NYC's historic garment district, this specialty button shop has been serving fashion designers, costume...</description>
+      <Point>
+        <coordinates>-73.9849126,40.7519753,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Art Omi (Ghent)</name>
+      <description>Art Omi - Ghent
+📍 1405 County Route 22, Ghent, NY 12075
+📞 (518) 392-4747
+🌐 https://artomi.org
+🔗 https://www.instagram.com/p/DTxh5rcDRnY/?img_index=1
+ℹ️ Art Omi is an arts center situated on 120 acres in New York's Hudson Valley, featuring the Sculpture &amp; Architecture Park, Newmark Gallery, five distinct residency programs, and arts education for all ages. The Sculpture &amp; Architecture Park currently has more than 60 works on view in the landscape,...</description>
+      <Point>
+        <coordinates>-73.6766147,42.3334296,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Fishkill Farms (Hopewell Junction, NY)</name>
+      <description>Fishkill Farms - Hopewell Junction, NY
+📍 9 Fishkill Farm Road, Hopewell Junction, NY 12533
+📞 845-897-4377
+🌐 https://www.fishkillfarms.com/
+🔗 https://www.instagram.com/p/DNgxhXOu__u/?img_index=1
+ℹ️ Fishkill Farms is a 270-acre apple orchard and vegetable farm that has been in the Morgenthau family for over 100 years. They specialize in certified organic vegetables and eco-certified fruit, offering both pick-your-own experiences and a well-stocked farm store with local artisanal products.</description>
+      <Point>
+        <coordinates>-73.8106688,41.5810881,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Robert H. Treman State Park (Ithaca)</name>
+      <description>Robert H. Treman State Park - Ithaca
+📍 105 Enfield Falls Rd, Ithaca, NY 14850
+📞 607-273-3440
+🌐 https://parks.ny.gov/parks/roberttreman/
+🔗 https://www.instagram.com/p/DSySpDqjXwq/
+ℹ️ Robert H. Treman State Park is a stunning 1,025-acre state park located in the Finger Lakes region along Enfield Creek. The park features dramatic gorges, multiple waterfalls, and scenic hiking trails through Enfield Glen.</description>
+      <Point>
+        <coordinates>-76.5480673,42.4026424,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Boudhanath Stupa (Kathmandu, Nepal)</name>
+      <description>Boudhanath Stupa - Kathmandu, Nepal
+📍 Boudhanath, Kathmandu, Bagmati Province, Nepal
+🌐 N/A
+🔗 https://www.tripadvisor.com/AttractionProductReview-g293890-d17990421-8_Days_Tour_in_Nepal_3_Star_Accommodation-Kathmandu_Kathmandu_Valley_Bagmati_Zone_.html
+ℹ️ Boudhanath Stupa is one of the largest spherical stupas in Nepal and the holiest Tibetan Buddhist temple outside Tibet. The massive mandala-style stupa dominates the skyline and serves as the center of Tibetan culture in Kathmandu, particularly after the 1959 Tibetan diaspora when many refugees...</description>
+      <Point>
+        <coordinates>85.362,27.7214,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Patan Durbar Square (Lalitpur, Nepal)</name>
+      <description>Patan Durbar Square - Lalitpur, Nepal
+📍 Patan Durbar Square, Lalitpur, Bagmati Province, Nepal
+🌐 N/A
+🔗 https://www.tripadvisor.com/AttractionProductReview-g293890-d17990421-8_Days_Tour_in_Nepal_3_Star_Accommodation-Kathmandu_Kathmandu_Valley_Bagmati_Zone_.html
+ℹ️ Patan Durbar Square is one of the three Durbar Squares in the Kathmandu Valley, all of which are UNESCO World Heritage Sites. Located in the heart of Lalitpur (historically known as Patan), it is considered the oldest and most artistically accomplished of the three royal palace squares. The square...</description>
+      <Point>
+        <coordinates>85.325,27.6734,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Swayambhunath (Monkey Temple) (Kathmandu, Nepal)</name>
+      <description>Swayambhunath (Monkey Temple) - Kathmandu, Nepal
+📍 Swayambhunath, Kathmandu-15, Kathmandu, Bagmati Province, Nepal
+🌐 N/A
+🔗 https://www.tripadvisor.com/AttractionProductReview-g293890-d17990421-8_Days_Tour_in_Nepal_3_Star_Accommodation-Kathmandu_Kathmandu_Valley_Bagmati_Zone_.html
+ℹ️ Swayambhunath, popularly known as the &quot;Monkey Temple&quot; due to the holy monkeys living in parts of the temple, is an ancient religious complex atop a hill in the Kathmandu Valley. The site is one of the oldest and most revered Buddhist pilgrimage sites in Nepal, dating back over 2,500 years. The...</description>
+      <Point>
+        <coordinates>85.2903,27.7152,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Thamel (Kathmandu, Nepal)</name>
+      <description>Thamel - Kathmandu, Nepal
+📍 Thamel, Kathmandu-26, Kathmandu, Bagmati Province, Nepal
+🌐 N/A
+🔗 https://www.tripadvisor.com/AttractionProductReview-g293890-d17990421-8_Days_Tour_in_Nepal_3_Star_Accommodation-Kathmandu_Kathmandu_Valley_Bagmati_Zone_.html
+ℹ️ Thamel is Kathmandu's primary tourist district and the commercial hub for travelers visiting Nepal. This vibrant, bustling neighborhood is packed with hotels, restaurants, bars, trekking gear shops, bookstores, and souvenir vendors. Originally a hippie haven in the 1960s and 70s, Thamel has evolved...</description>
+      <Point>
+        <coordinates>85.3127,27.7167,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Katonah Museum of Art (Katonah)</name>
+      <description>Katonah Museum of Art - Katonah
+📍 134 Jay Street (Route 22), Katonah, NY 10536
+📞 (914) 232-9555
+🌐 https://katonahmuseum.org
+🔗 https://www.instagram.com/p/DTxh5rcDRnY/?img_index=1
+ℹ️ The Katonah Museum of Art (KMA) is a non-collecting institution recognized for its innovative exhibition and education initiatives. It is housed in a modernist building designed by architect Edward Larrabee Barnes and was established in 1954.</description>
+      <Point>
+        <coordinates>-73.6732798,41.2627467,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Jack Shainman | The School (Kinderhook)</name>
+      <description>Jack Shainman | The School - Kinderhook
+📍 25 Broad Street, Kinderhook, NY 12106
+📞 (518) 758-1628
+🌐 https://jackshainman.com/the_school
+🔗 https://www.instagram.com/p/DTxh5rcDRnY/?img_index=1
+ℹ️ The School is a 30,000-square-foot former high school in Kinderhook, NY. It was founded in 2013 with the mission of presenting ambitious, large-scale exhibitions that shed new light on artists working both within and outside of Jack Shainman Gallery's program. The space allows for monumental...</description>
+      <Point>
+        <coordinates>-73.7013437,42.3929487,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Army &amp; Navy Bags (New York City)</name>
+      <description>Army &amp; Navy Bags - New York City
+📍 177 E Houston St #2, New York, NY 10002
+📞 212-228-5267
+🌐 https://armynavybags.wordpress.com/
+🔗 https://www.instagram.com/p/DTWKvUWDZcq/
+ℹ️ Army &amp; Navy Bags is a beloved military surplus store that has been operating for over 60 years, first established in 1956 by a Polish couple. When they were ready to retire, they gifted the store to their loyal long-term employee, Henry Yao, who has been the sole owner and operator since 1997.</description>
+      <Point>
+        <coordinates>-73.988366,40.7226194,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>The Giraffe Path (Manhattan)</name>
+      <description>The Giraffe Path - Manhattan
+📍 Starts at 110th Street-Cathedral Parkway (B/C train)
+📞 N/A
+🌐 https://docs.google.com/viewer?a=v&amp;pid=sites&amp;srcid=ZGVmYXVsdGRvbWFpbnxoaWtldGhlaGVpZ2h0c3xneDoxMjgxZWY3ZjEwMDUyNTcz
+🔗 https://www.nytimes.com/interactive/2019/08/14/nyregion/hiking-nyc.html
+ℹ️ The Giraffe Path offers Manhattan's only remaining natural forest, featuring hillside scrambles and saltwater marshes. This unofficial but well-documented 6-mile trail leads from the northern edge of Central Park to unexpected heights, capturing a true cross-section of the city. The path climbs...</description>
+      <Point>
+        <coordinates>-73.9667672,40.8042748,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tomi Jazz (New York City)</name>
+      <description>Tomi Jazz - New York City
+📍 239 E 53rd Street (Between 2nd &amp; 3rd Avenue)
+📞 (646) 497-1254
+🌐 https://www.tomijazz.com/
+🔗 https://www.instagram.com/tomijazznewyork_official
+ℹ️ Tomi Jazz is a cozy speakeasy-style Japanese jazz bar and restaurant in Midtown East. This intimate venue combines live jazz performances with authentic Japanese cuisine and a wide variety of whiskey and sake. Known for its intimate atmosphere and nightly live jazz bands, Tomi Jazz has become a...</description>
+      <Point>
+        <coordinates>-73.9677693,40.7572284,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Blooming Hill Farm (Monroe, NY)</name>
+      <description>Blooming Hill Farm - Monroe, NY
+📍 1251 State Route 208, Monroe, NY 10950
+📞 845.238.5004 (Restaurant &amp; Events), 845.782.7310 (Farmstand)
+🌐 https://www.bloominghill.farm/
+🔗 https://www.instagram.com/p/DNgxhXOu__u/?img_index=1
+ℹ️ Blooming Hill Farm is an organic farm and farm-to-table restaurant located 60 miles north of NYC. This small, family owned and operated farm grows over 150 varieties of organic fruits and vegetables which they cook at their restaurant and sell at their farm stand. They focus on sustainable farming...</description>
+      <Point>
+        <coordinates>-74.1866348,41.3304767,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Nagarkot Buddha Peace Park Hiking Trail (Nagarkot, Nepal)</name>
+      <description>Nagarkot Buddha Peace Park Hiking Trail - Nagarkot, Nepal
+📍 Nagarkot to Changu Narayan, Kavrepalanchok District, Bagmati Province, Nepal
+🌐 N/A
+🔗 https://www.tripadvisor.com/AttractionProductReview-g293890-d19709437-The_Most_Beautiful_1_Day_Experience_in_Kathmandu_Nepal-Kathmandu_Kathmandu_Valley_.html
+ℹ️ The Nagarkot Buddha Peace Park Hiking Trail is a scenic 4-hour hiking route that winds through traditional mountain villages, picturesque hills, and forested areas between Nagarkot and Changu Narayan Temple. The trail offers hikers an authentic glimpse into rural Nepali life, passing through...</description>
+      <Point>
+        <coordinates>85.5197,27.7185,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Nagarkot View Tower (Nagarkot, Nepal)</name>
+      <description>Nagarkot View Tower - Nagarkot, Nepal
+📍 Nagarkot, Kavrepalanchok District, Bagmati Province, Nepal
+🌐 N/A
+🔗 https://www.tripadvisor.com/AttractionProductReview-g293890-d19709437-The_Most_Beautiful_1_Day_Experience_in_Kathmandu_Nepal-Kathmandu_Kathmandu_Valley_.html
+ℹ️ Nagarkot View Tower is a popular observation point located at one of the highest points in the Nagarkot area, offering a stunning 360-degree panoramic view of the Himalayan mountain range. The tower provides visitors with unobstructed views of Mount Everest, Annapurna, and other major Himalayan...</description>
+      <Point>
+        <coordinates>85.5197,27.7185,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Storm King Art Center (New Windsor)</name>
+      <description>Storm King Art Center - New Windsor
+📍 1 Museum Rd, New Windsor, NY 12553
+📞 (845) 534-3115
+🌐 https://stormking.org
+🔗 https://www.instagram.com/p/DTxh5rcDRnY/?img_index=1
+ℹ️ Storm King Art Center is a 500-acre outdoor museum located in New York's Hudson Valley, where visitors experience large-scale sculpture and site-specific commissions under open sky. It contains perhaps the largest collection of contemporary outdoor sculptures in the United States.</description>
+      <Point>
+        <coordinates>-74.0625583,41.4234644,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hudson Valley MOCA (Peekskill)</name>
+      <description>Hudson Valley MOCA - Peekskill
+📍 1701 Main Street, Peekskill, NY 10566
+📞 (914) 788-0100
+🌐 https://www.hudsonvalleymoca.org
+🔗 https://www.instagram.com/p/DTxh5rcDRnY/?img_index=1
+ℹ️ The Hudson Valley Center for Contemporary Art (Hudson Valley MOCA), located in Peekskill, NY, is a 501(c)(3) non-profit arts and education organization founded by the Marc and Livia Straus family. The Center is dedicated to the development and presentation of exhibitions and interdisciplinary...</description>
+      <Point>
+        <coordinates>-73.906835,41.2932806,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Thunderbird Salvage (Philadelphia)</name>
+      <description>Thunderbird Salvage - Philadelphia
+📍 2441 Frankford Ave, Philadelphia, PA 19125
+📞 N/A (DM on Instagram to inquire)
+🌐 linktr.ee/thunderbirdsalvage
+🔗 https://www.instagram.com/p/DQcAfSJEU4W/
+ℹ️ Thunderbird Salvage is a vintage/salvage store in Philadelphia that specializes in new, used, vintage, eclectic, and salvage items. The store prides itself on salvaging as much as possible from cleanouts in the Philadelphia area. They describe it as &quot;a hard business to be in when so much goes to...</description>
+      <Point>
+        <coordinates>-75.126122,39.982826,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Mahendra Cave (Pokhara, Nepal)</name>
+      <description>Mahendra Cave - Pokhara, Nepal
+📍 Mahendra Cave, Thulibesi Marg, Pokhara-16, Kaski District, Gandaki Province, Nepal
+🌐 N/A
+🔗 https://www.tripadvisor.com/AttractionProductReview-g293890-d17990421-8_Days_Tour_in_Nepal_3_Star_Accommodation-Kathmandu_Kathmandu_Valley_Bagmati_Zone_.html
+ℹ️ Mahendra Cave is a large limestone cave located in the northern part of Pokhara, named after the late King Mahendra who visited the cave in 1950. The cave features impressive stalactite and stalagmite formations created over thousands of years by mineral-rich water. The main cave chamber extends...</description>
+      <Point>
+        <coordinates>83.9791,28.2724,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Phewa Lake (Phewa Tal) (Pokhara, Nepal)</name>
+      <description>Phewa Lake (Phewa Tal) - Pokhara, Nepal
+📍 Phewa Lake, Pokhara, Kaski District, Gandaki Province, Nepal
+🌐 N/A
+🔗 https://www.tripadvisor.com/AttractionProductReview-g293890-d17990421-8_Days_Tour_in_Nepal_3_Star_Accommodation-Kathmandu_Kathmandu_Valley_Bagmati_Zone_.html
+ℹ️ Phewa Lake is the second largest lake in Nepal and the most famous lake in Pokhara, serving as the centerpiece of the city's tourism. The lake stretches over 4.43 square kilometers and offers stunning reflections of the Annapurna range, including the iconic Machhapuchhre (Fishtail) peak. The...</description>
+      <Point>
+        <coordinates>83.9488,28.2117,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Frances Lehman Loeb Art Center (Poughkeepsie)</name>
+      <description>Frances Lehman Loeb Art Center - Poughkeepsie
+📍 124 Raymond Ave, Vassar College, Poughkeepsie, NY 12604
+📞 (845) 437-5237
+🌐 https://www.vassar.edu/theloeb
+🔗 https://www.instagram.com/p/DTxh5rcDRnY/?img_index=1
+ℹ️ The Frances Lehman Loeb Art Center, commonly known as the Loeb, is a teaching museum, major art repository, and exhibition space on the campus of Vassar College in Poughkeepsie, New York. It was founded in 1864 as the Vassar College Art Gallery and displays works from antiquity to contemporary...</description>
+      <Point>
+        <coordinates>-73.8975068,41.6859969,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Eastern Queens Greenway (Queens)</name>
+      <description>Eastern Queens Greenway - Queens
+📍 Starts at Main Street-Flushing (7 train)
+📞 N/A
+🌐 https://www.nycgovparks.org/sub_things_to_do/facilities/images/Brooklyn_Queens_GreenwayGuide.pdf
+🔗 https://www.nytimes.com/interactive/2019/08/14/nyregion/hiking-nyc.html
+ℹ️ A nearly 15-mile section of the Brooklyn-Queens Greenway that preserves Queens' bucolic farming past from the early 1900s. The trail starts in Flushing and ends with photo-ready views of the Throgs Neck Bridge. It passes through residential streets and dense parkland, including a canopied walk...</description>
+      <Point>
+        <coordinates>-73.8251866,40.7472567,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Lanoba Design (Red Hook)</name>
+      <description>Lanoba Design - Red Hook
+📍 481 Van Brunt St 8A, New York, NY 11231
+📞 347 284 9992
+🌐 www.lanobadesign.com
+🔗 https://www.instagram.com/p/DLutg0gOAZQ/
+ℹ️ Lanoba Design is a vintage Danish modern furniture store specializing in authentic mid-century pieces from the 1940s and 1950s. The business features an impressive 8,000 square foot showroom in Red Hook, Brooklyn, showcasing refurbished and &quot;AS IS&quot; vintage Danish furniture. The company sources all...</description>
+      <Point>
+        <coordinates>-74.0168886,40.6737155,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Cooper's Beach (Southampton, NY)</name>
+      <description>Cooper's Beach - Southampton, NY
+📍 268 Meadow Lane, Southampton, NY 11968
+📞 (631) 283-0247
+🌐 http://www.southamptonvillage.org/Facilities/Facility/Details/Coopers-Beach-6
+🔗 https://www.instagram.com/p/DMdIT6sOyQV/
+ℹ️ Cooper's Beach is a premier beach destination located on the south shore of Long Island in Southampton, New York. The beach was named the #1 beach in America for 2025 by Dr. Beach (coastal scientist Stephen Leatherman), who has been ranking beaches across the United States for over three decades...</description>
+      <Point>
+        <coordinates>-72.4042757,40.8654425,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>The Yellow Trail of Staten Island Greenbelt (Staten Island)</name>
+      <description>The Yellow Trail of Staten Island Greenbelt - Staten Island
+📍 Starts near Mall of Staten Island, ends at Todt Hill
+📞 N/A
+🌐 https://www.nycgovparks.org/sub_about/parks_divisions/nrg/forever_wild/pdf/fw-trailmap-20.pdf
+🔗 https://www.nytimes.com/interactive/2019/08/14/nyregion/hiking-nyc.html
+ℹ️ An eight-mile trail that joins a constellation of several parks and natural areas in the center of Staten Island, easily the greenest borough with a third of its acreage dedicated to parks. The adventurous Yellow Trail starts near the Mall of Staten Island and rises more than 400 feet to reach Todt...</description>
+      <Point>
+        <coordinates>-74.0980274,40.5979271,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Stone Barns Center for Food &amp; Agriculture (Tarrytown, NY)</name>
+      <description>Stone Barns Center for Food &amp; Agriculture - Tarrytown, NY
+📍 630 Bedford Road, Tarrytown, NY 10591
+📞 Contact via website
+🌐 https://www.stonebarnscenter.org/
+🔗 https://www.instagram.com/p/DNgxhXOu__u/?img_index=1
+ℹ️ Stone Barns Center for Food &amp; Agriculture is a nonprofit farm, research, and education center founded in 2004 with a mission to catalyze an ecological food culture. Located on 80 acres formerly belonging to the Rockefeller estate, the center combines working farm operations with educational...</description>
+      <Point>
+        <coordinates>-73.8587461,41.0762077,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Nicholas Roerich Museum (New York City)</name>
+      <description>Nicholas Roerich Museum - New York City
+📍 319 West 107th Street, New York, NY 10025
+📞 (212) 864-7752
+🌐 https://www.roerich.org/
+🔗 https://www.instagram.com/reel/DG30pkXt0Id/?igsh=dWE2MGpmbjVmNGJt
+ℹ️ The Nicholas Roerich Museum is a hidden gem housed in a classic city brownstone on the Upper West Side of Manhattan. Dedicated to the works of Nicholas Roerich (1874–1947), a Russian-born cosmopolitan artist known as the &quot;master of mountains,&quot; the museum displays more than 200 of his paintings. The...</description>
+      <Point>
+        <coordinates>-73.9690126,40.8029241,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>San Pantalon (Venice)</name>
+      <description>San Pantalon - Venice
+📍 Campo San Pantalon, Dorsoduro 3703, 30123 Venice, Italy
+📞 Not available
+🌐 Not available
+🔗 https://www.instagram.com/p/DLVPrrqNhs0/
+ℹ️ San Pantalon (Chiesa di San Pantaleone Martire) is one of Venice's most underrated hidden gems, famous for housing the world's largest oil painting on canvas. Despite its unfinished brick facade (construction funds ran short before completion), the interior reveals a breathtaking masterpiece that...</description>
+      <Point>
+        <coordinates>12.3245657,45.4353738,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Mountain Creek Resort (Vernon, NJ)</name>
+      <description>Mountain Creek Resort - Vernon, NJ
+📍 200 Route 94, Vernon, NJ 07462
+📞 (973) 827-2000
+🌐 https://mountaincreek.com/
+🔗 https://www.instagram.com/p/DS2dIQEgLHv/
+ℹ️ Mountain Creek Resort is New Jersey's premier 4-season resort destination located in Vernon Township. The resort has a rich and colorful history dating back to 1976 when Eugene Mulvihill and Great American Recreation opened a summer attraction on the grounds of the Vernon Valley/Great Gorge ski...</description>
+      <Point>
+        <coordinates>-74.51,41.1908,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>The Long Path (Upper Manhattan to Albany)</name>
+      <description>The Long Path - Upper Manhattan to Albany
+📍 West 175th Street near George Washington Bridge
+📞 N/A
+🌐 https://www.nynjtc.org/long-path/
+🔗 https://www.instagram.com/p/DUEjKLPjM_F/?img_index=1</description>
+      <Point>
+        <coordinates>-73.9480689,40.850682,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Wassaic Project (Wassaic)</name>
+      <description>Wassaic Project - Wassaic
+📍 37 Furnace Bank Road, Wassaic, NY 12592
+📞 (347) 815-0783
+🌐 https://www.wassaicproject.org
+🔗 https://www.instagram.com/p/DTxh5rcDRnY/?img_index=1
+ℹ️ The Wassaic Project is a non-profit artist-run arts, community and art education space in Wassaic, New York, founded in 2008. It is a contemporary arts institution dedicated to supporting emerging artists and engaging communities through residencies, exhibitions, public programs, and arts...</description>
+      <Point>
+        <coordinates>-73.5605459,41.805682,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Living By Stella Dallas (Williamsburg)</name>
+      <description>Living By Stella Dallas - Williamsburg
+📍 281 N 6th St, Brooklyn, NY 11211
+📞 Not listed
+🌐 Not listed
+🔗 https://www.instagram.com/reel/DS387lujiin
+ℹ️ Living By Stella Dallas is a vintage and textile shop in Williamsburg specializing in vintage clothing, global textiles, and furnishing textiles. The shop carries women's clothing ranging from pieces dating back to the 1840s to current items, along with vintage buttons and sewing notions. The shop...</description>
+      <Point>
+        <coordinates>-73.9536014,40.7146296,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hudson River Museum (Yonkers)</name>
+      <description>Hudson River Museum - Yonkers
+📍 511 Warburton Avenue, Yonkers, NY 10701
+📞 (914) 963-4550
+🌐 https://www.hrm.org
+🔗 https://www.instagram.com/p/DTxh5rcDRnY/?img_index=1
+ℹ️ The Hudson River Museum is situated on the banks of the Hudson River in Yonkers, New York. It is the largest cultural institution in Westchester County with galleries, planetarium, amphitheater, and educational spaces.</description>
+      <Point>
+        <coordinates>-73.8966053,40.9542326,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Untermyer Gardens (Yonkers)</name>
+      <description>Untermyer Gardens - Yonkers
+📍 945 N Broadway
+📞 (914) 613-4502
+🌐 https://www.untermyergardens.org/
+🔗 https://www.instagram.com/p/DKZcGDruc4J/, https://www.instagram.com/p/DR5S628ET_9/
+ℹ️ Untermyer Gardens is a spectacular Persian-style garden that offers a magical escape just 35 minutes from NYC. This historic garden features stunning architecture, beautiful landscaping, and serves as a perfect day trip destination from Manhattan. The gardens were once part of a grand estate and...</description>
+      <Point>
+        <coordinates>-73.8860174,40.9659946,0</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

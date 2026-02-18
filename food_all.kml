@@ -1,0 +1,3317 @@
+<?xml version="1.0" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>NYC Restaurant Map</name>
+    <description>Restaurant locations extracted from markdown files</description>
+    <Placemark>
+      <name>Zyara Restaurant (Astoria - Primary)</name>
+      <description>Zyara Restaurant - Astoria (Primary)
+📍 25-53 Steinway Street
+📞 (718) 777-7753
+🔗 https://www.instagram.com/p/DQfIDahgTFu/
+⭐ Signature Items:
+• Chicken Shawarma Saj: Labeled as &quot;The Best Chicken Shawarma&quot; by the restaurant
+• Lamb Adana Laffa: Minced meat grilled kabab flavored with spices and wrapped in laffa flatbread (Zohran Mamdani's order)
+• Mixed Grill Platter: Packed with bold flavors and grilled perfection
+🔥 Popular Items:
+• Chicken Kabob: Grilled to perfection
+• Filet Mignon Kabob: Premium grilled meat
+• Kufta Kabob: Bold spices with tender texture</description>
+      <Point>
+        <coordinates>-73.8964646,40.7807197,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Funshi Sushi Ramen &amp; Boba (Cleveland, OH - Primary)</name>
+      <description>Funshi Sushi Ramen &amp; Boba - Cleveland, OH (Primary)
+📍 2101 Richmond Road, Suite 871, Beachwood, OH 44122
+📞 (216) 342-4012
+🔗 https://www.instagram.com/p/DTHCUCkDaYX/
+⭐ Signature Items:
+• Sushi: Chef-prepared, fresh sushi via conveyor belt
+• Ramen: Highly praised soups
+• Boba Tea: Variety of bubble tea options</description>
+      <Point>
+        <coordinates>-81.4963758,41.5005105,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Funshi Sushi Ramen &amp; Boba (Rocky River)</name>
+      <description>Funshi Sushi Ramen &amp; Boba - Rocky River
+📍 21605 Center Ridge Road, Rocky River, OH 44116
+📞 (216) 342-4012
+🔗 https://www.instagram.com/p/DTHCUCkDaYX/
+⭐ Signature Items:
+• Sushi: Chef-prepared, fresh sushi via conveyor belt
+• Ramen: Highly praised soups
+• Boba Tea: Variety of bubble tea options</description>
+      <Point>
+        <coordinates>-81.8587765,41.4599078,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Funshi Sushi Ramen &amp; Boba (Avon)</name>
+      <description>Funshi Sushi Ramen &amp; Boba - Avon
+📍 35918 Detroit Road, Unit Y-3, Avon, OH 44011
+📞 (216) 342-4012
+🔗 https://www.instagram.com/p/DTHCUCkDaYX/
+⭐ Signature Items:
+• Sushi: Chef-prepared, fresh sushi via conveyor belt
+• Ramen: Highly praised soups
+• Boba Tea: Variety of bubble tea options</description>
+      <Point>
+        <coordinates>-81.9791707,41.4546934,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Arberia Grill &amp; Cafe (Bensonhurst - Primary)</name>
+      <description>Arberia Grill &amp; Cafe - Bensonhurst (Primary)
+📍 2325 65th Street (at 23rd Avenue)
+📞 (718) 676-4408
+🔗 https://www.instagram.com/p/DRdw3qhDFrs/?img_index=1
+⭐ Signature Items:
+• Byrek (Burek): Baked filled pastries made of thin flaky dough, described as &quot;Flaky Perfection—Handmade By 10th-Generation Bakers.&quot; Available with fillings of meat, cheese, or spinach
+• Qebapa (Çebapi): Grilled finger-sized skinless ground veal sausages, described as &quot;Spot-On&quot;
+• Balkan-Style Burgers: A must-try item featuring Balkan preparation and flavors
+🔥 Popular Items:
+• Grilled Chicken Salad: $18
+• Shepherd Salad: Fresh salad with tomatoes, cucumbers, onions, and shredded feta cheese
+• Chicken Soup: Made with nine different vegetables</description>
+      <Point>
+        <coordinates>-73.9783172,40.6122828,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Gastronome Europe (Brighton Beach - Primary)</name>
+      <description>Gastronome Europe - Brighton Beach (Primary)
+📍 307 Brighton Beach Ave
+📞 (718) 368-1336
+🔗 https://www.instagram.com/p/DSsYt8xjgHB/
+⭐ Signature Items:
+• Pyrozhki (Пирожки): Deep-fried pockets of pillowy yeasty dough, filled with meat, potatoes, cabbage, or mashed green peas. Sweet varieties include apples or cherries dusted with powdered sugar. Price: $2.50 each (as of 2025)
+• Meat Prepared Foods: $5.99/lb
+• Salad Bar: $3.99/lb</description>
+      <Point>
+        <coordinates>-73.9639218,40.5773301,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Lucky Chix (Bushwick - Primary)</name>
+      <description>Lucky Chix - Bushwick (Primary)
+📍 1533 Myrtle Ave
+📞 (Information not available)
+🔗 https://www.instagram.com/p/DPKdUGKkTsL/
+⭐ Signature Items:
+• Lucky 1/2 Garlic Soy: $17.25 - Half fried chicken with soy garlic sauce (4 pieces), comes with small daikon pickle
+• Lucky Whole Soy Garlic: $32.20 - Whole fried chicken with soy garlic sauce
+• Lucky 1/2 Hot N Sweet: $17.25 - Half fried chicken with sweet and spicy sauce</description>
+      <Point>
+        <coordinates>-73.9140176,40.6994765,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Chelsea Square Diner (New York City - Primary)</name>
+      <description>Chelsea Square Diner - New York City (Primary)
+📍 368 W 23rd St, New York, NY 10011
+📞 212-691-5400
+🔗 https://www.instagram.com/p/DSvjG45j_J3/
+⭐ Signature Items:
+• Classic Diner Pancakes: Original recipe from 1980, served with fresh berries, powdered sugar, and maple syrup
+• Breakfast All Day: Full breakfast menu available 24/7
+• Diner Classics: Traditional American comfort food</description>
+      <Point>
+        <coordinates>-74.0012771,40.7462163,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sanyuu West (Chelsea, NYC - Primary)</name>
+      <description>Sanyuu West - Chelsea, NYC (Primary)
+📍 228 W 18th Street
+📞 (347) 725-6580
+🔗 https://www.instagram.com/reel/DQrWBSmDrUf/?igsh=MXB2d3hpaWlxcm0yaA%3D%3D
+⭐ Signature Items:
+• 15-Course Omakase: $78 (includes appetizer, 12 nigiri, hand roll, and dessert)
+• Salmon Sushi Set: $30 (features notably large sushi pieces)
+• Omakase Set: $69</description>
+      <Point>
+        <coordinates>-73.9993492,40.7414912,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bo Ky (Chinatown - Primary)</name>
+      <description>Bo Ky - Chinatown (Primary)
+📍 80 Bayard St, New York, NY 10013
+📞 (212) 406-2292
+🔗 https://www.instagram.com/p/DSn73SdEvR-/
+⭐ Signature Items:
+• Beef &amp; Tendon Curry with Flat Rice Noodles: The signature bowl featured on nycfoodsnob's Instagram; rich curry broth with tender beef and tendon over wide flat rice noodles
+• Country Duck: A signature Teochew specialty dish
+• Teochew Noodles: Traditional preparation with various protein options</description>
+      <Point>
+        <coordinates>-73.9986833,40.7157722,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Dim Sum Go Go (Chinatown - Primary)</name>
+      <description>Dim Sum Go Go - Chinatown (Primary)
+📍 5 East Broadway, New York, NY 10038
+📞 (212) 732-0797
+🔗 https://www.instagram.com/p/DK8HduSsSgl/
+⭐ Signature Items:
+• Beef Rice Rolls (Cheung Fun): Cantonese-style rice noodle rolls with beef ($6-8)
+• Shrimp and Chive Dumplings: Fresh handmade dumplings ($6-8)
+• Pepper Spare Ribs: Customer favorite, consistently recommended ($6-8)</description>
+      <Point>
+        <coordinates>-73.9977279,40.7132424,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Dim Sum Go Go (East Village (CLOSED))</name>
+      <description>Dim Sum Go Go - East Village (CLOSED)
+📍 221 1st Avenue, New York, NY 10003
+📞 (212) 732-0797
+🔗 https://www.instagram.com/p/DK8HduSsSgl/
+⭐ Signature Items:
+• Beef Rice Rolls (Cheung Fun): Cantonese-style rice noodle rolls with beef ($6-8)
+• Shrimp and Chive Dumplings: Fresh handmade dumplings ($6-8)
+• Pepper Spare Ribs: Customer favorite, consistently recommended ($6-8)</description>
+      <Point>
+        <coordinates>-73.9817,40.7317,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Spicy Village (Chinatown  - Primary)</name>
+      <description>Spicy Village - Chinatown  (Primary)
+📍 68 Forsyth St B, New York, NY 10002
+📞 (212) 625-8866
+🔗 https://www.instagram.com/p/DJphV-ySVgj/
+⭐ Signature Items:
+• Big Tray Chicken: One of Chinatown's most iconic dishes featuring big bone-in hunks of chicken and potatoes stewed in rich sauce with Sichuan peppercorns, star anise, and spices. Option to add hand-pulled noodles (highly recommended). Easily feeds two people (~$16)
+• Hand-Pulled Noodles: Traditional broad wheat noodles (hui mei) crafted daily, used in dozens of soups and stir-fries
+• Crispy Pancakes: Fluffy circles of dough with crispy crust, available with pork, beef, or egg filling</description>
+      <Point>
+        <coordinates>-73.993396,40.7170069,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Taiwan Bear House (台灣熊屋) (New York - Primary)</name>
+      <description>Taiwan Bear House (台灣熊屋) - New York (Primary)
+📍 11 Pell St, New York, NY 10013
+📞 (212) 346-9050
+🔗 https://www.instagram.com/p/DPjKv6MDK1O/</description>
+      <Point>
+        <coordinates>-73.997824,40.7146807,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B &amp; J's Corned Beef Shoppe &amp; Deli (Cleveland - Primary)</name>
+      <description>B &amp; J's Corned Beef Shoppe &amp; Deli - Cleveland (Primary)
+📍 9717 Lorain Ave
+📞 (216) 651-0030
+🔗 https://www.instagram.com/p/DTTrmIujv6h/
+⭐ Signature Items:
+• Corned Beef Sandwich: Tender, perfectly seasoned corned beef piled high on your choice of bread. Their Reuben has been praised as one of the best in the country.
+• Western Omelette: Long-time customer favorite, praised as &quot;the best ever tasted&quot;
+• Blueberry Pancakes: Described as &quot;the best blueberry pancakes in Cleveland&quot;</description>
+      <Point>
+        <coordinates>-81.7501507,41.4679252,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Big Al's Diner (Cleveland - Primary)</name>
+      <description>Big Al's Diner - Cleveland (Primary)
+📍 12600 Larchmere Blvd
+📞 (216) 791-8550
+🔗 https://www.instagram.com/p/DUCHBRUDu3L/
+⭐ Signature Items:
+• Corned Beef Hash: $10.99. &quot;Magic on a plate&quot; per Michael Symon. Made with thick potatoes and green peppers, crispy corned beef. &quot;Very solid&quot; per reviewers.
+• Item #12: $8.75. Sausage gravy-covered biscuits with over-easy eggs and home fries
+• Eggs Benedict: Generous portions, local favorite</description>
+      <Point>
+        <coordinates>-81.595547,41.487708,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Cent's Pizza + Goods (Cleveland - Primary)</name>
+      <description>Cent's Pizza + Goods - Cleveland (Primary)
+📍 5010 Lorain Ave, Cleveland, OH 44102
+📞 216-862-6427
+🔗 https://www.clevescene.com/food-drink/cents-pizza-all-about-the-details-is-already-leaving-a-lasting-impression-in-a-packed-pizza-market-37890955/
+⭐ Signature Items:
+• Wonder Bread ($6): Doughball transformed into a nearly spherical steam-filled loaf after a spell in the wood-fired oven, can be enjoyed with house-cultured butter ($2) or 'nduja ($10, a funky, fiery free-form sausage)
+• Sunday Gravy Pizza ($18): Lightly sauced with bite-size meatballs, heaps of sliced garlic and a flurry of pecorino
+• Pepperoni Pizza ($16): Features a sea of melted mozzarella topped with crisp-edged pepperoni cups
+🔥 Popular Items:
+• Kale Caesar ($12): Piled high with vibrant greens, showered with parmesan and lemon zest
+• Phat Parm ($20): Seasonal pizza with pancetta, shaved Brussels sprouts and parmesan cream
+• Housemade stracciatella, duck prosciutto, pickled veggies: Various antipasti options</description>
+      <Point>
+        <coordinates>-81.7215211,41.4775604,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>George's Kitchen (Cleveland - Primary)</name>
+      <description>George's Kitchen - Cleveland (Primary)
+📍 13101 Triskett Rd
+📞 (216) 671-0430
+🔗 https://www.instagram.com/p/DSQhehakYnU/
+⭐ Signature Items:
+• Roasted Turkey Dinner: Classic comfort food staple (4 reviews)
+• Moussaka: Greek-inspired comfort dish (4 reviews)
+• Meatloaf: Traditional diner favorite (4 reviews)</description>
+      <Point>
+        <coordinates>-81.782872,41.465244,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Harbor Inn (Cleveland - Primary)</name>
+      <description>Harbor Inn - Cleveland (Primary)
+📍 1219 Main Avenue, Cleveland, OH 44113
+📞 (216) 241-3232
+🔗 https://www.instagram.com/p/DTBp_T8DrxR/</description>
+      <Point>
+        <coordinates>-81.7064874,41.4962744,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Abundance Culinary (Cleveland Heights - Primary)</name>
+      <description>Abundance Culinary - Cleveland Heights (Primary)
+📍 1975 Lee Road, Cleveland Heights, OH 44118
+📞 (216) 785-9959
+🔗 https://www.instagram.com/p/DSNaERmCtzA/
+⭐ Signature Items:
+• Dumplings: House-made with various fillings, their signature item that launched the business
+• Szechuan Dumplings: Highly praised by regulars
+• Steamed Buns: Traditional preparation from Chef Liu Fang's repertoire</description>
+      <Point>
+        <coordinates>-81.5650398,41.505813,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Callaloo Cafe (Cleveland Heights - Primary)</name>
+      <description>Callaloo Cafe - Cleveland Heights (Primary)
+📍 2234 Lee Road, Cleveland Heights, OH 44118
+📞 (216) 417-5232
+🔗 https://www.instagram.com/p/DS8gq7KD8RE/
+⭐ Signature Items:
+• Callaloo: $9.00 (National dish of Trinidad)
+• Roti: $8.00 (Warm, flaky and soft unleavened flatbread that's busted up on the griddle before serving)
+• Jerk Chicken Dinner: $25.00
+🔥 Popular Items:
+• Rib Dinner: $27.00
+• Rice and Peas: $8.00
+• Burritos: Highly recommended by customers</description>
+      <Point>
+        <coordinates>-81.5654762,41.4986177,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Market on Lee (Cleveland Heights - Primary)</name>
+      <description>Market on Lee - Cleveland Heights (Primary)
+📍 2256 Lee Rd
+📞 216-417-2675
+🔗 https://www.instagram.com/p/DTq26YsjXMm/
+⭐ Signature Items:
+• The Anthony: Italian sandwich with salami, mortadella, capicola, provolone, arugula, and special sauce on a custom baguette bun from On The Rise Artisan Bread. Praised as &quot;one of Cleveland's best sandwiches.&quot;</description>
+      <Point>
+        <coordinates>-81.5655145,41.498145,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Larder Delicatessen &amp; Bakery (Cleveland - Primary)</name>
+      <description>Larder Delicatessen &amp; Bakery - Cleveland (Primary)
+📍 1455 W 29th Street, Cleveland, Ohio 44113
+📞 (216) 912-8203
+🔗 https://www.instagram.com/reel/DOJEG1DkRi9/
+⭐ Signature Items:
+• Koji-Cured Pastrami Sandwich: Hand-cut pastrami cured for 3 days using koji (instead of traditional 3-week brine), seasoned with Rising Star Coffee, dark cocoa powder, coriander, and black pepper. Served sliced thick on rye bread with mustard and red cabbage sauerkraut. This dish earned Chef Umansky recognition as a Food &amp; Wine &quot;Maker&quot;
+• Chicken Sandwich: One of the menu stars, featuring fried chicken
+• Matzo Ball Soup: Traditional preparation, recognized as one of the dishes that earned the restaurant's James Beard nomination</description>
+      <Point>
+        <coordinates>-81.7102449,41.4892262,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Mt. Pleasant Bar-B-Q (Cleveland - Primary)</name>
+      <description>Mt. Pleasant Bar-B-Q - Cleveland (Primary)
+📍 12725 Kinsman Rd
+📞 (216) 561-8722
+🔗 https://www.instagram.com/p/DS3XjpCDvbt/
+⭐ Signature Items:
+• Shoulder Sandwiches: &quot;I am never disappointed with the shoulder sandwiches&quot; (mentioned in 3 reviews)
+• Ribs: Highly praised, described as &quot;kicking major azzzzzzz&quot;
+• Polish Boy: Popular Cleveland specialty</description>
+      <Point>
+        <coordinates>-81.5937611,41.4662128,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>African Pride (Brooklyn, NY - Primary)</name>
+      <description>African Pride - Brooklyn, NY (Primary)
+📍 1895 Eastern Pkwy, Brooklyn, NY 11233
+📞 (929) 560-6955 / (347) 627-3410
+🔗 https://www.instagram.com/p/DQ7tBoID18L/
+⭐ Signature Items:
+• Egusi Soup: Ground melon seed with mixed peppers and spinach, served with choice of white rice, fufu, eba, pounded yam, tuwo, or amala
+• Assorted Meat Pepper Soup: $17 - Zesty spicy soup with goat meat made with fresh herbs and Nigerian spice
+• Pepper Snail: $32
+🔥 Popular Items:
+• Moi Moi: $7.50 - Spiced steamed bean pudding made from black-eyed peas
+• Fried Plantain: $6
+• Okra Soup with Fufu: Highly praised by customers</description>
+      <Point>
+        <coordinates>-73.9082298,40.677216,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Brooklyn Curry Project (Downtown Brooklyn - Primary)</name>
+      <description>Brooklyn Curry Project - Downtown Brooklyn (Primary)
+📍 383 Bridge Street (inside Nimbus Kitchen)
+📞 [Not publicly listed]
+🔗 https://www.instagram.com/p/DSxSCc_DhXE/
+⭐ Signature Items:
+• Mini Idli Sambar: Available at Fort Greene pop-up market location
+• Filter Kaapi: South Indian coffee from Chikmagalur, now available through their sister concept Filter Kaapi NYC
+• Filter Kaapi Soft Serve: Special seasonal offering</description>
+      <Point>
+        <coordinates>-73.9851622,40.6923347,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>The Brindle Room (East Village - Primary)</name>
+      <description>The Brindle Room - East Village (Primary)
+📍 647 East 11th Street (at Avenue C)
+📞 (212) 529-5702
+🔗 https://www.instagram.com/p/DOcDepYEnkX/
+⭐ Signature Items:
+• Sebastian Steakhouse Burger: Award-winning burger made with a 70/30 blend from dry-aged steak trimmings, topped with caramelized onions and American cheese on a white bun. Featured on &quot;Diners, Drive-Ins and Dives&quot; and recognized as one of NYC's best burgers
+• French Dip Sandwich: Highly praised by customers as &quot;amazing&quot;
+• House-Made Hot Sauce: Multiple reviews call it &quot;the best in the world&quot; and &quot;THEIR FAVORITE&quot;</description>
+      <Point>
+        <coordinates>-73.9772976,40.7266611,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>HighLife Burger (East Village - Primary)</name>
+      <description>HighLife Burger - East Village (Primary)
+📍 135 1st Ave
+📞 Not available
+🔗 https://www.instagram.com/p/DIPbVSUSxOf/
+⭐ Signature Items:
+• HighLife Signature Burger: Tastes very similar to In-N-Out's Double Double according to LA native taste test, featuring thin yet juicy patties with fresh lettuce, tomatoes, onions, cheese, pickles, and choice of sauce
+• Queso Fries: Loaded fries with rich queso, mayo-forward special sauce, chopped dill pickles and pickled jalapeños (similar to In-N-Out animal-style fries)
+• Hot Dogs: Simple, quality hot dogs</description>
+      <Point>
+        <coordinates>-73.9853497,40.7278427,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Little Poland (New York City - Primary)</name>
+      <description>Little Poland - New York City (Primary)
+📍 200 2nd Ave, New York, NY 10003
+📞 (212) 777-9728
+🔗 https://www.instagram.com/p/DSdbzS2EWOe/
+⭐ Signature Items:
+• Bigos: Traditional Polish hunter's stew (highly praised in comments)
+• Potato Lamb Soup: Described as &quot;magical&quot; by regulars
+• Placki Ziemniaczane: Polish potato pancakes</description>
+      <Point>
+        <coordinates>-73.9854838,40.7312257,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Okiboru House of Udon (New York - Primary)</name>
+      <description>Okiboru House of Udon - New York (Primary)
+📍 124 2nd Ave, New York, NY 10003
+📞 (678) 498-6530
+🔗 https://www.instagram.com/p/DQwcJ7JkVDK/
+⭐ Signature Items:
+• Himokawa Dipping Udon: Wide flat noodles served on their own alongside a small bowl of rich, flavorful dipping sauce. The broth is umami-rich and you can add wasabi, yuzu paste, and a raw quail egg for enhanced flavor. This is the signature dish and provides an interactive dining experience.
+• Udon in Broth: Traditional preparation with the signature wide noodles in rich chicken and fish broth
+• Jumbo Shrimp Tempura: Pairs perfectly with the noodles</description>
+      <Point>
+        <coordinates>-73.9875653,40.7281379,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Raku (New York - Primary)</name>
+      <description>Raku - New York (Primary)
+📍 342 E 6th St, New York, NY 10003
+📞 Contact via eastvillage@rakunyc.com
+🔗 https://www.instagram.com/p/DQwcJ7JkVDK/
+⭐ Signature Items:
+• Kani Ananke Udon: Unique udon with thick broth like egg drop soup, featuring crab
+• Oyako Don: Popular rice bowl with chicken and egg, one of the favorites
+• Matsutake Udon: Seasonal offering featuring premium matsutake mushrooms
+🔥 Popular Items:
+• Gyoza Varieties: Multiple types of dumplings
+• Tempura Dishes: Various tempura options
+• Rice Bowls: Beyond oyako don, multiple rice bowl options</description>
+      <Point>
+        <coordinates>-73.9866458,40.7264713,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Raku (SoHo)</name>
+      <description>Raku - SoHo
+📍 48 MacDougal St, New York, NY 10012
+📞 Contact via eastvillage@rakunyc.com
+🔗 https://www.instagram.com/p/DQwcJ7JkVDK/
+⭐ Signature Items:
+• Kani Ananke Udon: Unique udon with thick broth like egg drop soup, featuring crab
+• Oyako Don: Popular rice bowl with chicken and egg, one of the favorites
+• Matsutake Udon: Seasonal offering featuring premium matsutake mushrooms
+🔥 Popular Items:
+• Gyoza Varieties: Multiple types of dumplings
+• Tempura Dishes: Various tempura options
+• Rice Bowls: Beyond oyako don, multiple rice bowl options</description>
+      <Point>
+        <coordinates>-74.0025233,40.7272809,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Raku (Midtown/Hell's Kitchen)</name>
+      <description>Raku - Midtown/Hell's Kitchen
+📍 776 9th Ave, New York, NY 10019
+📞 Contact via eastvillage@rakunyc.com
+🔗 https://www.instagram.com/p/DQwcJ7JkVDK/
+⭐ Signature Items:
+• Kani Ananke Udon: Unique udon with thick broth like egg drop soup, featuring crab
+• Oyako Don: Popular rice bowl with chicken and egg, one of the favorites
+• Matsutake Udon: Seasonal offering featuring premium matsutake mushrooms
+🔥 Popular Items:
+• Gyoza Varieties: Multiple types of dumplings
+• Tempura Dishes: Various tempura options
+• Rice Bowls: Beyond oyako don, multiple rice bowl options</description>
+      <Point>
+        <coordinates>-73.9878929,40.7644662,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Uluh (East Village - Primary)</name>
+      <description>Uluh - East Village (Primary)
+📍 152 Second Avenue, New York, NY 10003
+📞 (917) 261-5963
+🔗 https://www.instagram.com/p/DHcBlMuvWox/
+⭐ Signature Items:
+• Shanghai Pork Soup Dumplings: Traditional xiaolongbao
+• Peking Duck: Classic preparation
+• Lobster Dry Pot: Sichuan-style seafood dish</description>
+      <Point>
+        <coordinates>-73.9865819,40.7295504,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ray's Candy Store (East Village - Primary)</name>
+      <description>Ray's Candy Store - East Village (Primary)
+📍 Avenue A
+📞 [Phone Number]
+🔗 https://www.instagram.com/p/DJIBFlCBU0W/
+⭐ Signature Items:
+• Authentic Egg Cream: No eggs, no cream—just fizzy, chocolatey magic made the old-fashioned way
+• Traditional Candy Store Treats: Classic NYC candy store selections
+• Old-School Sodas: Traditional soda fountain beverages</description>
+      <Point>
+        <coordinates>-73.9835462,40.7262821,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Gogyo Gramercy (NYC - Primary)</name>
+      <description>Gogyo Gramercy - NYC (Primary)
+📍 45 E 20th St, New York, NY 10003
+📞 646-454-0057
+🔗 https://www.instagram.com/p/DO4Ug1QjkSp/
+⭐ Signature Items:
+• Kogashi Miso Ramen: Five miso blends charred at 572°F (300°C) to create a smoky aroma and deep, bold flavor; the restaurant's signature dish
+• Shoyu Tsuke-Men: A stellar rarity: chilled noodles dipped into a universe of flavor, with miso, seared pork belly chashu, and umami tamago
+• Kiwami Tonkotsu: A masterpiece of depth and devotion, forged in metal, revealing hidden treasures with every sip
+🔥 Popular Items:
+• Craft Cocktails: Available at the Japanese Bar of Five Elements, also available exclusively at the bar</description>
+      <Point>
+        <coordinates>-73.9889707,40.7389363,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ten Ichi Mart (New York City - Primary)</name>
+      <description>Ten Ichi Mart - New York City (Primary)
+📍 178 5th Ave, New York, NY 10010
+📞 (646) 360-2863
+🔗 https://www.instagram.com/p/DSBb7kBjk6E/</description>
+      <Point>
+        <coordinates>-73.9900077,40.7411325,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ten Ichi Mart (Cobble Hill/Boerum Hill)</name>
+      <description>Ten Ichi Mart - Cobble Hill/Boerum Hill
+📍 118 Smith St, Brooklyn, NY 11201
+📞 (646) 360-2863
+🔗 https://www.instagram.com/p/DSBb7kBjk6E/</description>
+      <Point>
+        <coordinates>-73.990038,40.6877696,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ten Ichi Mart (Williamsburg)</name>
+      <description>Ten Ichi Mart - Williamsburg
+📍 188 Berry St, Brooklyn, NY 11249
+📞 (646) 360-2863
+🔗 https://www.instagram.com/p/DSBb7kBjk6E/</description>
+      <Point>
+        <coordinates>-73.9613563,40.7165963,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Chongqing Lao Zao 重慶老灶 (Flushing - Primary)</name>
+      <description>Chongqing Lao Zao 重慶老灶 - Flushing (Primary)
+📍 37-04 Prince St, Flushing, NY 11354
+📞 (917) 563-7171
+🔗 https://www.instagram.com/p/DHcBlMuvWox/
+⭐ Signature Items:
+• Chongqing-Style Hot Pot: Authentic spicy hot pot with traditional Chongqing flavors
+• Sichuan Hot Pot: Various spice levels and broths
+• Traditional Hot Pot Ingredients: Fresh meats, vegetables, and specialty items</description>
+      <Point>
+        <coordinates>-73.8330454,40.7606459,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Emperor Seafood Restaurant 帝皇御宴 (Flushing - Primary)</name>
+      <description>Emperor Seafood Restaurant 帝皇御宴 - Flushing (Primary)
+📍 136-59 37th Ave, 2nd Floor
+📞 (718) 799-0311
+🔗 https://www.instagram.com/p/DIzt9iPuMSx/
+⭐ Signature Items:
+• Shrimp Balls: Must-order specialty mentioned by food reviewers
+• Steam Rice Roll (Shrimp &amp; Pork): Traditional cheung fun with fresh ingredients  
+• Salted Egg Yolk Bun: Sweet dessert bun with rich salted egg yolk filling</description>
+      <Point>
+        <coordinates>-73.8290086,40.7622708,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ganesh Temple Canteen (Hindu Temple Canteen) (Flushing - Primary)</name>
+      <description>Ganesh Temple Canteen (Hindu Temple Canteen) - Flushing (Primary)
+📍 143-09 Holly Ave, Flushing, NY 11355
+📞 (718) 460-8493
+🔗 https://www.instagram.com/p/DSYbfCkDoZm/</description>
+      <Point>
+        <coordinates>-73.81649,40.75256,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Gao Xiao Pa (高小爬) (Flushing - Primary)</name>
+      <description>Gao Xiao Pa (高小爬) - Flushing (Primary)
+📍 41-39 Kissena Blvd
+📞 (929) 763-6656
+🔗 https://www.instagram.com/p/DRxlgrdAQRB/
+⭐ Signature Items:
+• Roujiamo (Chinese Hamburger): $6 - Chicken cooked on a vertical spit (similar to gyro/shawarma style), served in a crispy flatbread pocket. Can be customized with or without spice, onions, lettuce, and pineapple
+• Rice Bowl: $10 - Same chicken preparation served over rice
+• Jianbing Guozi (煎饼果子): Chinese savory crepes/pancakes</description>
+      <Point>
+        <coordinates>-73.8283004,40.7579581,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Liu Liu Sheng Jian 六六生煎王 (Flushing - Primary)</name>
+      <description>Liu Liu Sheng Jian 六六生煎王 - Flushing (Primary)
+📍 136-20 Roosevelt Ave, New World Mall Food Court, Flushing, NY 11354
+📞 Not Available
+🔗 https://www.instagram.com/p/DHcBlMuvWox/
+⭐ Signature Items:
+• Sheng Jian Bao: Pan-fried pork buns that are crispy on the bottom and filled with hot, flavorful soup. Considered some of the best in NYC
+• Pan-fried Dumplings: Traditional Shanghai-style dumplings with crispy bottoms</description>
+      <Point>
+        <coordinates>-73.8295006,40.7590896,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Mochi Cart (Flushing - Primary)</name>
+      <description>Mochi Cart - Flushing (Primary)
+📍 Prince Street (across from Molly Tea at 37-11 Prince St)
+📞 [Not available]
+🔗 https://www.instagram.com/p/DNwqNJKWspL/
+⭐ Signature Items:
+• Fresh Mochi: Pillowy soft texture with nutty fillings, different from typical Japanese-style mochi fillings
+• Chinese-style Mochi: QQ (chewy) texture that maintains softness even the next day</description>
+      <Point>
+        <coordinates>-73.8326192,40.760536,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Eddie's Sweet Shop (Forest Hills, Queens - Primary)</name>
+      <description>Eddie's Sweet Shop - Forest Hills, Queens (Primary)
+📍 105-29 Metropolitan Ave, Forest Hills, NY 11375
+📞 718-520-8514
+🔗 https://www.instagram.com/p/DNi1DDFiMVK/
+⭐ Signature Items:
+• Sundaes with Homemade Marshmallow Sauce: Dripping with house-made marshmallow sauce, a customer favorite
+• Coffee Ice Cream: Classic flavor made in-house
+• Root Beer Float: Traditional soda fountain favorite</description>
+      <Point>
+        <coordinates>-73.8473415,40.7099985,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Old Sport Food by Uncle Hui Hui (Forest Hills - Primary)</name>
+      <description>Old Sport Food by Uncle Hui Hui - Forest Hills (Primary)
+📍 67-03 Austin St
+📞 (929) 296-0009
+🔗 https://www.instagram.com/p/DOpB5ABD2Ds/
+⭐ Signature Items:
+• Lanzhou Beef Noodle Soup: $11.99-$13.99 (Traditional hand-pulled noodles in beef broth)
+• Braised Beef Noodle Soup: $11.99-$13.99 (Spicy version with tender braised beef)
+• Da Pan Ji (大盤雞) &quot;Big Plate Chicken&quot;: Small $14.99 / Large $25.99 (Xinjiang-style chicken with potatoes)
+🔥 Popular Items:
+• Pickled Cabbage Beef Noodle Soup: $11.99-$13.99
+• Lamb Pilaf: $14.99 (Uyghur-style rice dish)
+• Uighur Ramen: $17.99</description>
+      <Point>
+        <coordinates>-73.8554007,40.7241516,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Old Sport Food by Uncle Hui Hui (Tangy Noodle (Chelsea))</name>
+      <description>Old Sport Food by Uncle Hui Hui - Tangy Noodle (Chelsea)
+📍 98 8th Avenue, W 15th St, New York, NY 10011
+📞 (929) 296-0009
+🔗 https://www.instagram.com/p/DOpB5ABD2Ds/
+⭐ Signature Items:
+• Lanzhou Beef Noodle Soup: $11.99-$13.99 (Traditional hand-pulled noodles in beef broth)
+• Braised Beef Noodle Soup: $11.99-$13.99 (Spicy version with tender braised beef)
+• Da Pan Ji (大盤雞) &quot;Big Plate Chicken&quot;: Small $14.99 / Large $25.99 (Xinjiang-style chicken with potatoes)
+🔥 Popular Items:
+• Pickled Cabbage Beef Noodle Soup: $11.99-$13.99
+• Lamb Pilaf: $14.99 (Uyghur-style rice dish)
+• Uighur Ramen: $17.99</description>
+      <Point>
+        <coordinates>-74.0018561,40.7401949,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Old Sport Food by Uncle Hui Hui (Beef Up Noodle (Midtown))</name>
+      <description>Old Sport Food by Uncle Hui Hui - Beef Up Noodle (Midtown)
+📍 352 3rd Ave, New York, NY 10010
+📞 (929) 296-0009
+🔗 https://www.instagram.com/p/DOpB5ABD2Ds/
+⭐ Signature Items:
+• Lanzhou Beef Noodle Soup: $11.99-$13.99 (Traditional hand-pulled noodles in beef broth)
+• Braised Beef Noodle Soup: $11.99-$13.99 (Spicy version with tender braised beef)
+• Da Pan Ji (大盤雞) &quot;Big Plate Chicken&quot;: Small $14.99 / Large $25.99 (Xinjiang-style chicken with potatoes)
+🔥 Popular Items:
+• Pickled Cabbage Beef Noodle Soup: $11.99-$13.99
+• Lamb Pilaf: $14.99 (Uyghur-style rice dish)
+• Uighur Ramen: $17.99</description>
+      <Point>
+        <coordinates>-73.982008,40.7405645,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Chubby Skewers (Garment District - Primary)</name>
+      <description>Chubby Skewers - Garment District (Primary)
+📍 252 W 37th St, New York, NY 10018
+📞 (646) 624-8506
+🔗 https://www.instagram.com/p/DN3MNRi3MIi/
+⭐ Signature Items:
+• Premium Wagyu Cuts: $1.20 per skewer (various cuts from wagyu cattle)
+• Abalone Skewers: $1.20 per skewer (premium seafood option)
+• Marinated Beef Shank: $1.20 per skewer (classic Dongbei favorite)</description>
+      <Point>
+        <coordinates>-73.9914272,40.753586,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Reyes (Gowanus - Primary)</name>
+      <description>Reyes - Gowanus (Primary)
+📍 532 4th Ave
+📞 +1 (718) 788-5190
+🔗 https://www.instagram.com/p/DChPyqtJIFK/
+⭐ Signature Items:
+• Street Tacos: Authentic Mexican-style tacos with various fillings
+• Carnitas: Traditional slow-cooked pork preparation
+• Carne Asada: Grilled marinated beef
+🔥 Popular Items:
+• Quesadillas: Made fresh with quality cheeses
+• Burritos: Generous portions with traditional fillings
+• Guacamole: Fresh, made-to-order preparation</description>
+      <Point>
+        <coordinates>-73.9916163,40.6673028,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Naked Dog (Greenpoint, Brooklyn - Primary)</name>
+      <description>Naked Dog - Greenpoint, Brooklyn (Primary)
+📍 47 Java St
+📞 [Phone Number TBD]
+🔗 https://www.instagram.com/nakeddogbk
+⭐ Signature Items:
+• Fresh Pasta: All pasta made in-house daily using traditional techniques
+• Short Rib Ravioli: Highly popular dish with tender meat filling
+• Agnolotti: Traditional Piemontese stuffed pasta</description>
+      <Point>
+        <coordinates>-73.9593693,40.7313073,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Taqueria El Chato (Greenpoint - Primary)</name>
+      <description>Taqueria El Chato - Greenpoint (Primary)
+📍 620 Manhattan Avenue
+📞 Not publicly listed
+🔗 https://www.instagram.com/p/DRStAvXEkEt/
+⭐ Signature Items:
+• Trompo Taco (Trompo Al Pastor): The star of the show featuring a vertical spit layered with pork loin and thinly sliced flank steak, cut fresh and topped with cilantro, onions, and salsa verde or roja. Described as &quot;one of the best most affordable bites in the city&quot;
+• Carne Asada Taco: Grilled beef taco on fresh handmade tortilla
+• Suadero Taco: Similar to brisket, slow-cooked and tender</description>
+      <Point>
+        <coordinates>-73.9504321,40.7236105,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Butter Smashburgers (New York City - Primary)</name>
+      <description>Butter Smashburgers - New York City (Primary)
+📍 106 MacDougal St, New York, NY 10012
+📞 (917) 475-1000
+🔗 https://www.instagram.com/p/DNLjCbfsSp-/
+⭐ Signature Items:
+• Butter Smash Burger: Classic smash-style burger with crispy edges, starting at $5
+• House Smash: Signature burger with premium toppings
+• Truffle Burger: Smashburger with truffle accents
+🔥 Popular Items:
+• Fried Chicken Sandwich: Buttermilk fried chicken on buttered potato bun
+• Veggie Smash: Made with Impossible patty, American cheese, and caramelized onions (ask for double!)
+• Truffle Fries: Hand-cut, golden brown fries tossed in rich truffle oil with sea salt</description>
+      <Point>
+        <coordinates>-74.0007285,40.7293924,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Butter Smashburgers (East Village)</name>
+      <description>Butter Smashburgers - East Village
+📍 17 St Marks Place, New York, NY 10003
+📞 (917) 475-1000
+🔗 https://www.instagram.com/p/DNLjCbfsSp-/
+⭐ Signature Items:
+• Butter Smash Burger: Classic smash-style burger with crispy edges, starting at $5
+• House Smash: Signature burger with premium toppings
+• Truffle Burger: Smashburger with truffle accents
+🔥 Popular Items:
+• Fried Chicken Sandwich: Buttermilk fried chicken on buttered potato bun
+• Veggie Smash: Made with Impossible patty, American cheese, and caramelized onions (ask for double!)
+• Truffle Fries: Hand-cut, golden brown fries tossed in rich truffle oil with sea salt</description>
+      <Point>
+        <coordinates>-73.9887483,40.7293221,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Color World (Harlem - Primary)</name>
+      <description>Color World - Harlem (Primary)
+📍 305 E 116th St (at 2nd Avenue)
+📞 (646) 956-6780
+🔗 https://www.instagram.com/p/C1zVlPvgx2f/
+⭐ Signature Items:
+• Jerk Chicken: $5 (chicken only)
+• Jerk Chicken Combo: $8 (includes rice and peas, and a drink)
+• Jerk Pork: Available on select days</description>
+      <Point>
+        <coordinates>-73.9372851,40.7969638,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Deli Boyz (Harlem - Primary)</name>
+      <description>Deli Boyz - Harlem (Primary)
+📍 2275 Adam Clayton Powell Jr Blvd
+📞 +1 (646) 692-3071
+⭐ Signature Items:
+• Signature Lamb with Mustard &amp; House Seasoning: The viral star dish
+• Ribeye Steak over Jollof Rice with Sweet Peas: &quot;Incredible&quot; per reviewers
+• Lamb Suya: West African spiced grilled lamb
+🔥 Popular Items:
+• Jollof Rice: West African spiced rice dish, available with lamb or chicken
+• Lamb Spaghetti: Pasta with lamb in African-inspired sauce
+• Fried Honey Salmon Bites: Sweet and savory seafood option</description>
+      <Point>
+        <coordinates>-73.9440217,40.8144245,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Deli Boyz (Bronx)</name>
+      <description>Deli Boyz - Bronx
+📍 288 E Burnside Ave, Bronx, NY 10457
+📞 +1 (646) 692-3071
+⭐ Signature Items:
+• Signature Lamb with Mustard &amp; House Seasoning: The viral star dish
+• Ribeye Steak over Jollof Rice with Sweet Peas: &quot;Incredible&quot; per reviewers
+• Lamb Suya: West African spiced grilled lamb
+🔥 Popular Items:
+• Jollof Rice: West African spiced rice dish, available with lamb or chicken
+• Lamb Spaghetti: Pasta with lamb in African-inspired sauce
+• Fried Honey Salmon Bites: Sweet and savory seafood option</description>
+      <Point>
+        <coordinates>-73.9017263,40.8507467,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>King Barka (Harlem - Primary)</name>
+      <description>King Barka - Harlem (Primary)
+📍 2733 Frederick Douglass Blvd
+📞 +1 929-600-5199
+🔗 https://www.instagram.com/p/DPttjkKkS2d/
+⭐ Signature Items:
+• $6 Plate Special: Choice of stew chicken, jerk chicken, fried chicken, or curry chicken with rice and cabbage, plus free soda (available 24/7, not just lunch)
+• Oxtail: Tender, fall-off-the-bone oxtail ($20-23)
+• Jerk Chicken: Authentic Jamaican jerk with flavorful spice ($6-10 depending on size)
+🔥 Popular Items:
+• Brown Stew Chicken: $10.00
+• Curry Chicken: $10.00
+• Curry Goat: $12.00</description>
+      <Point>
+        <coordinates>-73.9418682,40.8233749,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hyderabadi Zaiqa (Hell's Kitchen - Primary)</name>
+      <description>Hyderabadi Zaiqa - Hell's Kitchen (Primary)
+📍 366 W 52nd St
+📞 (646) 952-0066
+🔗 https://www.instagram.com/p/DJvWBibsY8U
+⭐ Signature Items:
+• Mutton Dum Biryani: Traditional Hyderabadi-style biryani served with yogurt sauce
+• Goat Fry Biryani: Served on silver tray, piled high with rice and tender bone-in goat meat
+• Gongura Chicken Biryani: Unique biryani with fragrant hibiscus leaves
+🔥 Popular Items:
+• 14 Different Biryani Varieties: The restaurant's specialty and main draw
+• Samosas: Flaky, golden-brown pyramids filled with potatoes, peas, and spices
+• Chicken in Green Gravy: Noted by diners as particularly impressive</description>
+      <Point>
+        <coordinates>-73.9876442,40.7643605,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Pasta Eater (Hell's Kitchen - Primary)</name>
+      <description>Pasta Eater - Hell's Kitchen (Primary)
+📍 744 9th Ave, New York, NY 10019
+📞 (212) 837-1169
+🔗 https://www.instagram.com/p/DP33yurjkMy/
+⭐ Signature Items:
+• Cheese Wheel Pasta: Pasta tossed tableside in a cheese wheel, signature preparation method
+• Carbonara in Cheese Wheel: Classic carbonara finished in the iconic cheese wheel
+• Fresh Homemade Pasta: Made daily, vegan and gluten-free options available</description>
+      <Point>
+        <coordinates>-73.9885471,40.7635178,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Pasta Eater (Union Square (Original Location))</name>
+      <description>Pasta Eater - Union Square (Original Location)
+📍 9 East 17th Street, New York, NY 10003
+📞 (212) 837-1169
+🔗 https://www.instagram.com/p/DP33yurjkMy/
+⭐ Signature Items:
+• Cheese Wheel Pasta: Pasta tossed tableside in a cheese wheel, signature preparation method
+• Carbonara in Cheese Wheel: Classic carbonara finished in the iconic cheese wheel
+• Fresh Homemade Pasta: Made daily, vegan and gluten-free options available</description>
+      <Point>
+        <coordinates>-73.9912816,40.7377245,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Rudy's Bar &amp; Grill (Hell's Kitchen - Primary)</name>
+      <description>Rudy's Bar &amp; Grill - Hell's Kitchen (Primary)
+📍 627 9th Avenue, New York, NY 10036
+📞 (646) 707-0890
+🔗 https://www.instagram.com/p/DSn7jgWAfWq/
+⭐ Signature Items:
+• Free Hot Dogs: Complimentary Hebrew National hot dogs with any drink purchase (the famous &quot;free glizzy&quot;)
+• Cheap Beer: Some of the most affordable beer prices in Manhattan</description>
+      <Point>
+        <coordinates>-73.9916265,40.7599793,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Yingtao (Hell's Kitchen - Primary)</name>
+      <description>Yingtao - Hell's Kitchen (Primary)
+📍 805 9th Ave, New York, NY 10019
+📞 (845) 236-6577
+🔗 https://www.instagram.com/p/DHcBlMuvWox/
+⭐ Signature Items:
+• Four-course prix fixe: $90
+• Eight-course tasting menu: $165</description>
+      <Point>
+        <coordinates>-73.9875071,40.7656289,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Fuska House (Jackson Heights - Primary)</name>
+      <description>Fuska House - Jackson Heights (Primary)
+📍 73-01 37th Avenue
+📞 Not specified
+🔗 https://www.instagram.com/p/DIg9pO-RO0q/
+⭐ Signature Items:
+• Fuska/Fuchka: Traditional Bengali version of pani puri with potato fillings, chaat masala, tamarind chutney, and onions
+• Doi Fuska: Yogurt-based fuska variation
+• Spicy Fuchka: Heat-enhanced version</description>
+      <Point>
+        <coordinates>-73.876055,40.7506258,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Merit Kebab Palace (Jackson Heights - Primary)</name>
+      <description>Merit Kebab Palace - Jackson Heights (Primary)
+📍 37-67 74th Street
+📞 (718) 396-5827
+🔗 https://www.instagram.com/p/DIg9pO-RO0q/
+⭐ Signature Items:
+• Kebabs: Succulent grilled meat preparations in Bangladeshi style
+• Biryanis: Aromatic rice dishes with traditional spice blends
+• Traditional Sweets: Authentic Bengali and Himalayan desserts</description>
+      <Point>
+        <coordinates>-73.8926249,40.7537672,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Paladar Latin Kitchen (King of Prussia - Primary)</name>
+      <description>Paladar Latin Kitchen - King of Prussia (Primary)
+📍 250 Main St, King of Prussia, PA 19406, USA
+📞 (484) 965-9779
+🔗 https://philly.eater.com/maps/best-affordable-food-restaurants-philadelphia
+⭐ Signature Items:
+• Rum-Glazed Cuban Pork: $24
+• Paladar Gulf Shrimp Bowl: $19
+• Lamb Burger with Adobo Fries: $19</description>
+      <Point>
+        <coordinates>-75.4048238,40.0836552,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>1915 Lanzhou Hand Pulled Noodles (NYC - Primary)</name>
+      <description>1915 Lanzhou Hand Pulled Noodles - NYC (Primary)
+📍 207 E 26th St, New York, NY 10016
+📞 (917) 828-7384
+🔗 https://www.instagram.com/p/DPylrx4Dt46/</description>
+      <Point>
+        <coordinates>-73.9812234,40.7406362,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>1915 Lanzhou Hand Pulled Noodles (Chinatown)</name>
+      <description>1915 Lanzhou Hand Pulled Noodles - Chinatown
+📍 76 Mott St, New York, NY 10013
+📞 (917) 828-7384
+🔗 https://www.instagram.com/p/DPylrx4Dt46/</description>
+      <Point>
+        <coordinates>-73.9978158,40.7164176,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Son Del North (New York - Primary)</name>
+      <description>Son Del North - New York (Primary)
+📍 177 Orchard St
+📞 (718) 521-2447
+🔗 https://www.theinfatuation.com/new-york/reviews/son-del-north
+⭐ Signature Items:
+• Carne Asada: The standout option with meaty flavor from salsa-roja covered steak and grilled onions. The Infatuation's top pick.
+• Camaron Ranchero: Shrimp in a heavy ranchero sauce with smoky, fire-roasted tomato flavor that stands out with the lighter protein
+• Pollo Asado: Chicken with salsa verde alongside strips of poblano peppers in a creamy sauce. Decent but flavors don't pop as much as the steak and shrimp
+🔥 Popular Items:
+• Frijol Con Queso: Bean and cheese burrito with a 20:80 bean-to-cheese ratio. Skip unless you want a giant cheese roll in a really good tortilla.
+• Cauliflower Chorizo Con Papas: Vegan option with peppery chorizo flavor, though cauliflower could be crispier
+• Totopos &amp; Salsa: Chips and salsa, featuring their roasted green chili sauce</description>
+      <Point>
+        <coordinates>-73.9885461,40.7218102,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Zest Sushi (Lower East Side - Primary)</name>
+      <description>Zest Sushi - Lower East Side (Primary)
+📍 249 Broome Street
+📞 (212) 677-3158
+🔗 https://www.instagram.com/p/DMgEZJ7vZSt/
+⭐ Signature Items:
+• Black Pepper Tuna: Sushi starter featuring seared tuna with black pepper
+• Salmon Dream: Popular sushi specialty
+• Wagyu Special Roll: $30 - Premium sushi roll featuring wagyu beef
+🔥 Popular Items:
+• Happy Hour Sushi Rolls: $6 each - Any sushi roll during happy hour
+• Spicy Tuna Roll: $9 (regular price)
+• Spicy Salmon Roll: $9 (regular price)</description>
+      <Point>
+        <coordinates>-73.989878,40.717926,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Smokehouse 91 (Mayfield Village - Primary)</name>
+      <description>Smokehouse 91 - Mayfield Village (Primary)
+📍 822 SOM Center Rd
+📞 (440) 565-7160
+🔗 https://www.instagram.com/p/DTgDOqAlSYI/?img_index=1</description>
+      <Point>
+        <coordinates>-81.4439,41.5595,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>USA Brooklyn Delicatessen (Midtown - Primary)</name>
+      <description>USA Brooklyn Delicatessen - Midtown (Primary)
+📍 200 West 57th Street (at 7th Avenue)
+📞 (212) 757-5757 / (212) 400-6048
+🔗 https://www.instagram.com/p/DRdM5O9jXKw/?img_index=1
+⭐ Signature Items:
+• Hand-Carved Pastrami Sandwich: Actual hand-carved pastrami &quot;stacked to appropriately inappropriate dimensions&quot; on rye bread with gold deli mustard. Praised by Kenji López-Alt as excellent
+• Matzoh Ball Soup: Described as excellent with &quot;shreds of clearly hand-pulled chicken, tender balls, and a nice fatty broth&quot; (availability may vary - check with restaurant)
+• Hot Corned Beef Sandwich: Classic corned beef on marble rye or potato bun</description>
+      <Point>
+        <coordinates>-73.9804189,40.7654312,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Monkey Bar (Midtown - Primary)</name>
+      <description>Monkey Bar - Midtown (Primary)
+📍 60 East 54th Street (Hotel Elysee by Library Hotel Collection)
+📞 [Phone Number]
+🔗 https://www.instagram.com/p/DJIBFlCBU0W/
+⭐ Signature Items:
+• Martinis: Perfectly chilled cocktails served in classic style
+• Classic Cocktails: Traditional cocktails prepared with old-school attention to detail
+• Fine Dining: Upscale cuisine matching the sophisticated atmosphere</description>
+      <Point>
+        <coordinates>-73.9728518,40.7598705,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Village Cafe (Brooklyn - Primary)</name>
+      <description>Village Cafe - Brooklyn (Primary)
+📍 1968 Coney Island Avenue
+📞 (718) 975-3373
+🔗 https://www.instagram.com/p/DISSvGMNdQX/
+⭐ Signature Items:
+• Kutaby with Greens: Traditional Azerbaijani stuffed flatbread with herbs
+• Shish Kebabs: Claimed to be the &quot;Best Shish-kebab in New York&quot; with authentic family recipes
+• House Made Potatoes: Specially prepared potato dish</description>
+      <Point>
+        <coordinates>-73.962335,40.6091906,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Dolly's Ices (Mill Basin - Primary)</name>
+      <description>Dolly's Ices - Mill Basin (Primary)
+📍 2317 Ralph Ave
+📞 (718) 763-2267
+🔗 https://www.instagram.com/p/DN6jpJckvta/
+⭐ Signature Items:
+• Italian Ices: Over 20 flavors including unique combinations like peanut butter cookie-dough and black cherry cheesecake
+• Key Lime Pie Ice: Highly recommended by customers
+• Spumoni: Traditional Italian frozen dessert</description>
+      <Point>
+        <coordinates>-73.916939,40.6213379,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Szechuan Mountain House (Multiple Locations - Primary)</name>
+      <description>Szechuan Mountain House - Multiple Locations (Primary)
+📍 23 St Marks Pl, New York, NY 10003
+📞 Not Available
+🔗 https://www.instagram.com/p/DHcBlMuvWox/
+⭐ Signature Items:
+• Authentic Sichuan Specialties: Traditional preparations with bold, spicy flavors
+• Ma Po Tofu: Classic Sichuan dish with characteristic numbing spice
+• Kung Pao Chicken: Traditional Sichuan preparation</description>
+      <Point>
+        <coordinates>-73.9885755,40.7291717,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>American Sardine Bar (Philadelphia - Primary)</name>
+      <description>American Sardine Bar - Philadelphia (Primary)
+📍 1800 Federal St, Philadelphia, PA 19146
+📞 (215) 334-2337
+🔗 https://www.instagram.com/p/DQ4jEm8kac3/?img_index=1
+⭐ Signature Items:
+• Hotdog: Creative takes like the &quot;Cinco Dog&quot; with ramp cream cheese
+• Creative Sandwiches: Gastropub-style offerings</description>
+      <Point>
+        <coordinates>-75.1737246,39.9366279,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Amy's Pastelillos (Philadelphia - Primary)</name>
+      <description>Amy's Pastelillos - Philadelphia (Primary)
+📍 2001 Memphis St, Philadelphia, PA 19125
+📞 N/A
+🔗 https://www.instagram.com/p/DQ4jEm8kac3/?img_index=1
+⭐ Signature Items:
+• Pastelillos: Puerto Rican turnovers in seven varieties</description>
+      <Point>
+        <coordinates>-75.1283848,39.9775049,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Angelo's Pizzeria (Philadelphia - Primary)</name>
+      <description>Angelo's Pizzeria - Philadelphia (Primary)
+📍 736 S 9th St, Philadelphia, PA 19147
+📞 (215) 922-0000
+🔗 https://www.instagram.com/p/DQ4jEm8kac3/?img_index=1
+⭐ Signature Items:
+• Roast Pork Sandwich: Weekend only special, considered one of Philly's best
+• Cheesesteak: Serious, hefty cheesesteaks built on long, warm, sesame-seed hoagies with Cooper Sharp cheese or &quot;long hot whiz&quot;</description>
+      <Point>
+        <coordinates>-75.1575784,39.940697,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bad Nina's Food Truck (Philadelphia - Primary)</name>
+      <description>Bad Nina's Food Truck - Philadelphia (Primary)
+📍 137 Berkley St, Philadelphia, PA 19144 (at Attic Brewing Co.)
+📞 N/A
+🔗 https://www.instagram.com/p/DQ4jEm8kac3/?img_index=1
+⭐ Signature Items:
+• Cheesesteak Dog: Topped with steak, fried onions, Cooper Sharp, and sport peppers</description>
+      <Point>
+        <coordinates>-75.1610619,40.0230728,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Billy Murphy's Irish Saloon (Philadelphia - Primary)</name>
+      <description>Billy Murphy's Irish Saloon - Philadelphia (Primary)
+📍 3333 Conrad St, Philadelphia, PA 19129
+📞 (215) 844-9683
+🔗 https://www.instagram.com/p/DQ4jEm8kac3/?img_index=1
+⭐ Signature Items:
+• Roast Pork Sandwich: Slow roasted pork with extra sharp provolone, sauteed spinach, and long hots. Described as &quot;mind-blowing&quot; by reviewers. Available as Eagles game day special (home games only).
+• Chicken Cutlet Sandwich: Also featured in game day special</description>
+      <Point>
+        <coordinates>-75.1876513,40.0107639,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Brazas BBQ Chicken (Philadelphia - Primary)</name>
+      <description>Brazas BBQ Chicken - Philadelphia (Primary)
+📍 326 South Street, Philadelphia, PA 19147
+📞 267-519-8551
+🔗 https://philly.eater.com/maps/best-affordable-food-restaurants-philadelphia
+⭐ Signature Items:
+• Rotisserie Chicken: Brined for 2 days, marinated in vinegar, chili, and garlic, spit-roasted</description>
+      <Point>
+        <coordinates>-75.1485354,39.9413056,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>CJ &amp; D's Trenton Tomato Pies (Philadelphia - Primary)</name>
+      <description>CJ &amp; D's Trenton Tomato Pies - Philadelphia (Primary)
+📍 1326 E Passyunk Ave, Philadelphia, PA 19147
+📞 N/A
+🔗 https://www.instagram.com/p/DQ4jEm8kac3/?img_index=1
+⭐ Signature Items:
+• Chocolate Chip Cookie: Described as &quot;the best chocolate chip cookie in Philly&quot;
+• Trenton Tomato Pie: House specialty pizza</description>
+      <Point>
+        <coordinates>-75.1602348,39.9327039,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Comfort and Floyd (Philadelphia - Primary)</name>
+      <description>Comfort and Floyd - Philadelphia (Primary)
+📍 1301 S 11th St, Philadelphia, PA 19147
+📞 (215) 465-2917
+🔗 https://www.instagram.com/p/DQ4jEm8kac3/?img_index=1
+⭐ Signature Items:
+• Fried Chicken, Cutlet and Waffles: Fried chicken cutlet served with Belgian waffles
+• Belgian Waffles: Dreamy waffles celebrated by reviewers</description>
+      <Point>
+        <coordinates>-75.1620256,39.9333442,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Fountain Porter (Philadelphia - Primary)</name>
+      <description>Fountain Porter - Philadelphia (Primary)
+📍 1601 S 10th St, Philadelphia, PA 19148, USA
+📞 (267) 324-3910
+🔗 https://philly.eater.com/maps/best-affordable-food-restaurants-philadelphia
+⭐ Signature Items:
+• The Burger: $6 (classic backyard-style, arguably the best in the city)</description>
+      <Point>
+        <coordinates>-75.161383,39.9294913,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Fringe Bar (Philadelphia - Primary)</name>
+      <description>Fringe Bar - Philadelphia (Primary)
+📍 140 North Christopher Columbus Boulevard, Philadelphia, PA 19106
+📞 (215) 375-7744
+🔗 https://philly.eater.com/maps/best-affordable-food-restaurants-philadelphia
+⭐ Signature Items:
+• Crab Linguine: Under $30
+• Fried Fish Platter: Under $30
+• Nashville Hot Chicken Sandwich: Available as large plate</description>
+      <Point>
+        <coordinates>-75.1404129,39.9533718,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Giorgio On Pine (Philadelphia - Primary)</name>
+      <description>Giorgio On Pine - Philadelphia (Primary)
+📍 1328 Pine St, Philadelphia, PA 19107, USA
+📞 (215) 545-6265
+🔗 https://philly.eater.com/maps/best-affordable-food-restaurants-philadelphia</description>
+      <Point>
+        <coordinates>-75.1641536,39.9452927,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Goldie (Philadelphia - Primary)</name>
+      <description>Goldie - Philadelphia (Primary)
+📍 3401 Walnut St, Philadelphia, PA 19104, USA
+📞 (267) 239-0777
+🔗 https://philly.eater.com/maps/best-affordable-food-restaurants-philadelphia
+⭐ Signature Items:
+• Falafel Sandwiches: Various options
+• Fries: House specialty
+• Tehina Shakes: $7.50 (dairy-free, multiple flavors)</description>
+      <Point>
+        <coordinates>-75.1928078,39.9531422,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Heavy Metal Sausage Co. (Philadelphia - Primary)</name>
+      <description>Heavy Metal Sausage Co. - Philadelphia (Primary)
+📍 1527 W Porter St, Philadelphia, PA 19145
+📞 N/A
+🔗 https://www.instagram.com/p/DQ4jEm8kac3/?img_index=1
+⭐ Signature Items:
+• Hotdog: The original item that started the business
+• Fresh Sausage: House-made varieties
+• Charcuterie/Salumi: House-cured meats</description>
+      <Point>
+        <coordinates>-75.1941749,39.9224082,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Honeysuckle (Philadelphia - Primary)</name>
+      <description>Honeysuckle - Philadelphia (Primary)
+📍 631 N Broad St, Philadelphia, PA 19123
+📞 (215) 307-3316
+🔗 https://www.instagram.com/p/DQ4jEm8kac3/?img_index=1
+⭐ Signature Items:
+• Fried Chicken Biscuit Sandwich: Deep-fried chicken thighs with &quot;hot Cheetos dust&quot; spice shimmer, sandwiched between a flaky biscuit (Sunday brunch)</description>
+      <Point>
+        <coordinates>-75.1605119,39.964561,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Horseman Wellness Club (Philadelphia - Primary)</name>
+      <description>Horseman Wellness Club - Philadelphia (Primary)
+📍 1801 S 4th St, Philadelphia, PA 19148
+📞 N/A
+🔗 https://www.instagram.com/p/DQ4jEm8kac3/?img_index=1
+⭐ Signature Items:
+• Breakfast Platter: Featured with steak, eggs, and sides
+• Grass-Fed Steak: By the pound ($35) or as a meal ($18)
+• Grass-Fed Cheesesteak Bowl: Healthy take on a Philly classic</description>
+      <Point>
+        <coordinates>-75.1524913,39.9257923,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Independence Beer Garden (Philadelphia - Primary)</name>
+      <description>Independence Beer Garden - Philadelphia (Primary)
+📍 100 South Independence Mall West, Philadelphia, PA 19106
+📞 (215) 922-7100
+🔗 https://philly.eater.com/maps/best-affordable-food-restaurants-philadelphia
+⭐ Signature Items:
+• Fried Pickles: $16 or under
+• Chips &amp; Guacamole: $16 or under
+• Chicken Wings: $16 or under</description>
+      <Point>
+        <coordinates>-75.1509,39.949115,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Jezabel's (Philadelphia - Primary)</name>
+      <description>Jezabel's - Philadelphia (Primary)
+📍 206-208 S 45th St, Philadelphia, PA 19104, USA
+📞 (215) 554-7380
+🔗 https://philly.eater.com/maps/best-affordable-food-restaurants-philadelphia
+⭐ Signature Items:
+• Empanada Variety Pack (4 empanadas): $22 (fillings include spicy vegan lentils, chicken with olives)
+• Breakfast Pastry Box: $38 (chef's selection of 8 pastries)
+• Vigilantes: Croissant-like pastries with custard and quince</description>
+      <Point>
+        <coordinates>-75.2118599,39.9549326,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kilimandjaro/Youma (Philadelphia - Primary)</name>
+      <description>Kilimandjaro/Youma - Philadelphia (Primary)
+📍 4519 Baltimore Ave, Philadelphia, PA 19143, USA
+📞 (215) 387-1970
+🔗 https://philly.eater.com/maps/best-affordable-food-restaurants-philadelphia
+⭐ Signature Items:
+• Whole Grilled Fish: Generous portions
+• Rotisserie Chicken: Generous portions
+• Lamb Chops: Generous portions</description>
+      <Point>
+        <coordinates>-75.2137619,39.9491578,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Libertee Grounds (Philadelphia - Primary)</name>
+      <description>Libertee Grounds - Philadelphia (Primary)
+📍 1600 W Girard Ave Suite C5, Philadelphia, PA 19130, USA
+📞 (267) 324-3487
+🔗 https://philly.eater.com/maps/best-affordable-food-restaurants-philadelphia
+⭐ Signature Items:
+• Masala Nachos: Under $20
+• Kimchi Grilled Cheese: Under $20
+• Korean Double Smashed Burger: Under $20</description>
+      <Point>
+        <coordinates>-75.1635676,39.9716394,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Lorenzo's Pizza, Steaks &amp; Hoagies (Manayunk - Primary)</name>
+      <description>Lorenzo's Pizza, Steaks &amp; Hoagies - Manayunk (Primary)
+📍 114 Levering St, Manayunk, PA 19127
+📞 (215) 487-4992
+🔗 https://www.instagram.com/p/DQ4jEm8kac3/?img_index=1
+⭐ Signature Items:
+• Cheesesteak: 14 oz. hand-cut Ribeye steak with Cooper Sharp American &amp; fried onions
+• Hoagies: Classic Philadelphia-style hoagies</description>
+      <Point>
+        <coordinates>-75.2244978,40.0264502,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Love &amp; Honey Fried Chicken (Philadelphia - Primary)</name>
+      <description>Love &amp; Honey Fried Chicken - Philadelphia (Primary)
+📍 1100 N Front St #103, Philadelphia, PA 19123, USA
+📞 (215) 789-7878
+🔗 https://philly.eater.com/maps/best-affordable-food-restaurants-philadelphia
+⭐ Signature Items:
+• OG Fried Chicken Sandwich: $13.75 (with spicy slaw and sweet pickles on butter-toasted brioche)
+• Nashville Hot Chicken Sandwich: $13.75 (buttermilk fried chicken breast drenched in hot chili oil, buttermilk ranch slaw, sweet pickles, buttermilk ranch drizzle, butter-toasted brioche bun)
+• Pimento Honey Jalapeno Sandwich: Seasonal/limited time offering</description>
+      <Point>
+        <coordinates>-75.1371274,39.9675148,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Love &amp; Honey Fried Chicken (Newtown, PA)</name>
+      <description>Love &amp; Honey Fried Chicken - Newtown, PA
+📍 2820 S Eagle Rd, Newtown, PA 18940
+📞 (215) 789-7878
+🔗 https://philly.eater.com/maps/best-affordable-food-restaurants-philadelphia
+⭐ Signature Items:
+• OG Fried Chicken Sandwich: $13.75 (with spicy slaw and sweet pickles on butter-toasted brioche)
+• Nashville Hot Chicken Sandwich: $13.75 (buttermilk fried chicken breast drenched in hot chili oil, buttermilk ranch slaw, sweet pickles, buttermilk ranch drizzle, butter-toasted brioche bun)
+• Pimento Honey Jalapeno Sandwich: Seasonal/limited time offering</description>
+      <Point>
+        <coordinates>-74.940819,40.2341333,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Love &amp; Honey Fried Chicken (Bryn Mawr, PA)</name>
+      <description>Love &amp; Honey Fried Chicken - Bryn Mawr, PA
+📍 1111 West Lancaster Ave, Bryn Mawr, PA 19010
+📞 (215) 789-7878
+🔗 https://philly.eater.com/maps/best-affordable-food-restaurants-philadelphia
+⭐ Signature Items:
+• OG Fried Chicken Sandwich: $13.75 (with spicy slaw and sweet pickles on butter-toasted brioche)
+• Nashville Hot Chicken Sandwich: $13.75 (buttermilk fried chicken breast drenched in hot chili oil, buttermilk ranch slaw, sweet pickles, buttermilk ranch drizzle, butter-toasted brioche bun)
+• Pimento Honey Jalapeno Sandwich: Seasonal/limited time offering</description>
+      <Point>
+        <coordinates>-75.3214035,40.0229865,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Manayunk Pizza (Philadelphia - Primary)</name>
+      <description>Manayunk Pizza - Philadelphia (Primary)
+📍 4222 Manayunk Ave, Philadelphia, PA 19128
+📞 (215) 482-5858
+🔗 https://www.instagram.com/p/DQ4jEm8kac3/?img_index=1
+⭐ Signature Items:
+• Cheesesteak: Fresh-cut ribeye steaks, highly praised by locals
+• Greek Pan Pizza: House specialty</description>
+      <Point>
+        <coordinates>-75.2162329,40.026869,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Meetinghouse (Philadelphia - Primary)</name>
+      <description>Meetinghouse - Philadelphia (Primary)
+📍 2331 E Cumberland St, Philadelphia, PA 19125
+📞 N/A
+🔗 https://www.instagram.com/p/DQ4jEm8kac3/?img_index=1
+⭐ Signature Items:
+• Cheesecake: House-made, highly praised dessert
+• Clams: Popular appetizer
+• Crab Dip: Customer favorite</description>
+      <Point>
+        <coordinates>-75.123004,39.9803832,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Murph's Bar (Philadelphia, PA - Primary)</name>
+      <description>Murph's Bar - Philadelphia, PA (Primary)
+📍 202 E Girard Ave, Philadelphia, PA 19125
+📞 (215) 425-1847
+🔗 https://www.instagram.com/p/DRszA0LjJP4/
+⭐ Signature Items:
+• Pasta dishes: Homemade-style Italian pasta from Chef Francisco
+• Rack of Lamb: 20oz rack, $36 (most expensive item on menu)
+• Meatballs: Popular item (can sell out)</description>
+      <Point>
+        <coordinates>-75.1334098,39.968945,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Nan Zhou Hand Drawn Noodle House (Philadelphia - Primary)</name>
+      <description>Nan Zhou Hand Drawn Noodle House - Philadelphia (Primary)
+📍 1022 Race St, Philadelphia, PA 19107, USA
+📞 (215) 923-1550
+🔗 https://philly.eater.com/maps/best-affordable-food-restaurants-philadelphia
+⭐ Signature Items:
+• Hand-Pulled Noodles: Various preparations
+• Hand-Shaved Noodles: Various preparations
+• Noodle Soups: Multiple combinations available</description>
+      <Point>
+        <coordinates>-75.1568023,39.9553946,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Oscar's Tavern (Philadelphia - Primary)</name>
+      <description>Oscar's Tavern - Philadelphia (Primary)
+📍 1524 Sansom St, Philadelphia, PA 19102
+📞 (215) 972-9938
+🔗 https://www.instagram.com/p/DT5WAskjUIM/
+⭐ Signature Items:
+• 23-Ounce Lager: The signature drink, only $3
+• Cheesesteak and a Half: Available after 4 PM; a clever middle ground for when one cheesesteak isn't enough but two is too many
+• Hoagies: Customers rave about them</description>
+      <Point>
+        <coordinates>-75.1668127,39.9502595,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Out West (Philadelphia - Primary)</name>
+      <description>Out West - Philadelphia (Primary)
+📍 5127 Walnut St, Philadelphia, PA 19139
+📞 N/A
+🔗 https://www.instagram.com/p/DQ4jEm8kac3/?img_index=1
+⭐ Signature Items:
+• Cinnamon Roll: &quot;Probably the best and most interesting cinnamon roll I've ever tasted&quot; - caramelized on the bottom, soft inside, nicely spiced (possibly with cardamom), topped with cream cheese frosting and pecans. Vegan option available.</description>
+      <Point>
+        <coordinates>-75.2243226,39.9569833,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Pearl's on the Corner (Philadelphia - Primary)</name>
+      <description>Pearl's on the Corner - Philadelphia (Primary)
+📍 1444 Frankford Ave, Philadelphia, PA 19125
+📞 N/A
+🔗 User provided (web search)
+⭐ Signature Items:
+• Pearl's Smash Burger: Cooper Sharpe, shredded lettuce, pickles, burger sauce - $10 single / $16 double
+• Warm Fudgey Brownie: Vanilla ice cream, smoked butterscotch - $12
+• Bucatini Cacio e Pepe: Parmesan, black pepper, butter - $16</description>
+      <Point>
+        <coordinates>-75.1344007,39.9725067,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Pub &amp; Kitchen (Philadelphia - Primary)</name>
+      <description>Pub &amp; Kitchen - Philadelphia (Primary)
+📍 1946 Lombard St, Philadelphia, PA 19146
+📞 215-545-0350
+🔗 User provided (web search)
+⭐ Signature Items:
+• P&amp;K Double Cheeseburger: Pat Lafrieda blend, cooper sharp, shredded lettuce, house pickles, pub sauce, snowflake roll - $21
+• Lobster Carbonara: Tarragon, lardons, spaghetti - $36
+• P&amp;K Cassoulet: Duck confit, braised pork, white beans - $36
+🔥 Popular Items:
+• Warm Brussels Sprout Salad: Miso mayo, pickled daikon, thai basil - $17
+• Housemade Pasta: Short rib ragu, burnt orange ricotta, lemon breadcrumb - $31
+• Beef Tartare: Housemade chips, preserved egg, black truffle aioli - $21</description>
+      <Point>
+        <coordinates>-75.1747533,39.9457205,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Punch Buggy Brewing Company (Philadelphia - Primary)</name>
+      <description>Punch Buggy Brewing Company - Philadelphia (Primary)
+📍 1445 N American St, Philadelphia, PA 19122
+📞 N/A
+🔗 User provided (web search)</description>
+      <Point>
+        <coordinates>-75.1397376,39.9736573,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Saad's Halal Restaurant (Philadelphia - Primary)</name>
+      <description>Saad's Halal Restaurant - Philadelphia (Primary)
+📍 4500 Walnut St, Philadelphia, PA 19139, USA
+📞 (215) 222-7223
+🔗 https://philly.eater.com/maps/best-affordable-food-restaurants-philadelphia
+⭐ Signature Items:
+• Shawarma Sandwich: $15-$25 range
+• Kebab Sandwich: $15-$25 range
+• Falafel Sandwich: $15-$25 range</description>
+      <Point>
+        <coordinates>-75.2116111,39.9554149,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Standard Tap (Philadelphia - Primary)</name>
+      <description>Standard Tap - Philadelphia (Primary)
+📍 901 N 2nd St, Philadelphia, PA 19123
+📞 215-238-0630
+🔗 https://www.instagram.com/p/DP6qOarDUjo/
+⭐ Signature Items:
+• Sunday Roast: Prime rib with fresh horseradish, beef jus &amp; horseradish cream, cauliflower gratin with gruyere &amp; parmesan, roasted carrots &amp; parsnips, Yorkshire pudding, green salad (Sundays 4pm-9pm)
+• Standard Burger: 7oz custom grind, sharp cheddar, red onion, lettuce, aioli, pretzel bun
+• Roast Pork Sandwich: Pork confit, roasted garlic spread, spinach, provolone, focaccia
+🔥 Popular Items:
+• Dressed Oysters: 4 east coast oysters with chive oil and smoked trout roe
+• Mussels: PEI mussels in white wine garlic broth with vegetables, baguette
+• Crab Dip: Lump crab, cheeses, Old Bay, sourdough toast</description>
+      <Point>
+        <coordinates>-75.1405473,39.964171,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Stargazy (Philadelphia - Primary)</name>
+      <description>Stargazy - Philadelphia (Primary)
+📍 1838 E Passyunk Ave, Philadelphia, PA 19148, USA
+📞 (215) 309-2761
+🔗 https://philly.eater.com/maps/best-affordable-food-restaurants-philadelphia
+⭐ Signature Items:
+• Beef and Onion Pie: Classic option
+• Daily Special Pies: Chef's rotating selections
+• Mashed Potatoes in Parsley Liquor: Must-order side</description>
+      <Point>
+        <coordinates>-75.167339,39.9267731,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Stockyard Sandwich Co. (Philadelphia - Primary)</name>
+      <description>Stockyard Sandwich Co. - Philadelphia (Primary)
+📍 1541 Spring Garden St, Philadelphia, PA 19130
+📞 (215) 977-9273
+🔗 https://www.instagram.com/p/DQ4jEm8kac3/?img_index=1
+⭐ Signature Items:
+• Hotdog: Featured as &quot;everything at Stockyard, but specifically the hotdog&quot;
+• Breakfast Sandwich: Best of Philly winner</description>
+      <Point>
+        <coordinates>-75.1637513,39.962882,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sunset Social (Philadelphia - Primary)</name>
+      <description>Sunset Social - Philadelphia (Primary)
+📍 129 S 30th St, Philadelphia, PA 19104
+📞 (215) 867-8067
+🔗 User provided (web search)
+⭐ Signature Items:
+• Donna's Homestyle Chicken Sandwich: Served with pickles, lettuce, and ranch
+• High-Quality Burgers: Signature menu item
+• Fresh Fries: House-cut fries
+🔥 Popular Items:
+• Chicken Nuggets: Family-friendly option
+• Hot Dogs: Classic rooftop fare
+• Veggie Burgers: Vegetarian option</description>
+      <Point>
+        <coordinates>-75.1837133,39.952754,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Two Robbers Fishtown (Philadelphia - Primary)</name>
+      <description>Two Robbers Fishtown - Philadelphia (Primary)
+📍 1221 Frankford Ave, Philadelphia, PA 19125
+📞 (215) 279-7574
+🔗 User provided (web search)
+⭐ Signature Items:
+• Smash Burger: Acclaimed as &quot;the best smashburger in Philly&quot;
+• Two Robbers Seltzers: House-made hard seltzers on tap
+• Craft Cocktails: Program set up by Brooklyn bartender Dan Greenbaum (ex-Attaboy) using Pennsylvania spirits and Two Robbers seltzers</description>
+      <Point>
+        <coordinates>-75.1343238,39.969388,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tortilleria Allison (Poughkeepsie, NY - Primary)</name>
+      <description>Tortilleria Allison - Poughkeepsie, NY (Primary)
+📍 296 Main St
+📞 (845) 366-8490
+🔗 https://www.instagram.com/reel/DP7HA_Ukhnp/?igsh=bzJlYnRzYnV5Y3lo
+⭐ Signature Items:
+• Fresh Corn Tortillas: Handmade daily from stone-ground corn masa using traditional nixtamalization process, 100% gluten-free
+• Memelitas: Thick-style tortillas made from stone-ground corn masa with black bean paste, string cheese, and choice of meat or eggs
+• Tamales: Traditional Oaxacan-style tamales</description>
+      <Point>
+        <coordinates>-73.927404,41.703494,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Moe's Pastrami &amp; Burger (Brooklyn - Primary)</name>
+      <description>Moe's Pastrami &amp; Burger - Brooklyn (Primary)
+📍 569 Flatbush Ave, Brooklyn, NY 11225
+📞 (929) 434-3850 / (646) 949-1717
+🔗 https://www.instagram.com/p/DSNd9q2DqB_/
+⭐ Signature Items:
+• Pastrami Sandwich (Small): $12.99. Described as a &quot;solid deal&quot; and competitive with NYC's best at a fraction of the price
+• Brisket: &quot;Excellent&quot; according to regulars
+• Pastrami, Egg, and Cheese: Recommended as &quot;best way to start a NY day&quot;</description>
+      <Point>
+        <coordinates>-73.9604099,40.6598139,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Defonte's Sandwich Shop (Red Hook - Primary)</name>
+      <description>Defonte's Sandwich Shop - Red Hook (Primary)
+📍 379 Columbia Street
+📞 (718) 625-8052
+🔗 https://www.instagram.com/p/DQ4NuXODTh0/
+⭐ Signature Items:
+• The Nicky Special: Sesame-studded Italian bread stuffed with capocollo, salami, ham, fried eggplant, provolone, marinated mushrooms, lettuce, tomato, and &quot;hot salad&quot; (the most popular sandwich)
+• Large Italian Heroes: Ham, provolone, salami, roast beef, mozzarella, and fried eggplant
+• Classic Ham and Cheese Hero: Simple ham and cheese with lettuce, tomato, and olive oil (no mayo) - believed to be the style of the first Defonte's sandwich</description>
+      <Point>
+        <coordinates>-74.0054436,40.6789829,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Mt Everest (Ridgewood - Primary)</name>
+      <description>Mt Everest - Ridgewood (Primary)
+📍 5609 Myrtle Ave
+📞 +1 (718) 386-1666
+🔗 https://www.instagram.com/p/DChPyqtJIFK/
+⭐ Signature Items:
+• Chicken Momos: Traditional Nepalese steamed dumplings
+• Vegetable Momos: Steamed dumplings with spiced vegetable filling
+• Goat Curry: Traditional Nepalese preparation with aromatic spices
+🔥 Popular Items:
+• Dal Bhat: Traditional Nepalese rice and lentil meal
+• Chicken Chow Mein: Himalayan-style noodles
+• Tandoori dishes: Clay oven preparations</description>
+      <Point>
+        <coordinates>-73.8943969,40.7008048,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Dar Poeta (Rome - Primary)</name>
+      <description>Dar Poeta - Rome (Primary)
+📍 Vicolo del Bologna 45/46
+📞 +39 06 5880516
+🔗 https://www.instagram.com/p/DFcx5ItoGSg/
+⭐ Signature Items:
+• Patataccia Pizza: Unique combination with potatoes, creamed zucchini, and speck
+• Classic Margherita: Traditional pizza with their signature dough
+• Dessert Calzone: Filled with fresh ricotta and Nutella
+🔥 Popular Items:
+• Roman-style pizzas: Unique to Dar Poeta's preparation method
+• Calzones: Stuffed with spicy sausage and mozzarella
+• Creative pizza combinations: Seasonal and innovative toppings</description>
+      <Point>
+        <coordinates>12.4685635,41.8914177,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>La Matriciana dal 1870 (Rome - Primary)</name>
+      <description>La Matriciana dal 1870 - Rome (Primary)
+📍 Via del Viminale 40
+📞 +39 06 488 1775
+🔗 https://www.instagram.com/p/DFcx5ItoGSg/
+⭐ Signature Items:
+• Bucatini alla Matriciana: The restaurant's namesake dish, expertly prepared
+• Rigatoni alla Carbonara: Classic Roman pasta preparation
+• Spaghetti alle Vongole: Fresh clams with perfectly cooked pasta
+🔥 Popular Items:
+• Truffle pasta dishes: Seasonal preparations featuring fresh truffles
+• Traditional Roman secondi: Classic meat and fish preparations
+• Curated wine selection: Expertly chosen by sommelier owners</description>
+      <Point>
+        <coordinates>12.4959524,41.9002425,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Le Mani in Pasta (Rome - Primary)</name>
+      <description>Le Mani in Pasta - Rome (Primary)
+📍 Via dei Genovesi 37
+📞 +39 06 581 6017
+🔗 https://www.instagram.com/p/DFcx5ItoGSg/
+⭐ Signature Items:
+• Gnocchetti Sardi: With fava beans, cherry tomatoes, shrimp, truffles, and asparagus
+• Linguine with Lobster: Fresh seafood preparation
+• Seabass Carpaccio with Truffles: Elegant appetizer
+🔥 Popular Items:
+• Classic Roman pastas: Cacio e pepe, carbonara, and other traditional preparations
+• Fettuccine with mushrooms and truffles: Seasonal specialty
+• Grilled seafood platter: Fresh Mediterranean preparations</description>
+      <Point>
+        <coordinates>12.4771406,41.887722,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Carne Mare (Seaport District - Primary)</name>
+      <description>Carne Mare - Seaport District (Primary)
+📍 89 South Street, Pier 17, New York, NY 10038
+📞 (212) 428-0606
+🔗 https://www.instagram.com/p/DSvAbW7AaoB
+⭐ Signature Items:
+• Prime-Aged Beef: Premium steaks including wagyu and prime rib
+• Fresh Seafood: Daily selection of fine seafood
+• Housemade Pastas: Italian pasta dishes made in-house</description>
+      <Point>
+        <coordinates>-74.0024556,40.7051819,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bar Behind Café Select (Seasonal Speakeasy) (SoHo - Primary)</name>
+      <description>Bar Behind Café Select (Seasonal Speakeasy) - SoHo (Primary)
+📍 212 Lafayette St (behind Café Select's kitchen)
+📞 (Contact through Café Select)
+🔗 https://www.instagram.com/p/DP03KdGDnYo/
+⭐ Signature Items:
+• Fondue: Made with secret special cheese mixture, served with cubed filone bread, vegetables, potatoes, cornichons, pickled onion, and fruit ($29 per person, 2 person minimum)
+• Raclette: Served with potatoes, vegetables, pickled onions and cornichons
+• Assorted Cured Meats: Side option ($16)</description>
+      <Point>
+        <coordinates>-73.9979179,40.7218096,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hamburger America (SoHo - Primary)</name>
+      <description>Hamburger America - SoHo (Primary)
+📍 51 MacDougal Street (corner of West Houston)
+📞 (646) 707-0497
+🔗 https://www.instagram.com/reel/DTK_BL2DtVu/
+⭐ Signature Items:
+• George Motz's Fried Onion Burger: Oklahoma-style burger smashed thin with onions cooked right into the patty for crisp edges and pure beef-forward flavor. Single $7.75 / Double $12.50
+• The Classic Smash Burger: With mustard, diced onion, dill pickle, and American cheese. Single $7.75 / Double $12.50
+• The Chester: Part burger, part grilled cheese, all American</description>
+      <Point>
+        <coordinates>-74.0024583,40.7279642,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Fanelli Cafe (SoHo - Primary)</name>
+      <description>Fanelli Cafe - SoHo (Primary)
+📍 Prince Street
+📞 [Phone Number]
+🔗 https://www.instagram.com/p/DJIBFlCBU0W/
+⭐ Signature Items:
+• Wine Selection: Classic wine offerings in a historic setting
+• Traditional Bar Food: Classic tavern fare
+• Margherita Pizza: Notable pizza mentioned by patrons</description>
+      <Point>
+        <coordinates>-73.9987503,40.7246074,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Caravan Restaurant &amp; Coffee (South Beach, Staten Island - Primary)</name>
+      <description>Caravan Restaurant &amp; Coffee - South Beach, Staten Island (Primary)
+📍 317 Sand Lane
+📞 917-397-8435
+🔗 https://www.instagram.com/p/DS38qC0DuNY/
+⭐ Signature Items:
+• Uzbek Plov: Hearty rice dish with meat, vegetables, and aromatic spices; considered a staple of Central Asian cuisine. Customers say it's &quot;impossible to try everything on menu in one visit - definitely have to try their plov&quot;
+• Kuk Su (Guksu): Korean noodle soup made according to a unique recipe preserved by Koreans from Uzbekistan and Kazakhstan for centuries. Exclusive to this location on Staten Island
+• Manty: Traditional Central Asian dumplings with perfectly balanced spices. Reviewers praise that &quot;stuffing was chopped, as it's supposed to be (not ground minced), and all spices were so perfectly balanced&quot;
+🔥 Popular Items:
+• Kebabs &amp; Shish Kebobs: Sizzling kebabs with authentic Central Asian flavors and perfectly balanced spices
+• Sushi Creations: Exquisite sushi offerings including Tuna Tartare and various sushi bar selections
+• Salads: Central Asian and Korean-influenced salads</description>
+      <Point>
+        <coordinates>-74.0677679,40.5922472,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Gottlieb's Restaurant (South Williamsburg - Primary)</name>
+      <description>Gottlieb's Restaurant - South Williamsburg (Primary)
+📍 352 Roebling St
+📞 (718) 384-6612
+🔗 https://www.instagram.com/p/DTjNTE5EarD/
+⭐ Signature Items:
+• Cholent (Hungarian &quot;Sólet&quot;): The signature Sabbath stew dating to 12th-century France. A filling and gelatinous stew of flanken-cut short ribs, potatoes, and kidney beans, cooked on low heat overnight. Made from beans, barley, eggs, and beef.
+• Kugel: Sweet noodle or potato pudding, available in five varieties. &quot;You can't beat their kugel&quot; per reviewers.
+• Pastrami Sandwich: Classic Jewish deli pastrami on club, rye, or whole wheat bread
+🔥 Popular Items:
+• Goulash: Traditional Hungarian preparation
+• Stuffed Cabbage: Eastern European classic
+• Matzo Ball Soup: Homemade on premises daily</description>
+      <Point>
+        <coordinates>-73.9613282,40.707707,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Enoteca Maria (Staten Island - Primary)</name>
+      <description>Enoteca Maria - Staten Island (Primary)
+📍 27 Hyatt Street
+📞 (718) 447-2777
+🔗 https://nonnasoftheworld.com/info-directions/
+⭐ Signature Items:
+• Fixed Italian Menu: Traditional dishes from various regions of Italy prepared by rotating Italian grandmothers
+• International Grandmother Specials: Authentic cultural dishes from whichever international nonnas are cooking that evening
+• Family Recipe Dishes: Each grandmother prepares recipes passed down through generations</description>
+      <Point>
+        <coordinates>-74.077292,40.6419968,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>The Mark Hot Dog Cart (Upper East Side - Primary)</name>
+      <description>The Mark Hot Dog Cart - Upper East Side (Primary)
+📍 25 E 77th St, New York, NY 10075
+📞 (212) 744-4300 (The Mark Hotel)
+🔗 https://www.instagram.com/p/DN3MNRi3MIi/
+⭐ Signature Items:
+• Gourmet Hot Dogs: $6.00 (organic chicken and grass-fed beef from Schaller &amp; Weber)
+• &quot;The Bomb&quot;: $6.00 (hot dog with all six condiments - three sauces and three vegetables)
+• Hot Dog with Kimchi Relish: $6.00 (housemade kimchi relish and house pickles)</description>
+      <Point>
+        <coordinates>-73.9632594,40.7753299,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Lexington Candy Shop (Upper East Side - Primary)</name>
+      <description>Lexington Candy Shop - Upper East Side (Primary)
+📍 1226 Lexington Avenue
+📞 [Phone Number]
+🔗 https://www.instagram.com/p/DJIBFlCBU0W/
+⭐ Signature Items:
+• Coca-Cola Float: Made the traditional way since 1925, with syrup and soda mixed behind the counter for an authentic nostalgic taste
+• Classic Egg Creams: Traditional New York egg cream (no eggs, no cream)
+• Vintage Sodas: Traditional soda fountain beverages prepared with classic methods</description>
+      <Point>
+        <coordinates>-73.9572158,40.7775102,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Smashy Burger (Smashy Club) (Union Square - Primary)</name>
+      <description>Smashy Burger (Smashy Club) - Union Square (Primary)
+📍 42 Union Square East, New York, NY 10003
+📞 (475) 341-6075
+🔗 https://www.instagram.com/p/DN3MNRi3MIi/
+⭐ Signature Items:
+• Single Cheeseburger: $4.99-$6.99 (pickles, onions, mustard, ketchup)
+• Double Cheeseburger: $6.99-$8.49 (double patty with same toppings)
+• Double Classic Cheese Burger: $8.49</description>
+      <Point>
+        <coordinates>-73.98901,40.7361989,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tsurotontan Udon Noodle Brasserie (New York - Primary)</name>
+      <description>Tsurotontan Udon Noodle Brasserie - New York (Primary)
+📍 21 E 16th St, New York, NY 10003
+📞 (212) 989-1000
+🔗 https://www.instagram.com/p/DQwcJ7JkVDK/
+⭐ Signature Items:
+• US Wagyu Truffle Dashi Udon: Premium udon with wagyu beef and truffle-infused broth. The truffle flavor is prominent and delicious
+• Yaki Udon: Stir-fried udon noodles</description>
+      <Point>
+        <coordinates>-73.9910723,40.7367779,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Old Town Bar (Union Square - Primary)</name>
+      <description>Old Town Bar - Union Square (Primary)
+📍 East 18th Street
+📞 [Phone Number]
+🔗 https://www.instagram.com/p/DJIBFlCBU0W/
+⭐ Signature Items:
+• Whisky Selection: Classic whisky offerings in historic setting
+• Scotch Selection: Traditional scotch served in authentic atmosphere
+• Classic Cocktails: Traditional bar drinks served in period setting</description>
+      <Point>
+        <coordinates>-73.9892094,40.7375383,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Lungi (Upper East Side - Primary)</name>
+      <description>Lungi - Upper East Side (Primary)
+📍 1136 1st Avenue (between 62nd &amp; 63rd Street)
+📞 (212) 256-0073
+🔗 https://www.instagram.com/p/DSJHmfRDwT-/
+⭐ Signature Items:
+• Deafman Shop Tawa Fish Fry: Pan-fried spicy kingfish served on a banana leaf with fried makrut lime leaves. Holds special meaning for Chef Vincent as a childhood memory from Kanyakumari: &quot;In Kanyakumari, there is a shop, a deafman's shop. So, he sells only fried fish. So, we used to stand on the line when we were kids&quot;
+• Short Rib Black Curry: Deeply spiced, unflinchingly bold, and impossibly tender
+• Mutton Roll: Golden croquette-like parcel that is crisp on the outside, yielding to spiced, finely textured meat within
+🔥 Popular Items:
+• Hoppers: Sri Lankan bowl-shaped pancakes perfect for dipping into kari (curry) with chutneys and sambols. The shrimp curry pairs exceptionally well with hoppers
+• Dosas: South Indian crepes with various fillings, prepared by Chef Thirunavukkarasu who specializes in the dosa experience
+• Ambur Biriyani: Highly praised aromatic rice dish</description>
+      <Point>
+        <coordinates>-73.9601148,40.7616434,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Pastrami Queen (New York City - Primary)</name>
+      <description>Pastrami Queen - New York City (Primary)
+📍 1125 Lexington Ave, New York, NY 10075
+📞 (212) 734-1500
+🔗 https://www.instagram.com/p/DR-Ka9wAN1C/
+⭐ Signature Items:
+• Smoked Pastrami on Rye: Anthony Bourdain's favorite, served with a bit of mustard and homemade pickles. Known for tender, perfectly seasoned meat
+• Hot Dogs: Claimed by some to be the best hot dog in NYC
+• Pastrami Sandwich: Approximately $30</description>
+      <Point>
+        <coordinates>-73.9591061,40.7743673,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Pastrami Queen (Upper West Side)</name>
+      <description>Pastrami Queen - Upper West Side
+📍 138 W 72nd St, New York, NY 10023
+📞 (212) 734-1500
+🔗 https://www.instagram.com/p/DR-Ka9wAN1C/
+⭐ Signature Items:
+• Smoked Pastrami on Rye: Anthony Bourdain's favorite, served with a bit of mustard and homemade pickles. Known for tender, perfectly seasoned meat
+• Hot Dogs: Claimed by some to be the best hot dog in NYC
+• Pastrami Sandwich: Approximately $30</description>
+      <Point>
+        <coordinates>-73.9803393,40.7777795,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Pastrami Queen (Midtown (31st &amp; 8th Ave))</name>
+      <description>Pastrami Queen - Midtown (31st &amp; 8th Ave)
+📍 421 8th Ave, New York, NY 10001
+📞 (212) 734-1500
+🔗 https://www.instagram.com/p/DR-Ka9wAN1C/
+⭐ Signature Items:
+• Smoked Pastrami on Rye: Anthony Bourdain's favorite, served with a bit of mustard and homemade pickles. Known for tender, perfectly seasoned meat
+• Hot Dogs: Claimed by some to be the best hot dog in NYC
+• Pastrami Sandwich: Approximately $30</description>
+      <Point>
+        <coordinates>-73.9958494,40.7515279,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kikoo Sushi (New York City - Primary)</name>
+      <description>Kikoo Sushi - New York City (Primary)
+📍 998 Columbus Ave, New York, NY 10025
+📞 (212) 533-2211
+🔗 https://www.instagram.com/p/DQF0D0yjnfw/</description>
+      <Point>
+        <coordinates>-73.9615545,40.8013869,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kikoo Sushi (East Village)</name>
+      <description>Kikoo Sushi - East Village
+📍 141 1st Ave, New York, NY 10003, (212) 533-3888
+📞 (212) 533-2211
+🔗 https://www.instagram.com/p/DQF0D0yjnfw/</description>
+      <Point>
+        <coordinates>-73.985341,40.7281102,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Vinegar Hill House (Brooklyn - Primary)</name>
+      <description>Vinegar Hill House - Brooklyn (Primary)
+📍 72 Hudson Avenue, Brooklyn, NY 11201
+📞 718-522-1018
+🔗 https://www.instagram.com/reels/DTi7XaFEnva/</description>
+      <Point>
+        <coordinates>-73.981299,40.7027589,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bartolo (New York City - Primary)</name>
+      <description>Bartolo - New York City (Primary)
+📍 310 West 4th Street, New York, NY 10014
+📞 Available via OpenTable reservations
+🔗 https://www.newyorker.com/culture/the-food-scene/the-old-school-spanish-restaurant-gets-the-respect-it-deserves
+⭐ Signature Items:
+• Fried Potatoes, Shrimp &amp; Eggs: Thick-cut fried potatoes, massive pink shrimp, three jiggly fried eggs served in a hubcap-size cazuela (terra-cotta vessel); arrives on a wave of garlic-scented air; server punctures yolks tableside and tosses together; listed as appetizer but serves 2-3 as a main
+• Suckling Pig: One roasted daily; can reserve entire animal two weeks ahead or order shoulder/leg portions à la minute; mild and unctuous, served with vinegary green salad and fries. Pig's head available upon request
+• Jamón Ibérico: Ruby shavings of Spanish ham, silky and fat-streaked, served with puffy pan soplao (cracker-like bread imported from Spain's Panadería Jesús, photogenically printed with Bartolo logo)
+🔥 Popular Items:
+• Ajo Blanco: Creamy chilled Spanish almond soup adorned with delicate honeydew sorbet
+• Torreznos con Almendras: Half-dozen Lego-size bricks of pork belly cooked to chicharrón crispiness, scattered with Marcona almonds; ideal bar snack with ginitonic
+• Ginitonic: Briny gin and tonic garnished with an entire preserved lemon</description>
+      <Point>
+        <coordinates>-74.0039713,40.7372563,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Laliko (West Village - Primary)</name>
+      <description>Laliko - West Village (Primary)
+📍 80 Carmine Street
+📞 +1 917-388-3166
+🔗 https://www.newyorker.com/culture/the-food-scene/a-georgian-restaurants-mother-of-all-dumplings
+⭐ Signature Items:
+• Mother Khinkali: An absurd, delightful, social-media-friendly mega-dumpling with the diameter and luminosity of a birthday-party balloon. A server presents an ornate silver dagger, pulls it from its curved sheath, and saws off the head to reveal a half-dozen standard-size dumplings nestled inside like &quot;tiny, steamy babies&quot; with freshly ground black pepper
+• Khinkali (standard): Excellent steamed soup dumplings, plump and floppy, with springy dough rolled to porcelain thinness and pleasingly pleated twisted tops. Available in sets of four with fillings of soft lamb or mild cheese
+• Khachapuri (Adjaruli): Open-faced boat of bread baked with an exorbitant amount of cheese, topped with egg yolk and butter, stirred together into a dairy-aisle gestalt
+🔥 Popular Items:
+• Georgian Wine: Indigenous varietals fermented in qvevri (large earthenware vessels buried underground), often with skin, seeds, stems. Amber Rkatsiteli with fruity and grassy notes; Tsinandali, white and apple-juicey
+• Purple Plum Sauce: Side sauce that's puckery and sweet, bright and strange</description>
+      <Point>
+        <coordinates>-74.0048903,40.7294492,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Mongolian Momo King (West Village - Primary)</name>
+      <description>Mongolian Momo King - West Village (Primary)
+📍 6th Avenue &amp; Bleecker Street (near West 3rd Street)
+📞 (917) 415-7502
+🔗 https://www.instagram.com/p/DRhqF6QDqxF/
+⭐ Signature Items:
+• Beef Momo (Buuz): Steamed Mongolian dumplings filled with beef; available in both steamed and fried varieties
+• Lamb Momo: Handcrafted dumplings made with Australian lamb and exotic spices
+• Chicken Momo: Succulent chicken dumplings</description>
+      <Point>
+        <coordinates>-74.0018543,40.7309688,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Antidote (Williamsburg - Primary)</name>
+      <description>Antidote - Williamsburg (Primary)
+📍 66 S 2nd St, Brooklyn, NY 11249
+📞 (718) 782-2585
+🔗 https://www.instagram.com/p/DHcBlMuvWox/
+⭐ Signature Items:
+• Sichuan-inspired dishes: Modern interpretations of traditional Sichuan flavors
+• Shanghai-style preparations: Refined takes on Shanghai classics
+• Craft cocktails: Sophisticated beverage program to complement the cuisine</description>
+      <Point>
+        <coordinates>-73.9654775,40.7142684,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ceremonia Bakeshop (Brooklyn - Primary)</name>
+      <description>Ceremonia Bakeshop - Brooklyn (Primary)
+📍 743 Driggs Ave
+📞 (347) 384-2212
+🔗 https://www.instagram.com/p/DQwmHSZkS9-/?img_index=11&amp;igsh=cXd4b2lpeXZvcXRx
+⭐ Signature Items:
+• Chorizo Breakfast Burrito: Scrambled eggs, chorizo, roasted potatoes, cheddar cheese, and scallions ($17.85). The eggs are perfectly scrambled without being mushy, with a salty kick from the chorizo and potatoes. Scallions add freshness and the salsa is the perfect complement. Wait time is 20-25 minutes for this specific item.
+• Cinnamon Rolls: Famous bakery item; served at room temperature for best texture (fluffiest, softest). Come out about 1 hour after opening. Due to high demand, now served every day they're open (weekdays and weekends). Each one personally rolled by the baker.
+• Mochi Donuts: Popular pastry item
+🔥 Popular Items:
+• Pecan Pie Bars: Seasonal favorite that returns periodically
+• S'mores: Featured pastry item
+• Pumpkin Spice Crumble Muffin: Seasonal fall offering</description>
+      <Point>
+        <coordinates>-73.9605821,40.7124741,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>I Cavallini (Williamsburg - Primary)</name>
+      <description>I Cavallini - Williamsburg (Primary)
+📍 284 Grand St, Brooklyn, NY 11211
+📞 Not available
+🔗 https://www.theinfatuation.com/new-york/reviews/i-cavallini
+⭐ Signature Items:
+• Focaccia: Crunchy and oil-soaked with whipped ricotta
+• Trofie: Dense, chewy pasta squiggles in coarse pesto with whole pine nuts (unskippable)
+• Lamb Sausage: Intensely fatty sausage with ripe cherries and avocado squash
+🔥 Popular Items:
+• Mussel Panzanella: Vinegar-soaked croutons and pickled tomatoes with plump mussels
+• Fried Eel Toast: Deep-fried eel in puffy crust with pine nuts and golden raisins
+• Fennel: With plums, apricots, mint and sharp pecorino</description>
+      <Point>
+        <coordinates>-73.9578552,40.7129501,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>IBN Hamido Seafood (Astoria - Primary)</name>
+      <description>IBN Hamido Seafood - Astoria (Primary)
+📍 3129 Ditmars Boulevard, Astoria, NY 11105
+📞 (718) 535-4700
+🔗 https://www.instagram.com/p/DHCy_VItxAs/
+⭐ Signature Items:
+• Grilled Calamari: House specialty, praised as superior to fried preparations
+• King Crab: Highly rated by food reviewers for quality and preparation
+• Grilled Scallops: Featured menu item with Mediterranean preparation
+🔥 Popular Items:
+• Hamido Salad: House signature salad with Mediterranean ingredients
+• Jumbo Shrimp: Fresh shrimp preparations with various cooking styles
+• Lobster Tails: Premium seafood offering with Mediterranean seasoning</description>
+      <Point>
+        <coordinates>-73.9104217,40.7758466,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Las Cuatro Milpas (Barrio Logan - Primary)</name>
+      <description>Las Cuatro Milpas - Barrio Logan (Primary)
+📍 1857 Logan Avenue
+📞 (619) 234-4460
+🔗 https://www.instagram.com/p/DNUi6Dnussk/
+⭐ Signature Items:
+• Fresh Flour Tortillas: Hand-made daily, praised by food critics as the best in San Diego, sold by the dozen
+• Rice and Beans: Traditional preparation that customers describe as having &quot;a special place in my heart&quot;
+• Pork Tacos: No beef served, only traditional pork preparations
+🔥 Popular Items:
+• Pork Tamales: Traditional homemade tamales with family recipe
+• Chorizo with Eggs: Classic Mexican breakfast preparation
+• Rolled Tacos: Traditional taquitos</description>
+      <Point>
+        <coordinates>-117.145203,32.701757,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Dept of Culture BK (Bedford-Stuyvesant - Primary)</name>
+      <description>Dept of Culture BK - Bedford-Stuyvesant (Primary)
+📍 327 Nostrand Ave, Brooklyn, NY 11216
+📞 Available via reservation system
+🔗 [https://www.deptofculturebk.com](https://www.deptofculturebk.com)
+⭐ Signature Items:
+• Four-Course Tasting Menu: $75 prix-fixe featuring rotating dishes from Kwara State, Nigeria
+• Pepper Soup: With flaky tilapia or hake and cilantro
+• Mushroom Suya: Made with earthy trumpet mushrooms instead of traditional beef</description>
+      <Point>
+        <coordinates>-73.950704,40.6871889,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Zero Otto Nove (Belmont - Primary)</name>
+      <description>Zero Otto Nove - Belmont (Primary)
+📍 2357 Arthur Ave, Bronx, NY 10458
+📞 (718) 220-1028
+🔗 https://www.instagram.com/p/DKf8cJ6teCh/
+⭐ Signature Items:
+• Margherita Pizza: Classic Neapolitan-style pizza made in wood-burning brick oven
+• La Riccardo Pizza: Butternut squash puree, smoked mozzarella, spicy pancetta, and basil
+• Pasta al Forno: Baked pasta specialties
+🔥 Popular Items:
+• Linguini con Vongole: Linguine with clams, traditional Italian preparation
+• Insalata di Mare: Seafood salad with fresh ingredients from Arthur Avenue
+• Zuppa di Pesce: Traditional Italian fish soup</description>
+      <Point>
+        <coordinates>-73.8884476,40.8547264,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Cafe Lily (Bensonhurst - Primary)</name>
+      <description>Cafe Lily - Bensonhurst (Primary)
+📍 42 Avenue O, Brooklyn, NY 11204
+📞 [Phone Number Not Available]
+🔗 https://www.instagram.com/p/DNRMzWuREIs/
+⭐ Signature Items:
+• Kuksi (Guksi): Cold Korean noodle soup with chewy noodles served in savory broth, a refreshing Central Asian Korean specialty
+• Begodya: Steamed buns filled with ground beef and cabbage
+• Pulov (Plov): Fragrant rice dish with tender meat and aromatic spices
+🔥 Popular Items:
+• Hye (Cold Salads): Cucumber, fish, and eggplant varieties
+• Blood Sausage: Traditional preparation
+• Fern Grass: Sautéed with beef</description>
+      <Point>
+        <coordinates>-73.9835843,40.6101349,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Eyval (Bushwick - Primary)</name>
+      <description>Eyval - Bushwick (Primary)
+📍 25 Bogart Street, Brooklyn, NY 11206
+📞 Reservations via Resy
+🔗 [https://www.eyvalnyc.com](https://www.eyvalnyc.com)
+⭐ Signature Items:
+• Wagyu Kebabs: Premium grilled meats with Iranian spices
+• Potato Tahdig: Crispy rice dish, a Persian comfort food staple
+• Borani: Traditional yogurt-based dips with seasonal variations</description>
+      <Point>
+        <coordinates>-73.9332597,40.7041052,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Lobby Bar (New York - Primary)</name>
+      <description>Lobby Bar - New York (Primary)
+📍 226 W 23rd St, New York, NY 10011
+📞 Unknown
+🔗 https://www.theinfatuation.com/new-york/guides/the-best-martinis-in-nyc
+⭐ Signature Items:
+• House Martini: Made with minimal vermouth and to-the-brim pour of ice-cold gin or vodka
+• Signature Cocktails: High-end hotel cocktail program
+• Bar Fries: Recommended to accompany drinks</description>
+      <Point>
+        <coordinates>-73.9968814,40.7444284,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Los Mariscos (Chelsea - Primary)</name>
+      <description>Los Mariscos - Chelsea (Primary)
+📍 409 West 15th Street, New York, NY 10011
+📞 [Phone Number Not Available]
+🔗 https://www.instagram.com/p/DKf8cJ6teCh/
+⭐ Signature Items:
+• Fish Tacos: Fresh fish prepared Baja California style
+• Shrimp Tacos: Traditional Mexican coastal preparation
+• Ceviche: Fresh seafood marinated in citrus, various preparations
+🔥 Popular Items:
+• Aguachile: Spicy Mexican seafood dish with lime and chilies
+• Raw Bar: Fresh oysters and seafood selections
+• Micheladas: Mexican beer cocktails</description>
+      <Point>
+        <coordinates>-74.0056455,40.7420724,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Deluxe Green Bo (Chinatown - Primary)</name>
+      <description>Deluxe Green Bo - Chinatown (Primary)
+📍 66 Bayard Street, New York, NY 10013
+📞 (212) 625-2359
+🔗 [https://www.instagram.com/reel/DEiSj97vpcG](https://www.instagram.com/reel/DEiSj97vpcG)
+⭐ Signature Items:
+• Soup Dumplings (Xiaolongbao): Chinatown's favorite, made fresh daily
+• Pan-Fried Pork Buns: Traditional Shanghainese preparation
+• Steamed Fish with Ginger and Scallion: Classic preparation</description>
+      <Point>
+        <coordinates>-73.9979936,40.7156067,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Fu Zhou Wei Zhong Wei Jia Xiang Feng Wei (Chinatown - Primary)</name>
+      <description>Fu Zhou Wei Zhong Wei Jia Xiang Feng Wei - Chinatown (Primary)
+📍 88 E Broadway, Stall B45 (Basement of East Broadway Mall)
+📞 (212) 431-3555
+🔗 https://www.instagram.com/p/DNT-Sv2S5TA/
+⭐ Signature Items:
+• Steamed Pork Buns (六个包子): Fresh, juicy pork buns with flavorful ground pork mixture ($4-5 for six buns)
+• 福州扁肉 (Fuzhou Flat Meat Wontons): Classic Fuzhounese dish featuring soft-skinned wontons in light broth
+• Bamboo Shoots Cake: Traditional Fujianese specialty, highly recommended by patrons</description>
+      <Point>
+        <coordinates>-73.994395,40.714009,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Great NY Noodletown (New York - Primary)</name>
+      <description>Great NY Noodletown - New York (Primary)
+📍 28 Bowery Street
+📞 (212) 349-0923 / (212) 349-2690
+🔗 https://www.instagram.com/reel/DJU4b2Nyb1g/
+⭐ Signature Items:
+• Shrimp Wonton Soup: House specialty with handmade wontons
+• Soft Shelled Crabs: Seasonal specialty (when available)
+• Barbecue Roast Pork (Char Sui): With signature ginger-scallion sauce
+🔥 Popular Items:
+• Pan-Fried Noodles: Singapore Chow Funn and Beef Chow Funn recommended
+• Beef Chow Fun: Wide rice noodles with beef
+• Salt and Pepper Squid: Crispy preparation</description>
+      <Point>
+        <coordinates>-73.9942131,40.7200906,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Jin Mei Dumpling (Chinatown - Primary)</name>
+      <description>Jin Mei Dumpling - Chinatown (Primary)
+📍 25B Henry St, New York, NY 10002
+📞 Contact via location
+🔗 [https://www.instagram.com/reel/DEiSj97vpcG](https://www.instagram.com/reel/DEiSj97vpcG)
+⭐ Signature Items:
+• 15 Dumplings for $5: Unbeatable value for authentic handmade dumplings
+• Pork and Chive Fried Dumplings: Traditional preparation, around $1.00 each
+• Various Dumpling Fillings: Multiple options all at budget prices</description>
+      <Point>
+        <coordinates>-73.987675,40.7135841,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>King's Kitchen (Chinatown - Primary)</name>
+      <description>King's Kitchen - Chinatown (Primary)
+📍 92 E Broadway, New York, NY 10002
+📞 [Phone Number Not Available]
+🔗 https://www.instagram.com/p/DKf8cJ6teCh/
+⭐ Signature Items:
+• Clay Pot Rice: Signature dish with perfect rice texture and crispy bottom layer
+• Roasted Meats: BBQ pork and roast duck prepared by chef formerly from Michelin-starred Hakkasan
+• Steamed Rice Rolls: Traditional Cantonese chee cheong fun with various fillings
+🔥 Popular Items:
+• Cantonese Congee: Traditional rice porridge with various toppings
+• Freshly Made Dim Sum: Daily preparation of traditional Cantonese dumplings
+• BBQ Pork: High-quality Cantonese char siu</description>
+      <Point>
+        <coordinates>-73.9936701,40.7139503,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Lululala (Chinatown - Primary)</name>
+      <description>Lululala - Chinatown (Primary)
+📍 139 Hester St, New York, NY 10002
+📞 [Phone Number Not Available]
+🔗 https://www.instagram.com/p/DKzqV2JRgOf/
+⭐ Signature Items:
+• Fried Chicken Rice Bowl: $6-7, chunky, crispy and flavorful chicken with side salad (apples, onions, carrots, lettuce, tomatoes)
+• Tteokbokki: $5, Korean rice cakes in spicy sauce
+• Custom Rice Bowls: $6-8, choice of beef, chicken, or pork with vegetables and spicy sauce
+🔥 Popular Items:
+• Kimbap: Traditional Korean rice rolls at affordable prices
+• Bulgogi: Marinated Korean beef
+• Banchan: Various Korean side dishes</description>
+      <Point>
+        <coordinates>-73.9946836,40.7171362,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Noodle Village (Chinatown - Primary)</name>
+      <description>Noodle Village - Chinatown (Primary)
+📍 70 Mott St, New York, NY 10013
+📞 (212) 233-0788
+🔗 [https://nynoodlevillage.3menucities.com/catalog.aspx?cid=37](https://nynoodlevillage.3menucities.com/catalog.aspx?cid=37)
+⭐ Signature Items:
+• Steamed Shanghai Pork Soup Dumplings (6): 上海小笼包 - $9.55
+• Heaven Ramen: 天堂拉面 - $15.25
+• Devilish Ramen (Choice of Mild, Spicy, Very Spicy): 地狱拉面 - $15.25</description>
+      <Point>
+        <coordinates>-73.9978657,40.7162057,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Red Bowl Food Corp (Chinatown - Primary)</name>
+      <description>Red Bowl Food Corp - Chinatown (Primary)
+📍 158 Hester St #A2
+📞 [Not available]
+🔗 https://www.instagram.com/p/DJt5K9TRi_3/
+⭐ Signature Items:
+• Har Gow (Shrimp Dumplings): Traditional translucent wrapper shrimp dumplings
+• Siu Mai (Pork Dumplings): Open-top pork and shrimp dumplings
+• Lotus Wrap Glutinous Rice: Sticky rice wrapped in lotus leaves</description>
+      <Point>
+        <coordinates>-73.9969943,40.7177169,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Shanghai 21 (Chinatown - Primary)</name>
+      <description>Shanghai 21 - Chinatown (Primary)
+📍 21 Mott Street, New York, NY 10013
+📞 Contact via restaurant
+🔗 [https://www.instagram.com/reel/DEiSj97vpcG](https://www.instagram.com/reel/DEiSj97vpcG)
+⭐ Signature Items:
+• Xiaolongbao (Soup Dumplings): Traditional Shanghai-style with flavorful broth inside
+• Shengjianbao (Pan-Fried Pork Buns): Crispy bottom, steamed top with pork filling
+• Shrimp Dumplings: Highly praised by diners for authentic preparation</description>
+      <Point>
+        <coordinates>-73.9988882,40.7144241,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Shu Jiao Fu Zhou (Chinatown - Primary)</name>
+      <description>Shu Jiao Fu Zhou - Chinatown (Primary)
+📍 295 Grand Street, New York, NY 10002
+📞 (212) 625-2532
+🔗 [https://www.instagram.com/reel/DEiSj97vpcG](https://www.instagram.com/reel/DEiSj97vpcG)
+⭐ Signature Items:
+• Peanut Butter Noodles: Signature Fujianese noodle dish with rich peanut sauce
+• Meat-Stuffed Fish Balls: Traditional Fujianese specialty with fish and pork
+• Handmade Boiled Dumplings: Fresh dumplings made in-house daily</description>
+      <Point>
+        <coordinates>-73.9920828,40.7174009,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Super Taste (Chinatown - Primary)</name>
+      <description>Super Taste - Chinatown (Primary)
+📍 26 Eldridge St, New York, NY 10002
+📞 (212) 625-1717
+🔗 [https://www.instagram.com/reel/DEiSj97vpcG](https://www.instagram.com/reel/DEiSj97vpcG)
+⭐ Signature Items:
+• Hand-Pulled Noodles: Fresh noodles made from Western China tradition
+• Spicy Beef Soup: $10.50 in salty and sour broth with chilis and parsley
+• Traditional Dumplings: Various fillings prepared with authentic techniques</description>
+      <Point>
+        <coordinates>-73.9933278,40.715111,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tasty Dumpling (Chinatown - Primary)</name>
+      <description>Tasty Dumpling - Chinatown (Primary)
+📍 42 Mulberry St, New York, NY 10013
+📞 (212) 349-0070
+🔗 [https://www.instagram.com/reel/DEiSj97vpcG](https://www.instagram.com/reel/DEiSj97vpcG)
+⭐ Signature Items:
+• Fried Pork and Chive Dumplings: 5 dumplings for $1.25, their most famous offering
+• Steamed Pork Dumplings: Traditional preparation at unbeatable prices
+• Pan-Fried Dumplings: Crispy bottom, tender top, around $0.50 each</description>
+      <Point>
+        <coordinates>-73.9995217,40.7149732,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Impasto (Clinton Hill - Primary)</name>
+      <description>Impasto - Clinton Hill (Primary)
+📍 343 Waverly Avenue, Brooklyn, NY 11238
+📞 (718) 789-1520
+🔗 https://www.instagram.com/p/DIhe8TXSaAQ/
+⭐ Signature Items:
+• Pizza Ripiena: Filled pizza dough made with pizza bianca (crispy outside, fluffy and airy inside with EVOO &amp; salt)
+• Pizza Bianca: Traditional Roman white pizza with olive oil and salt, served with various toppings
+• Pizza al Taglio: Roman-style pizza by the slice with light, airy crusts
+🔥 Popular Items:
+• Pizza with Mozzarella, Sausage &amp; Roasted Mushrooms: Classic Roman preparation
+• Pizza Rossa with Stracciatella di Burrata &amp; Prosciutto di Parma: Premium Italian ingredients
+• San Marzano Tomato Pizza: With mozzarella, basil, and EVO</description>
+      <Point>
+        <coordinates>-73.9665718,40.6877981,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Clover Club (Brooklyn - Primary)</name>
+      <description>Clover Club - Brooklyn (Primary)
+📍 210 Smith St., Brooklyn, NY 11201
+📞 (718) 855-7939
+🔗 https://www.theinfatuation.com/new-york/guides/the-best-martinis-in-nyc
+⭐ Signature Items:
+• Tom's Perfect Martini: Made with equal parts dry and sweet vermouth
+• Classic Cocktail Program: Expertly prepared cocktails since 2008
+• Neighborhood Bar Food: Full menu available alongside cocktails</description>
+      <Point>
+        <coordinates>-73.9922019,40.6846142,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Gage &amp; Tollner (Brooklyn - Primary)</name>
+      <description>Gage &amp; Tollner - Brooklyn (Primary)
+📍 372 Fulton St, Brooklyn, NY 11201
+📞 (347) 689-3677
+🔗 https://www.theinfatuation.com/new-york/guides/the-best-martinis-in-nyc
+⭐ Signature Items:
+• Turf Martini: A retro drink composed of gin, dry vermouth, maraschino liqueur, absinthe, and an orange twist
+• Classic Martini: Damn near perfect preparation served in frosted glass with sidecar
+• Fresh Oysters: Historic oyster house specialties</description>
+      <Point>
+        <coordinates>-73.987767,40.691467,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Book Club Bar (East Village - Primary)</name>
+      <description>Book Club Bar - East Village (Primary)
+📍 197 E 3rd St, New York, NY 10009
+📞 (646) 678-4160
+🔗 [https://www.bookclubbar.com](https://www.bookclubbar.com)
+⭐ Signature Items:
+• Craft Cocktails: Handcrafted drinks designed for leisurely book browsing
+• New York State Craft Beer: Local beer selection
+• Full Espresso Bar: Coffee drinks for morning and afternoon reading sessions</description>
+      <Point>
+        <coordinates>-73.9832379,40.7229726,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Carnitas Ramirez (East Village - Primary)</name>
+      <description>Carnitas Ramirez - East Village (Primary)
+📍 210 E 3rd St, New York, NY 10009
+📞 Contact via email
+🔗 [https://www.carnitasramirez.com](https://www.carnitasramirez.com)
+⭐ Signature Items:
+• Carnitas Tacos: Various cuts including cabeza (head), buche (stomach), lengua (tongue) - $5.00
+• Trompa Tacos: Pork snout carnitas - $5.00  
+• Oreja Tacos: Pig's ear carnitas - $5.00</description>
+      <Point>
+        <coordinates>-73.982765,40.7224776,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Taste Good Malaysian Cuisine (Elmhurst - Primary)</name>
+      <description>Taste Good Malaysian Cuisine - Elmhurst (Primary)
+📍 82-18 45th Avenue, Elmhurst, NY 11373
+📞 (718) 898-8001
+🔗 https://www.instagram.com/p/DHrtDiGJKbQ/
+⭐ Signature Items:
+• &quot;Love Me Tender&quot; Beef Rendang: House specialty beef rendang, described by longtime customer as ranking &quot;in the top 5 dishes i've EVER had&quot;
+• Brisket Curry: Praised as &quot;the best brisket curry in NYC&quot; by food influencers
+• Curry Laksa: Traditional Malaysian spicy coconut noodle soup, chef-recommended
+🔥 Popular Items:
+• Roti Canai: Malaysian flatbread with curry dipping sauce, mentioned in featured post
+• Hainanese Chicken: Traditional poached chicken dish, chef-recommended
+• Chicken Satay: Grilled chicken skewers with peanut sauce, popular addition</description>
+      <Point>
+        <coordinates>-73.8858304,40.7412769,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Harry's (New York - Primary)</name>
+      <description>Harry's - New York (Primary)
+📍 1 Hanover Square, New York, New York 10004
+📞 (212) 785-9200
+🔗 https://www.theinfatuation.com/new-york/guides/the-best-martinis-in-nyc
+⭐ Signature Items:
+• Classic Martini: Old school preparation relatively heavy on vermouth, served with sidecar on ice
+• Signature Beef Wellington: On the menu since 1972
+• Jumbo Shrimp Cocktail: Classic steakhouse appetizer</description>
+      <Point>
+        <coordinates>-74.0097854,40.7045901,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Overstory (New York - Primary)</name>
+      <description>Overstory - New York (Primary)
+📍 70 Pine St, New York, NY 10005
+📞 (212) 339-3963
+🔗 https://www.theinfatuation.com/new-york/guides/the-best-martinis-in-nyc
+⭐ Signature Items:
+• Creative Cocktails: Contemporary cocktail program with city views
+• Classic Martinis: Expertly prepared with stunning backdrop
+• Innovative Cocktail Creations: Award-winning mixology program</description>
+      <Point>
+        <coordinates>-74.0077415,40.7064733,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hawksmoor NYC (New York - Primary)</name>
+      <description>Hawksmoor NYC - New York (Primary)
+📍 109 East 22nd Street, New York, NY 10010
+📞 (212) 777-1840
+🔗 https://www.theinfatuation.com/new-york/guides/the-best-martinis-in-nyc
+⭐ Signature Items:
+• Signature Martini: Features lemon oil, olive leaf vermouth, and yogurt-washed tequila for extra flair
+• Dry-aged Steak: Premium British steakhouse cuts
+• Sustainably Sourced Seafood: Fresh selections</description>
+      <Point>
+        <coordinates>-73.9862985,40.7393841,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Gahwa (Flushing - Primary)</name>
+      <description>Gahwa - Flushing (Primary)
+📍 29-32 Union Street, Flushing, NY 11354
+📞 (718) 886-3223
+🔗 https://www.instagram.com/p/DKf8cJ6teCh/
+⭐ Signature Items:
+• Seolleongtang: Delicate ox-bone broth soup, the restaurant's signature dish served intentionally bland with salt on the side
+• Traditional Korean Banchan: Assortment of pickled and fermented side dishes
+• Korean Home-style Dishes: Prepared according to family recipes passed down through generations
+🔥 Popular Items:
+• Ox-bone broth variations: Multiple preparations of the house specialty
+• Kimchi and pickled vegetables: House-made traditional fermented sides
+• Rice dishes: Traditional Korean rice preparations</description>
+      <Point>
+        <coordinates>-73.8279761,40.7647091,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Grand Jade Banquet (Flushing - Primary)</name>
+      <description>Grand Jade Banquet - Flushing (Primary)
+📍 46-45 Kissena Blvd
+📞 [Phone Number not available]
+🔗 https://www.instagram.com/p/DORnT8LEvE_/?img_index=1
+⭐ Signature Items:
+• Spare Ribs: Highly recommended by food reviewers
+• Tofu Pudding (豆腐花): Standout dessert item that generates excitement among diners
+• Egg Tarts: Traditional Cantonese-style custard tarts
+🔥 Popular Items:
+• Siu Mai: Traditional pork and shrimp dumplings</description>
+      <Point>
+        <coordinates>-73.8233259,40.7543182,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Zhu Ji Dumpling House (Flushing - Primary)</name>
+      <description>Zhu Ji Dumpling House - Flushing (Primary)
+📍 40-52 Main St, Flushing, NY 11354
+📞 [Not specified]
+🔗 https://www.instagram.com/p/DHlmdLXRkEF/
+⭐ Signature Items:
+• Steamed Pork and Cabbage Dumplings: $9 for 10 dumplings, described as &quot;top tier&quot; with perfect dough thickness and juicy filling
+• Scallion Pancake: Described as &quot;ELITE&quot;
+• Pork and Cabbage Buns: Also rated as &quot;ELITE&quot;</description>
+      <Point>
+        <coordinates>-73.8299419,40.7581016,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Joe's of Avenue U (Gravesend - Primary)</name>
+      <description>Joe's of Avenue U - Gravesend (Primary)
+📍 287 Avenue U, Brooklyn, NY 11223
+📞 (718) 449-9285
+🔗 https://www.instagram.com/p/DM_cpoEJaE2/
+⭐ Signature Items:
+• Vastedda: Traditional Sicilian beef spleen sandwich with ricotta and grated cheese, authentic Palermitan specialty
+• Arancine Special: Rice balls with marinara sauce and ricotta on top, evolved from traditional arancine
+• Panelle Special: Chickpea fritter sandwich, classic Sicilian street food
+🔥 Popular Items:
+• Rice Ball Special: Beloved by locals since the 1970s, mentioned by former PS 95 students
+• Cold Calamari Salad: Fresh seafood preparation praised by regular customers
+• Octopus Salad (Polpo/Pulpa): Traditional Italian seafood salad, destination dish for Long Island visitors</description>
+      <Point>
+        <coordinates>-73.9736775,40.5970125,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Achilles Heel (Brooklyn - Primary)</name>
+      <description>Achilles Heel - Brooklyn (Primary)
+📍 180 West St, Brooklyn, NY 11222
+📞 347-987-3666
+🔗 https://www.instagram.com/achillesheelbk/</description>
+      <Point>
+        <coordinates>-73.9596929,40.7331765,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Chiko (Greenpoint - Primary)</name>
+      <description>Chiko - Greenpoint (Primary)
+📍 954 Manhattan Ave, Brooklyn, NY 11222
+📞 (917) 909-0580
+🔗 https://www.instagram.com/p/C0nIgDxMi5h/
+⭐ Signature Items:
+• Mapo Tofu: Highly praised Sichuan dish that customers can't stop thinking about after the first bite
+• 13-Course Kaiseki Tasting Menu: Modern Japanese fine dining experience created by Chef Xiao
+• Sichuan Dumplings: Traditional preparation praised alongside the mapo tofu
+🔥 Popular Items:
+• Sichuan Noodle Soup: Described as &quot;spicy but in the best way possible&quot; and &quot;super sichuan peppery&quot;
+• Campechano: Mexican-style preparation available as part of their diverse menu
+• Various Sichuan Preparations: Authentic China-style dishes with traditional spicing</description>
+      <Point>
+        <coordinates>-73.954261,40.7318978,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Paulie Gee's Slice Shop (Greenpoint - Primary)</name>
+      <description>Paulie Gee's Slice Shop - Greenpoint (Primary)
+📍 110 Franklin St, Brooklyn, NY 11222
+📞 (929) 337-6384
+🔗 https://www.instagram.com/p/C0nIgDxMi5h/
+⭐ Signature Items:
+• Classic NY Style Cheese Pizza: Traditional New York slice preparation with quality ingredients
+• Pepperoni Slices: Classic NY-style pepperoni with traditional preparation methods
+• Sausage Pizza: Italian sausage preparation following New York pizza traditions
+🔥 Popular Items:
+• Specialty Slice Options: Rotating selection of creative and traditional slice varieties
+• Vegan Pizza Options: Plant-based alternatives maintaining quality and flavor
+• Traditional NY Combinations: Classic topping combinations following NYC pizza culture</description>
+      <Point>
+        <coordinates>-73.9571898,40.7283593,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Peeps Kitchen (Greenpoint - Primary)</name>
+      <description>Peeps Kitchen - Greenpoint (Primary)
+📍 55 McGuinness Blvd S, Brooklyn, NY 11222
+📞 (929) 295-0081
+🔗 https://www.instagram.com/p/C0nIgDxMi5h/
+⭐ Signature Items:
+• Korean Fried Chicken Thighs: Signature preparation using thighs for maximum juiciness and flavor
+• Crispy Drumsticks: Traditional Korean fried chicken preparation praised for perfect texture
+• Korean Fried Chicken Sandwiches: Creative sandwich preparations featuring their exceptional fried chicken
+🔥 Popular Items:
+• Boneless Chicken Options: Made with thighs instead of breasts for superior taste and texture
+• Traditional Korean Seasonings: Authentic Korean spice blends and preparation methods
+• Comfort Food Combinations: Korean fried chicken served with traditional accompaniments</description>
+      <Point>
+        <coordinates>-73.948208,40.724271,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Salsa Pizzeria (Greenpoint - Primary)</name>
+      <description>Salsa Pizzeria - Greenpoint (Primary)
+📍 40 Clifford Pl, Brooklyn, NY 11222
+📞 (347) 542-4680
+🔗 https://www.instagram.com/p/C0nIgDxMi5h/
+⭐ Signature Items:
+• Latin-Fusion Specialties: Unique pizzas combining Italian techniques with Latin American flavors
+🔥 Popular Items:
+• Traditional Neapolitan Pizzas: Authentic preparations following Naples pizza-making traditions
+• Specialty Latin-Fusion Pies: Creative combinations showcasing Mike's cultural fusion approach
+• Family-Style Options: Large format pizzas perfect for sharing and family dining</description>
+      <Point>
+        <coordinates>-73.9552079,40.7264357,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>San Antonio's Wood Fired Pizza (Greenpoint - Primary)</name>
+      <description>San Antonio's Wood Fired Pizza - Greenpoint (Primary)
+📍 132 Eagle St, Brooklyn, NY 11222
+📞 [Phone Number Not Available]
+🔗 https://www.instagram.com/p/C0nIgDxMi5h/
+🔥 Popular Items:
+• Traditional Neapolitan Preparations: Authentic Italian-style pizzas with locally sourced ingredients
+• Wood-Fired Specialties: Various seasonal and specialty pizzas featuring fresh, local ingredients
+• Custom Catering Options: Available for private events and festivals</description>
+      <Point>
+        <coordinates>-73.9555652,40.7348016,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Scrappleland (Greenpoint - Primary)</name>
+      <description>Scrappleland - Greenpoint (Primary)
+📍 1150 Manhattan Avenue
+📞 (718) 912-1220
+🔗 https://greenpointers.com/2025/04/15/scrappleland-officially-opens-in-former-greenpoint-beer-and-ale-space/
+⭐ Signature Items:
+• Pinball Machine Collection: Over 27 machines in excellent condition from various eras
+• $5 Narragansett Beer: Affordable beer option popular with patrons
+• Rooftop Experience: Outdoor space featuring unique stained-glass water tower
+🔥 Popular Items:
+• Classic 1990s Pinball: The Addams Family, Monster Bash, and Medieval Madness
+• Arcade Games: Ice Cold Beer and Pac-Man Battle Royale Championship
+• Cornhole: Additional entertainment option</description>
+      <Point>
+        <coordinates>-73.9551547,40.7376711,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sweetie's K-Chicken (Greenpoint - Primary)</name>
+      <description>Sweetie's K-Chicken - Greenpoint (Primary)
+📍 676 Manhattan Ave, Brooklyn, NY 11222
+📞 (347) 335-0675
+🔗 https://www.instagram.com/p/C0nIgDxMi5h/
+🔥 Popular Items:
+• Korean Fried Chicken Varieties: Multiple preparation styles showcasing traditional Korean techniques
+• Street Food Combinations: Authentic Korean street food dishes and combinations
+• Traditional Korean Seasonings: Various authentic Korean spice blends and flavor profiles</description>
+      <Point>
+        <coordinates>-73.9512089,40.7249645,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Taqueria Ramirez (Greenpoint - Primary)</name>
+      <description>Taqueria Ramirez - Greenpoint (Primary)
+📍 94 Franklin St, Brooklyn, NY 11222
+📞 [Phone Number Not Available]
+🔗 https://www.instagram.com/p/C0nIgDxMi5h/
+⭐ Signature Items:
+• Al Pastor: Traditional Mexico City-style preparation with authentic seasoning and cooking methods
+• Suadero: Classic CDMX specialty featuring slow-cooked beef preparation
+• Campechano: Mixed meat taco combining multiple traditional preparations
+🔥 Popular Items:
+• Longaniza: Traditional Mexican sausage prepared in authentic CDMX style
+• Tripa: Beef tripe preparation following Mexico City street food traditions
+• Nopales: Cactus paddles prepared in traditional Mexican style</description>
+      <Point>
+        <coordinates>-73.9570052,40.7278863,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Cocina Consuelo (Hamilton Heights - Primary)</name>
+      <description>Cocina Consuelo - Hamilton Heights (Primary)
+📍 130 Hamilton Pl, New York, NY 10031
+📞 (646) 250-7172
+🔗 [https://www.cocinaconsuelonyc.com/food](https://www.cocinaconsuelonyc.com/food)
+⭐ Signature Items:
+• Birria Bone Marrow (gf): Braised beef, salsa roja, onions served in halved marrow bones
+• Masa Pancakes (gf, v): Heirloom corn batter, honey butter glaze, seasonal fruit compota
+• Hibiscus Quesadilla (gf, v): Sorrel, chipotle, onion</description>
+      <Point>
+        <coordinates>-73.9492304,40.8240421,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New Park Pizza (Howard Beach - Primary)</name>
+      <description>New Park Pizza - Howard Beach (Primary)
+📍 15671 Crossbay Boulevard
+📞 (718) 641-3082
+🔗 https://www.instagram.com/p/DK45206sNkK/
+⭐ Signature Items:
+• Brick Oven Pizza: Made in the original 1956 brick oven that defines the restaurant's exceptional quality
+• Regular Slice: Praised by food critics as among the world's finest pizza slices
+• Sicilian Pizza: Traditional thick-crust style prepared in the brick oven
+🔥 Popular Items:
+• Traditional New York slices: Both regular and Sicilian varieties
+• Whole pies: Various sizes and toppings made to order
+• Brick oven specialties: Unique preparations only possible with their vintage oven</description>
+      <Point>
+        <coordinates>-73.84047806986639,40.66289111028212,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Chez Zou (New York - Primary)</name>
+      <description>Chez Zou - New York (Primary)
+📍 385 9th Ave, Suite 85, 4th Fl, New York, NY 10001
+📞 (212) 380-8585
+🔗 https://www.theinfatuation.com/new-york/guides/the-best-martinis-in-nyc
+⭐ Signature Items:
+• Signature Martini: Custom mixing setup with grape leaf brine and olive oil-washed vodka (essentially two cocktails for one price)
+• Creative Cocktails: Curated cocktails that riff on the classics
+• Mediterranean-inspired Bar Snacks: Connection to Zou Zou's below</description>
+      <Point>
+        <coordinates>-73.9981563,40.7510141,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Angel Indian Restaurant (Jackson Heights (37th Ave) - Primary)</name>
+      <description>Angel Indian Restaurant - Jackson Heights (37th Ave) (Primary)
+📍 75-18 37th Avenue
+📞 (347) 848-0098
+🔗 https://www.instagram.com/p/DMBdsJaPY-o/
+⭐ Signature Items:
+• Tasting Menu: Multi-course exploration of authentic Indian flavors
+• Halal Curries: Various traditional curry preparations using 100% halal ingredients
+• Samosas: Traditional fried pastries with savory fillings</description>
+      <Point>
+        <coordinates>-73.8903366,40.7489962,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Angel Indian Restaurant (Jackson Heights - Primary)</name>
+      <description>Angel Indian Restaurant - Jackson Heights (Primary)
+📍 74-14 37th Road
+📞 (347) 848-0097
+🔗 https://www.instagram.com/p/DLGau9LO7qi/
+⭐ Signature Items:
+• Vindaloo: Extremely spicy traditional dish that even some Indians find too hot
+• Goat Dum Biryani: Highly praised with &quot;nice kick of spice&quot;
+• Murgh Makani: Rich chicken dish (warning: quite spicy)</description>
+      <Point>
+        <coordinates>-73.8909376576723,40.747522737060535,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Dosa Delight (Jackson Heights - Primary)</name>
+      <description>Dosa Delight - Jackson Heights (Primary)
+📍 35-66 73rd Street
+📞 (718) 210-9935
+🔗 https://www.instagram.com/p/DMBdsJaPY-o/
+⭐ Signature Items:
+• Masala Dosa: Traditional South Indian crepe stuffed with spiced potato filling
+• Rava Dosa: Crispy semolina-based dosa with unique texture
+• Sambar: Traditional South Indian lentil curry served with dosas</description>
+      <Point>
+        <coordinates>-73.8928462,40.7491094,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>La Esquina del Camarón Mexicano (Jackson Heights - Primary)</name>
+      <description>La Esquina del Camarón Mexicano - Jackson Heights (Primary)
+📍 80-02 Roosevelt Avenue
+📞 Not specified
+🔗 https://www.instagram.com/p/DMBdsJaPY-o/
+⭐ Signature Items:
+• Shrimp and Octopus Cocktail: Fresh shrimp and octopus served in a cup with proprietary sauce balancing sweetness and spice
+• Shark Flautas: Shredded shark meat and cheese enveloped in crispy tortillas
+• Fish Tacos: Praised as &quot;an amazing value&quot;</description>
+      <Point>
+        <coordinates>-73.8857755,40.7556561,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Mariscos El Submarino (Jackson Heights, Queens - Primary)</name>
+      <description>Mariscos El Submarino - Jackson Heights, Queens (Primary)
+📍 88-05 Roosevelt Ave, Jackson Heights, NY 11372
+📞 (718) 685-2780
+🔗 https://www.timeout.com/newyork/news/cinco-to-celebrate-this-queens-restaurant-is-bringing-mexican-style-seafood-to-nyc-050224
+⭐ Signature Items:
+• Aguachiles: Raw shrimp/seafood marinated in spicy citrus sauce (Verde, Rojo, Negro, Mango Habanero)
+• Ceviche El Submarino: Mixed fish, shrimp, and octopus in house special citrus sauce
+• El Gobernador Tacos: Cheesy shrimp tacos with Chihuahua cheese ($8)</description>
+      <Point>
+        <coordinates>-73.882784,40.7477555,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Nepali Bhanchha Ghar (Jackson Heights - Primary)</name>
+      <description>Nepali Bhanchha Ghar - Jackson Heights (Primary)
+📍 74-15 Roosevelt Avenue
+📞 (646) 861-9147
+🔗 https://www.instagram.com/p/DMBdsJaPY-o/
+⭐ Signature Items:
+• Jhol Momo: Award-winning steamed dumplings floating in a big bowl of spicy sesame-and-tomato broth
+• Sel Roti: Traditional ring-shaped bread fried to order using soda bottles to pour batter rings into hot oil
+• Traditional Momos: Various steamed dumplings that have won multiple momo crawl competitions</description>
+      <Point>
+        <coordinates>-73.8908243,40.7470294,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Phayul (Jackson Heights - Primary)</name>
+      <description>Phayul - Jackson Heights (Primary)
+📍 37-65 74th Street, Floor 2
+📞 (718) 424-1869
+🔗 https://www.instagram.com/p/DMBdsJaPY-o/
+⭐ Signature Items:
+• Momos: Steamed dumplings filled with delicately seasoned beef or vegetables, accompanied by piquant chili sauce
+• Thenthuk: Hearty hand-pulled noodle soup with tender meat and fresh vegetables in savory broth
+• Tsampa: Traditional roasted barley dish prepared in authentic style</description>
+      <Point>
+        <coordinates>-73.8926249,40.7537672,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Everydaily (Koreatown - Primary)</name>
+      <description>Everydaily - Koreatown (Primary)
+📍 35 W 35th St, New York, NY 10001
+📞 (917) 261-6536
+🔗 https://www.instagram.com/p/DMoaRV4umRA/
+⭐ Signature Items:
+• Classic Kimbap: $5.99, authentic Korean rice rolls with traditional fillings
+• Hidden Menu Pork Cutlet: $18, giant Korean-style tonkatsu available only for dine-in (menu rotates)
+• Dosirak Bowls: $10-11, complete meal boxes with egg, banchan, croquette, purple rice, and meat patties
+🔥 Popular Items:
+• Kimchi Udon: Korean-style noodle soup with fermented vegetables
+• Spicy Pork Stir-fry: Traditional Korean soul food lunch box
+• Fried Chicken Lunch Box: Korean-style fried chicken with sides</description>
+      <Point>
+        <coordinates>-73.985695,40.7499004,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>El Pescador Fish Market (La Jolla - Primary)</name>
+      <description>El Pescador Fish Market - La Jolla (Primary)
+📍 634 Pearl Street
+📞 (858) 456-2526
+🔗 https://www.instagram.com/p/DNPdKU5O1WG/
+⭐ Signature Items:
+• Fresh Fish Selection: Daily catch that can be grilled to order, praised by Kenji López-Alt for exceptional freshness
+• Seafood Sandwiches: Served on toasted torta rolls with various toppings
+• Ahi Fish Tacos: Local La Jolla favorite featuring fresh ahi tuna
+🔥 Popular Items:
+• Salmon Sandwich: Fresh grilled salmon on toasted torta roll
+• Clam Chowder: Traditional preparation with fresh local ingredients
+• Shrimp Cocktail: Fresh local shrimp with cocktail sauce</description>
+      <Point>
+        <coordinates>-117.276407,32.8397883,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>The Taco Stand (La Jolla - Primary)</name>
+      <description>The Taco Stand - La Jolla (Primary)
+📍 621 Pearl Street
+📞 (858) 551-6666
+🔗 https://www.instagram.com/p/DNba9ZtS9vG/
+⭐ Signature Items:
+• California Burrito: Featured by Kenji López-Alt, carne asada with french fries, cheese, sour cream, and guacamole
+• Carne Asada Tacos: Authentic Tijuana-style preparation with fresh corn tortillas
+• Fresh Salsa Trio: Including signature Salsa Chipotle and Salsa Verde, made daily
+🔥 Popular Items:
+• Fish Tacos: Beer-battered or grilled fish with cabbage and creamy sauce
+• Carne Asada Fries: Loaded fries with carne asada, cheese, and toppings
+• Churros: Fresh-made Mexican pastry dessert</description>
+      <Point>
+        <coordinates>-117.2767989,32.8393746,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>JW Asian Seafood Buffet (Long Island City - Primary)</name>
+      <description>JW Asian Seafood Buffet - Long Island City (Primary)
+📍 41-17 Crescent St, Long Island City, NY 11101
+📞 (718) 781-7666
+🔗 https://www.instagram.com/p/DMQD763sMSO/
+⭐ Signature Items:
+• Unlimited Snow Crab Legs: Premium snow crab legs, all-you-can-eat
+• Unlimited Lobster: Fresh lobster preparations, unlimited servings
+• Abalone: Premium shellfish preparation
+🔥 Popular Items:
+• Sushi &amp; Sashimi Bar: Fresh sushi rolls and sashimi selections
+• Braised Oxtail: Traditional Chinese preparation
+• Hibachi Selections: Asian stir-fries and grilled items</description>
+      <Point>
+        <coordinates>-73.9394381,40.7516005,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sami's Kebab House (Long Island City - Primary)</name>
+      <description>Sami's Kebab House - Long Island City (Primary)
+📍 47-38 Vernon Boulevard, Long Island City, NY 11101
+📞 (718) 841-9290
+🔗 https://www.instagram.com/p/DIHvYW7vWVB/
+⭐ Signature Items:
+• Borani Banjan: Traditional Afghan eggplant dish, featured recommendation from @consumingcouple
+• Mantu: Steamed dumplings stuffed with beef and topped with lamb gravy, traditional Afghan specialty
+• Qabuli Pulao: Afghan rice with raisins and carrots, served with lamb kabab
+🔥 Popular Items:
+• Mixed Afghan Kabab: Skewer of beef kofta, chicken breast, and lamb kabab served with rice
+• Lamb Shank: Traditional preparation praised by food influencers
+• Bolani Kachalu: Crispy fried pocket filled with potatoes, sweet onions, and spices</description>
+      <Point>
+        <coordinates>-73.953783,40.7444693,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>The Grill (New York - Primary)</name>
+      <description>The Grill - New York (Primary)
+📍 99 E 52nd St, New York, NY 10022
+📞 (212) 375-9001
+🔗 https://www.theinfatuation.com/new-york/guides/the-best-martinis-in-nyc
+⭐ Signature Items:
+• Tuxedo Martini: Features fino sherry
+• Alaska Martini: Made with Chartreuse
+• Classic Martini Menu: Extensive selection of martini variations</description>
+      <Point>
+        <coordinates>-73.9720223,40.7580948,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Landi's Pork Store (Mill Basin - Primary)</name>
+      <description>Landi's Pork Store - Mill Basin (Primary)
+📍 5909 Avenue N
+📞 (718) 763-3230
+🔗 https://www.instagram.com/p/DNY4QMLRK-G/
+⭐ Signature Items:
+• Fresh Italian Sausage: Made daily on premises with family recipes
+• Homemade Ravioli: Traditional pasta filled with ricotta and herbs
+• Sopressata: Dry-cured Italian salami made in-house
+🔥 Popular Items:
+• Thick Pork Chops: Customer favorite according to reviews
+• Semolina Italian Bread: Fresh-baked daily
+• Rice Balls: Traditional Italian arancini</description>
+      <Point>
+        <coordinates>-73.9180577,40.6195805,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Parisi Bakery (Nolita - Primary)</name>
+      <description>Parisi Bakery - Nolita (Primary)
+📍 198 Mott Street, New York, NY 10012
+📞 (212) 226-6378
+🔗 https://www.instagram.com/p/DI6c5hdN1l9/
+⭐ Signature Items:
+• The Dennis: Legendary sandwich with chicken cutlets, mozzarella, tomato, balsamic vinegar, basil spread, and optional roasted red peppers
+• Chicken Cutlet Sandwiches: House specialty with generous portions of perfectly prepared cutlets
+• Lard Bread: Traditional Italian bread preparation mentioned by regulars
+🔥 Popular Items:
+• Potato &amp; Egg Sandwich: Made with fried potatoes for added texture, customer favorite
+• Italian Cold Cut Combinations: Traditional preparations with quality imported meats
+• Fresh Italian Sandwiches: Made on house-baked bread, crispy outside and soft inside</description>
+      <Point>
+        <coordinates>-73.9955368,40.7211562,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Temple Bar (New York - Primary)</name>
+      <description>Temple Bar - New York (Primary)
+📍 332 Lafayette St, New York, NY 10012
+📞 (212) 925-4242
+🔗 https://www.theinfatuation.com/new-york/guides/the-best-martinis-in-nyc
+⭐ Signature Items:
+• Chili and Celery Martini: Unique martini variation on extensive martini list
+• Classic Cocktails: Extensive martini list with creative variations
+• Italian-biased Aperitifs: Menu features Italian-influenced cocktails</description>
+      <Point>
+        <coordinates>-73.9949103,40.7257628,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Oscar's Mexican Seafood (Pacific Beach - Primary)</name>
+      <description>Oscar's Mexican Seafood - Pacific Beach (Primary)
+📍 746 Emerald Street
+📞 (858) 412-4009
+🔗 https://www.instagram.com/p/DNYqYo_PNdI/
+⭐ Signature Items:
+• Smoked Fish Tacos: Highly praised by food critics including Kenji López-Alt, featuring house-smoked fish with traditional Mexican preparations
+• Ceviche: Fresh seafood cured in citrus with traditional Mexican seasonings, noted as &quot;fantastic&quot; by reviewers
+• Octopus Quesadilla: Unique specialty featuring tender octopus in crispy quesadilla preparation
+🔥 Popular Items:
+• Tortas: Mexican sandwich favorite mentioned by regular customers
+• Battered Fish Tacos: Classic preparation often cited as among San Diego's best
+• Seafood Tostadas: Creative tostada preparations with fresh daily catch</description>
+      <Point>
+        <coordinates>-117.2564555,32.7985181,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sofreh (Prospect Heights - Primary)</name>
+      <description>Sofreh - Prospect Heights (Primary)
+📍 75 Saint Marks Avenue, Brooklyn, NY 11217
+📞 (646) 798-1690
+🔗 https://www.instagram.com/p/DKf8cJ6teCh/
+⭐ Signature Items:
+• Lamb Shank: Traditional Persian preparation with aromatic spices
+• Pomegranate Molasses-Marinated Ribeye Steak Kebab: Modern interpretation of Persian flavors
+• Persian Rice Dishes: Traditional tahdig and various rice preparations
+🔥 Popular Items:
+• Traditional Persian Stews: Authentic fesenjan and other classic Persian dishes
+• Kebabs: Various Persian-style grilled meats and vegetables
+• Persian Herbs and Vegetables: Seasonal preparations highlighting Persian ingredients</description>
+      <Point>
+        <coordinates>-73.9739743,40.6798724,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>The Wharf Bar &amp; Grill (Rockaway Park - Primary)</name>
+      <description>The Wharf Bar &amp; Grill - Rockaway Park (Primary)
+📍 416 Beach 116th Street, Rockaway Park, NY 11694
+📞 (718) 474-8807
+🔗 https://www.instagram.com/p/DIXjuwtNAOM/
+⭐ Signature Items:
+• Lobster Roll: $26-28 (market price), described as better than Gosman's Dock in Montauk, fresh lobster with minimal mayo
+• Fresh Seafood Specials: Daily selections featuring local and seasonal catch
+• Sunset Dining Experience: Waterfront deck dining with Jamaica Bay views
+🔥 Popular Items:
+• Fish and Chips: Traditional preparation with fresh catch
+• Burgers: Casual dining options for non-seafood preferences
+• Benedicts: Available during breakfast/brunch service</description>
+      <Point>
+        <coordinates>-73.8363257,40.5781273,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>El Indio Mexican Restaurant (San Diego - Primary)</name>
+      <description>El Indio Mexican Restaurant - San Diego (Primary)
+📍 3695 India Street, San Diego, CA 92103
+📞 (619) 299-0333
+🔗 https://www.instagram.com/p/DNgnr9SS1S7/
+⭐ Signature Items:
+• Taquitos: Hand-rolled and fried to perfection, served with salsa and lettuce (sold individually)
+• Hand-made Tortillas: Fresh tortillas made daily using traditional methods
+• Traditional Mexican Dishes: Recipes from multiple Mexican states and regions</description>
+      <Point>
+        <coordinates>-117.1801462,32.7423263,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Alidoro (SoHo - Primary)</name>
+      <description>Alidoro - SoHo (Primary)
+📍 105 Sullivan Street
+📞 (212) 334-5179
+🔗 https://www.nytimes.com/interactive/2024/dining/best-nyc-sandwiches.html
+⭐ Signature Items:
+• The Michelangelo: Provolone and hot peppers with arugula over meticulously arranged prosciutto
+• The Galileo: Prosciutto with fresh mozzarella, praised by Pete Wells as perfect for &quot;Spartan days&quot;
+• The Alidoro: Prosciutto with sweet peppers, hot peppers, arugula, shaved fennel, mushroom paste, and spicy-chile spread
+🔥 Popular Items:
+• The Fellini: Sopressata, prosciutto, hot peppers, and arugula
+• Il Sole: Hot sopressata, fresh mozzarella, truffle cream, hot pepper jam, and arugula
+• The Mona Lisa: Popular customer choice with traditional Italian ingredients</description>
+      <Point>
+        <coordinates>-74.0027621,40.725668,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Pearl Box (New York - Primary)</name>
+      <description>Pearl Box - New York (Primary)
+📍 357 W Broadway, New York, New York 10013
+📞 None (email: info@pearlboxnyc.com)
+🔗 https://www.theinfatuation.com/new-york/guides/the-best-martinis-in-nyc
+⭐ Signature Items:
+• Filthy Martinis: Signature martini preparation perfect with caviar service
+• Caviar Service: Curated caviar selections
+• Candy Bowl Dessert: $14 impressive variety of gummy candy (Haribo fans will understand)</description>
+      <Point>
+        <coordinates>-74.002988,40.7228997,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Raoul's (New York - Primary)</name>
+      <description>Raoul's - New York (Primary)
+📍 180 Prince St., New York, NY 10012
+📞 (212) 966-3518
+🔗 https://www.theinfatuation.com/new-york/guides/the-best-martinis-in-nyc
+⭐ Signature Items:
+• Classic Martini: Traditional preparation for dignified dining
+• French Bistro Classics: Traditional French American fare</description>
+      <Point>
+        <coordinates>-74.0021675,40.7261362,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Cafe Zaffri (Union Square - Primary)</name>
+      <description>Cafe Zaffri - Union Square (Primary)
+📍 16 E 16th St, New York, NY 10003
+📞 Available via website contact form
+🔗 [https://www.cafezaffri.com](https://www.cafezaffri.com)
+⭐ Signature Items:
+• Trout Crudo: Modern interpretation of Middle Eastern raw fish preparations
+• Shish Barak: Traditional Levantine dumplings with contemporary presentation
+• Lamb Wellington: Inventive take lined with grape leaves</description>
+      <Point>
+        <coordinates>-73.9919506,40.7366686,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>A la Turka (Upper East Side - Primary)</name>
+      <description>A la Turka - Upper East Side (Primary)
+📍 1417 2nd Avenue, New York, NY 10021
+📞 (212) 744-2424
+🔗 https://www.nytimes.com/2026/01/18/nyregion/zohran-mamdani-upper-east-side.html
+⭐ Signature Items:
+• Lamb Adana Kebab: Hand-chopped lamb mixed with fresh red pepper, char-grilled; served on pita with lettuce, tomato, and yogurt sauce
+• Mixed Grill: Lamb adana, chicken shish, chicken chops, meatballs, lamb shish - $39.99
+• Salt-Baked Branzino: Whole branzino baked in salt with lemon and bay leaves</description>
+      <Point>
+        <coordinates>-73.9576457,40.7700896,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Al Badawi (Upper East Side - Primary)</name>
+      <description>Al Badawi - Upper East Side (Primary)
+📍 1725 2nd Avenue, New York, NY 10128
+📞 (917) 388-2868
+🔗 https://www.nytimes.com/2026/01/18/nyregion/zohran-mamdani-upper-east-side.html
+⭐ Signature Items:
+• Mansaf: Palestinian national dish: glistening hunks of fatty bone-in lamb on buttery rice and layers of saj flatbread, served with tangy fermented yogurt sauce (jameed)
+• Ouzi Lamb Shank: Slowly cooked lamb shank over rice, almonds, peas, and herbs; meat falls off the bone, with rich fermented yogurt sauce
+• Pistachio Flatbread: Thin flatbread covered in melted cheese and ground pistachios; the Michelin Guide called it potentially &quot;the best of the kitchen&quot;</description>
+      <Point>
+        <coordinates>-73.9504323,40.7799787,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bemelmans Bar (New York - Primary)</name>
+      <description>Bemelmans Bar - New York (Primary)
+📍 35 E 76th St, New York, NY 10021
+📞 (212) 570-7120
+🔗 https://www.theinfatuation.com/new-york/guides/the-best-martinis-in-nyc
+⭐ Signature Items:
+• Classic Martini: Expertly prepared in iconic setting with live piano accompaniment
+• Signature Cocktails: Famous cocktails in legendary atmosphere
+• Free Snack Mix: Complimentary snack mix on every table</description>
+      <Point>
+        <coordinates>-73.9629901,40.7742485,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Punjabi Junction (Upper East Side - Primary)</name>
+      <description>Punjabi Junction - Upper East Side (Primary)
+📍 1665 1st Avenue, New York, NY 10028
+📞 (718) 374-2685
+🔗 https://www.nytimes.com/2026/01/18/nyregion/zohran-mamdani-upper-east-side.html
+⭐ Signature Items:
+• Biryani: Sells out before noon; Sunday lines out the door. Chicken Biryani $10.00
+• Stuffed Roti: Handmade stuffed flatbreads
+• Desi Masala Chai: Balbir Sohal, &quot;the master of chai,&quot; makes ginger chai, allspice chai, cardamom chai, and pink chai — all sell out regularly. Small $2.00 / Large $4.00</description>
+      <Point>
+        <coordinates>-73.9492651,40.7775073,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Zabb PuTawn (Upper East Side - Primary)</name>
+      <description>Zabb PuTawn - Upper East Side (Primary)
+📍 1584 First Avenue, New York, NY 10028 (between East 82nd and 83rd Streets)
+📞 (212) 988-8800
+🔗 https://www.nytimes.com/2026/01/18/nyregion/zohran-mamdani-upper-east-side.html
+🔥 Popular Items:
+• Som Tum Zabb PuTawn: Chef's special papaya salad, a house signature
+• Kow Soi Gai: Thick, velvety Northern Thai curry noodle soup; The Infatuation recommends it as &quot;a nice creamy balance to all the spice&quot;</description>
+      <Point>
+        <coordinates>-73.9508675,40.7745221,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Smoke Jazz &amp; Supper Club (New York - Primary)</name>
+      <description>Smoke Jazz &amp; Supper Club - New York (Primary)
+📍 2751 Broadway, New York, NY 10025
+📞 (212) 864-6662
+🔗 https://www.theinfatuation.com/new-york/guides/the-best-martinis-in-nyc
+⭐ Signature Items:
+• Classic Martini: Perfect accompaniment to live jazz performances
+• American Contemporary Cuisine: Full dinner menu available during shows
+• Jazz Club Atmosphere: Live music from legendary and emerging artists</description>
+      <Point>
+        <coordinates>-73.9682057,40.8011187,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New Mikado (West Village - Primary)</name>
+      <description>New Mikado - West Village (Primary)
+📍 109 W 14th Street
+📞 [Phone Number Not Available]
+🔗 https://www.instagram.com/p/DMfh1SSM5vI/
+⭐ Signature Items:
+• Omakase Sushi: Chef's choice selection showcasing seasonal fish and traditional techniques
+• At Home Omakase: Premium dining experience delivered to your location
+• Fresh Sushi Selection: Daily selection of the finest quality fish, described as &quot;always fresh&quot;
+🔥 Popular Items:
+• Happy Hour Specials: Exceptional deals that have gained social media attention
+• Traditional Ramen: Perfect balance of spices, highly praised by customers
+• Cooked Japanese Entrees: Traditional Japanese dishes beyond sushi</description>
+      <Point>
+        <coordinates>-73.9971011,40.7375646,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>The Charleston (Williamsburg - Primary)</name>
+      <description>The Charleston - Williamsburg (Primary)
+📍 174 Bedford Avenue, Brooklyn, NY 11249
+📞 (718) 599-9599
+🔗 https://www.instagram.com/p/C6g2XX-rXk5/
+⭐ Signature Items:
+• Beer &amp; Pizza Deal: The establishment's famous combination deal featured as &quot;greatest deal in New York City&quot;
+• Free Happy Hour Pizza: Complimentary pizza served during happy hour periods
+• Craft Beer Selection: 8-10 types of beer on tap featuring various craft options
+🔥 Popular Items:
+• Pizza Varieties: Free or discounted pizza offerings with beer purchase
+• Draft Beer Selection: Rotating taps featuring craft and local breweries
+• Bar Snacks: Traditional bar food offerings to accompany drinks</description>
+      <Point>
+        <coordinates>-73.9576733,40.7181636,0</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>
