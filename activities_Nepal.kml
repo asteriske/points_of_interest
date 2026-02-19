@@ -4,6 +4,50 @@
     <name>Activities Map</name>
     <description>Activity locations extracted from markdown files</description>
     <Placemark>
+      <name>Bhaktapur Durbar Square (Bhaktapur, Nepal)</name>
+      <description>Bhaktapur Durbar Square - Bhaktapur, Nepal
+📍 Bhaktapur-02, Bhaktapur District, Bagmati Province, Nepal
+🌐 N/A
+🔗 https://www.tripadvisor.com/AttractionProductReview-g293890-d19709437-The_Most_Beautiful_1_Day_Experience_in_Kathmandu_Nepal-Kathmandu_Kathmandu_Valley_.html
+ℹ️ Bhaktapur Durbar Square is a UNESCO World Heritage Site and one of three royal palace squares in the Kathmandu Valley. The ancient city of Bhaktapur, also known as &quot;the city of devotees,&quot; was once the capital of the Malla Kingdom and remains the best-preserved medieval town in Nepal. The Durbar...</description>
+      <Point>
+        <coordinates>85.4281,27.6721,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Changu Narayan Temple (Changunarayan, Nepal)</name>
+      <description>Changu Narayan Temple - Changunarayan, Nepal
+📍 Changunarayan-04, Bhaktapur District, Bagmati Province, Nepal
+🌐 N/A
+🔗 https://www.tripadvisor.com/AttractionProductReview-g293890-d19709437-The_Most_Beautiful_1_Day_Experience_in_Kathmandu_Nepal-Kathmandu_Kathmandu_Valley_.html
+ℹ️ Changu Narayan Temple is the oldest Hindu temple in the Kathmandu Valley and a UNESCO World Heritage Site. Dedicated to Lord Vishnu (Narayan), the temple dates back to the 4th century AD and sits atop a hill at the end of the Kathmandu Valley. The temple complex features exceptional stone, wood,...</description>
+      <Point>
+        <coordinates>85.4279,27.7163,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Chitwan National Park (Chitwan, Nepal)</name>
+      <description>Chitwan National Park - Chitwan, Nepal
+📍 Chitwan National Park, Narayani Zone, Central Region, Nepal
+🌐 https://chitwannationalpark.gov.np/
+🔗 https://www.tripadvisor.com/AttractionProductReview-g293890-d17990421-8_Days_Tour_in_Nepal_3_Star_Accommodation-Kathmandu_Kathmandu_Valley_Bagmati_Zone_.html
+ℹ️ Chitwan National Park is Nepal's first national park, established in 1973, and a UNESCO World Heritage Site. Covering 952.63 square kilometers of subtropical lowland in the Terai region, it is home to one of the last populations of single-horned Asiatic rhinoceros and is one of the last refuges of...</description>
+      <Point>
+        <coordinates>84.4383,27.5168,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Boudhanath Stupa (Kathmandu, Nepal)</name>
+      <description>Boudhanath Stupa - Kathmandu, Nepal
+📍 Boudhanath, Kathmandu, Bagmati Province, Nepal
+🌐 N/A
+🔗 https://www.tripadvisor.com/AttractionProductReview-g293890-d17990421-8_Days_Tour_in_Nepal_3_Star_Accommodation-Kathmandu_Kathmandu_Valley_Bagmati_Zone_.html
+ℹ️ Boudhanath Stupa is one of the largest spherical stupas in Nepal and the holiest Tibetan Buddhist temple outside Tibet. The massive mandala-style stupa dominates the skyline and serves as the center of Tibetan culture in Kathmandu, particularly after the 1959 Tibetan diaspora when many refugees...</description>
+      <Point>
+        <coordinates>85.362,27.7214,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
       <name>Kumari Chowk (Kumari Bahal) (Kathmandu, Nepal)</name>
       <description>Kumari Chowk (Kumari Bahal) - Kathmandu, Nepal
 📍 Hridaya Chandra Singh Marg, Basantapur, Kathmandu 44600, Nepal
@@ -13,6 +57,83 @@
 ℹ️ Kumari Chowk is a three-story red-brick palace built in 1757 by King Jaya Prakash Malla. It is the residence of the Royal Kumari of Kathmandu -- a prepubescent girl selected from the Newar Shakya community who is worshipped as the living incarnation of the Hindu goddess Taleju (a form of Durga)....</description>
       <Point>
         <coordinates>85.30472,27.70532,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Patan Durbar Square (Lalitpur, Nepal)</name>
+      <description>Patan Durbar Square - Lalitpur, Nepal
+📍 Patan Durbar Square, Lalitpur, Bagmati Province, Nepal
+🌐 N/A
+🔗 https://www.tripadvisor.com/AttractionProductReview-g293890-d17990421-8_Days_Tour_in_Nepal_3_Star_Accommodation-Kathmandu_Kathmandu_Valley_Bagmati_Zone_.html
+ℹ️ Patan Durbar Square is one of the three Durbar Squares in the Kathmandu Valley, all of which are UNESCO World Heritage Sites. Located in the heart of Lalitpur (historically known as Patan), it is considered the oldest and most artistically accomplished of the three royal palace squares. The square...</description>
+      <Point>
+        <coordinates>85.325,27.6734,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Swayambhunath (Monkey Temple) (Kathmandu, Nepal)</name>
+      <description>Swayambhunath (Monkey Temple) - Kathmandu, Nepal
+📍 Swayambhunath, Kathmandu-15, Kathmandu, Bagmati Province, Nepal
+🌐 N/A
+🔗 https://www.tripadvisor.com/AttractionProductReview-g293890-d17990421-8_Days_Tour_in_Nepal_3_Star_Accommodation-Kathmandu_Kathmandu_Valley_Bagmati_Zone_.html
+ℹ️ Swayambhunath, popularly known as the &quot;Monkey Temple&quot; due to the holy monkeys living in parts of the temple, is an ancient religious complex atop a hill in the Kathmandu Valley. The site is one of the oldest and most revered Buddhist pilgrimage sites in Nepal, dating back over 2,500 years. The...</description>
+      <Point>
+        <coordinates>85.2903,27.7152,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Thamel (Kathmandu, Nepal)</name>
+      <description>Thamel - Kathmandu, Nepal
+📍 Thamel, Kathmandu-26, Kathmandu, Bagmati Province, Nepal
+🌐 N/A
+🔗 https://www.tripadvisor.com/AttractionProductReview-g293890-d17990421-8_Days_Tour_in_Nepal_3_Star_Accommodation-Kathmandu_Kathmandu_Valley_Bagmati_Zone_.html
+ℹ️ Thamel is Kathmandu's primary tourist district and the commercial hub for travelers visiting Nepal. This vibrant, bustling neighborhood is packed with hotels, restaurants, bars, trekking gear shops, bookstores, and souvenir vendors. Originally a hippie haven in the 1960s and 70s, Thamel has evolved...</description>
+      <Point>
+        <coordinates>85.3127,27.7167,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Nagarkot Buddha Peace Park Hiking Trail (Nagarkot, Nepal)</name>
+      <description>Nagarkot Buddha Peace Park Hiking Trail - Nagarkot, Nepal
+📍 Nagarkot to Changu Narayan, Kavrepalanchok District, Bagmati Province, Nepal
+🌐 N/A
+🔗 https://www.tripadvisor.com/AttractionProductReview-g293890-d19709437-The_Most_Beautiful_1_Day_Experience_in_Kathmandu_Nepal-Kathmandu_Kathmandu_Valley_.html
+ℹ️ The Nagarkot Buddha Peace Park Hiking Trail is a scenic 4-hour hiking route that winds through traditional mountain villages, picturesque hills, and forested areas between Nagarkot and Changu Narayan Temple. The trail offers hikers an authentic glimpse into rural Nepali life, passing through...</description>
+      <Point>
+        <coordinates>85.5197,27.7185,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Nagarkot View Tower (Nagarkot, Nepal)</name>
+      <description>Nagarkot View Tower - Nagarkot, Nepal
+📍 Nagarkot, Kavrepalanchok District, Bagmati Province, Nepal
+🌐 N/A
+🔗 https://www.tripadvisor.com/AttractionProductReview-g293890-d19709437-The_Most_Beautiful_1_Day_Experience_in_Kathmandu_Nepal-Kathmandu_Kathmandu_Valley_.html
+ℹ️ Nagarkot View Tower is a popular observation point located at one of the highest points in the Nagarkot area, offering a stunning 360-degree panoramic view of the Himalayan mountain range. The tower provides visitors with unobstructed views of Mount Everest, Annapurna, and other major Himalayan...</description>
+      <Point>
+        <coordinates>85.5197,27.7185,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Mahendra Cave (Pokhara, Nepal)</name>
+      <description>Mahendra Cave - Pokhara, Nepal
+📍 Mahendra Cave, Thulibesi Marg, Pokhara-16, Kaski District, Gandaki Province, Nepal
+🌐 N/A
+🔗 https://www.tripadvisor.com/AttractionProductReview-g293890-d17990421-8_Days_Tour_in_Nepal_3_Star_Accommodation-Kathmandu_Kathmandu_Valley_Bagmati_Zone_.html
+ℹ️ Mahendra Cave is a large limestone cave located in the northern part of Pokhara, named after the late King Mahendra who visited the cave in 1950. The cave features impressive stalactite and stalagmite formations created over thousands of years by mineral-rich water. The main cave chamber extends...</description>
+      <Point>
+        <coordinates>83.9791,28.2724,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Phewa Lake (Phewa Tal) (Pokhara, Nepal)</name>
+      <description>Phewa Lake (Phewa Tal) - Pokhara, Nepal
+📍 Phewa Lake, Pokhara, Kaski District, Gandaki Province, Nepal
+🌐 N/A
+🔗 https://www.tripadvisor.com/AttractionProductReview-g293890-d17990421-8_Days_Tour_in_Nepal_3_Star_Accommodation-Kathmandu_Kathmandu_Valley_Bagmati_Zone_.html
+ℹ️ Phewa Lake is the second largest lake in Nepal and the most famous lake in Pokhara, serving as the centerpiece of the city's tourism. The lake stretches over 4.43 square kilometers and offers stunning reflections of the Annapurna range, including the iconic Machhapuchhre (Fishtail) peak. The...</description>
+      <Point>
+        <coordinates>83.9488,28.2117,0</coordinates>
       </Point>
     </Placemark>
   </Document>
