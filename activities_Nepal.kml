@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Activities Map</name>
+    <description>Activity locations extracted from markdown files</description>
+    <Placemark>
+      <name>Kumari Chowk (Kumari Bahal) (Kathmandu, Nepal)</name>
+      <description>Kumari Chowk (Kumari Bahal) - Kathmandu, Nepal
+📍 Hridaya Chandra Singh Marg, Basantapur, Kathmandu 44600, Nepal
+📞 +977 9841027948
+🌐 N/A (no official website)
+🔗 https://www.tripadvisor.com/Attraction_Review-g293890-d310706-Reviews-Kumari_Chowk-Kathmandu_Kathmandu_Valley_Bagmati_Zone_Central_Region.html
+ℹ️ Kumari Chowk is a three-story red-brick palace built in 1757 by King Jaya Prakash Malla. It is the residence of the Royal Kumari of Kathmandu -- a prepubescent girl selected from the Newar Shakya community who is worshipped as the living incarnation of the Hindu goddess Taleju (a form of Durga)....</description>
+      <Point>
+        <coordinates>85.30472,27.70532,0</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>
