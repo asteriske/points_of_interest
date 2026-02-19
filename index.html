@@ -1,0 +1,305 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>KML Map Viewer</title>
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+  <style>
+    html, body, #map {
+      margin: 0;
+      padding: 0;
+      height: 100%;
+      width: 100%;
+    }
+    .layer-selector {
+      background: #fff;
+      border-radius: 8px;
+      padding: 10px 14px;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.25);
+      max-height: 80vh;
+      overflow-y: auto;
+    }
+    .layer-selector h4 {
+      margin: 0 0 8px 0;
+      font-size: 14px;
+    }
+    .layer-row {
+      display: flex;
+      align-items: center;
+      gap: 6px;
+      padding: 3px 0;
+      cursor: pointer;
+    }
+    .color-swatch {
+      width: 14px;
+      height: 14px;
+      border-radius: 3px;
+      flex-shrink: 0;
+      border: 1px solid rgba(0,0,0,0.2);
+    }
+    .layer-row label {
+      font-size: 13px;
+      cursor: pointer;
+      white-space: nowrap;
+    }
+    .error-overlay {
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      background: rgba(0, 0, 0, 0.6);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      z-index: 10000;
+    }
+    .error-overlay .error-message {
+      background: #fff;
+      padding: 24px 32px;
+      border-radius: 8px;
+      font-size: 16px;
+      color: #c0392b;
+      box-shadow: 0 4px 16px rgba(0,0,0,0.3);
+      max-width: 400px;
+      text-align: center;
+    }
+    .toast {
+      position: fixed;
+      bottom: 20px;
+      left: 50%;
+      transform: translateX(-50%) translateY(100px);
+      background: #333;
+      color: #fff;
+      padding: 12px 24px;
+      border-radius: 6px;
+      font-size: 14px;
+      z-index: 10000;
+      opacity: 0;
+      transition: transform 0.3s ease, opacity 0.3s ease;
+    }
+    .toast.visible {
+      transform: translateX(-50%) translateY(0);
+      opacity: 1;
+    }
+  </style>
+</head>
+<body>
+  <div id="map"></div>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+  <script src="https://api.mapbox.com/mapbox.js/plugins/leaflet-omnivore/v0.3.1/leaflet-omnivore.min.js"></script>
+  <script>
+    var map = L.map('map').setView([40.7, -74.0], 10);
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+    }).addTo(map);
+
+    function showError(message) {
+      var overlay = document.createElement('div');
+      overlay.className = 'error-overlay';
+      var msg = document.createElement('div');
+      msg.className = 'error-message';
+      msg.textContent = message;
+      overlay.appendChild(msg);
+      document.body.appendChild(overlay);
+    }
+
+    function showToast(message) {
+      var toast = document.createElement('div');
+      toast.className = 'toast';
+      toast.textContent = message;
+      document.body.appendChild(toast);
+      requestAnimationFrame(function() {
+        toast.classList.add('visible');
+      });
+      setTimeout(function() {
+        toast.classList.remove('visible');
+        setTimeout(function() {
+          if (toast.parentNode) toast.parentNode.removeChild(toast);
+        }, 300);
+      }, 3000);
+    }
+
+    var COLOR_PALETTE = [
+      '#e6194b', '#3cb44b', '#4363d8', '#f58231', '#911eb4',
+      '#42d4f4', '#f032e6', '#bfef45', '#fabed4', '#469990'
+    ];
+
+    var layers = {};
+
+    function fetchManifest() {
+      return fetch('files.json')
+        .then(function(res) {
+          if (!res.ok) throw new Error('HTTP ' + res.status);
+          return res.json();
+        });
+    }
+
+    function loadKml(filename, colorIndex) {
+      var color = COLOR_PALETTE[colorIndex % COLOR_PALETTE.length];
+      var customLayer = L.geoJson(null, {
+        pointToLayer: function(feature, latlng) {
+          return L.circleMarker(latlng, {
+            radius: 8,
+            fillColor: color,
+            color: '#fff',
+            weight: 2,
+            opacity: 1,
+            fillOpacity: 0.8
+          });
+        },
+        onEachFeature: function(feature, layer) {
+          var props = feature.properties || {};
+          var name = props.name || '';
+          var description = props.description || '';
+          var div = document.createElement('div');
+          div.className = 'popup-content';
+          var h3 = document.createElement('h3');
+          h3.textContent = name;
+          div.appendChild(h3);
+          var p = document.createElement('p');
+          p.style.whiteSpace = 'pre-line';
+          p.textContent = description;
+          div.appendChild(p);
+          layer.bindPopup(div, { maxWidth: 350 });
+        }
+      });
+      var kmlLayer = omnivore.kml(filename, null, customLayer)
+        .on('error', function() {
+          showToast('Failed to load ' + filename);
+        })
+        .addTo(map);
+      layers[filename] = kmlLayer;
+      return kmlLayer;
+    }
+
+    function removeKml(filename) {
+      if (layers[filename]) {
+        map.removeLayer(layers[filename]);
+        delete layers[filename];
+      }
+    }
+
+    function formatLabel(filename) {
+      return filename
+        .replace(/\.kml$/, '')
+        .replace(/_/g, ' - ')
+        .replace(/\b\w/g, function(c) { return c.toUpperCase(); });
+    }
+
+    function getSelectedFromUrl() {
+      var params = new URLSearchParams(window.location.search);
+      var filesParam = params.get('files');
+      if (!filesParam) return [];
+      return filesParam.split(',').filter(function(s) { return s.length > 0; });
+    }
+
+    function updateUrl(selectedStems) {
+      var params = new URLSearchParams(window.location.search);
+      if (selectedStems.length > 0) {
+        params.set('files', selectedStems.join(','));
+      } else {
+        params.delete('files');
+      }
+      var newUrl = window.location.pathname + (params.toString() ? '?' + params.toString() : '');
+      history.replaceState(null, '', newUrl);
+    }
+
+    function getSelectedStems() {
+      var stems = [];
+      Object.keys(layers).forEach(function(filename) {
+        stems.push(filename.replace(/\.kml$/, ''));
+      });
+      return stems;
+    }
+
+    function fitToVisibleLayers() {
+      var allBounds = [];
+      Object.keys(layers).forEach(function(key) {
+        var bounds = layers[key].getBounds();
+        if (bounds.isValid()) {
+          allBounds.push(bounds);
+        }
+      });
+      if (allBounds.length > 0) {
+        var combined = allBounds[0];
+        for (var i = 1; i < allBounds.length; i++) {
+          combined.extend(allBounds[i]);
+        }
+        map.fitBounds(combined, { padding: [30, 30] });
+      }
+    }
+
+    var LayerSelector = L.Control.extend({
+      options: { position: 'topright' },
+      initialize: function(files, opts) {
+        L.setOptions(this, opts);
+        this._files = files;
+      },
+      onAdd: function() {
+        var container = L.DomUtil.create('div', 'layer-selector');
+        L.DomEvent.disableClickPropagation(container);
+        L.DomEvent.disableScrollPropagation(container);
+        var title = L.DomUtil.create('h4', '', container);
+        title.textContent = 'Layers';
+        this._files.forEach(function(filename, idx) {
+          var color = COLOR_PALETTE[idx % COLOR_PALETTE.length];
+          var row = L.DomUtil.create('div', 'layer-row', container);
+          var swatch = L.DomUtil.create('span', 'color-swatch', row);
+          swatch.style.backgroundColor = color;
+          var cb = L.DomUtil.create('input', '', row);
+          cb.type = 'checkbox';
+          cb.value = filename;
+          cb.id = 'layer-' + idx;
+          var label = L.DomUtil.create('label', '', row);
+          label.htmlFor = cb.id;
+          label.textContent = formatLabel(filename);
+          cb.addEventListener('change', function() {
+            if (cb.checked) {
+              loadKml(filename, idx);
+            } else {
+              removeKml(filename);
+            }
+            updateUrl(getSelectedStems());
+          });
+        });
+        this._container = container;
+        return container;
+      }
+    });
+
+    fetchManifest().then(function(files) {
+      if (!files || files.length === 0) {
+        showError('No KML files available');
+        return;
+      }
+
+      var selector = new LayerSelector(files);
+      selector.addTo(map);
+
+      var urlStems = getSelectedFromUrl();
+      if (urlStems.length > 0) {
+        var loadPromises = [];
+        files.forEach(function(filename, idx) {
+          var stem = filename.replace(/\.kml$/, '');
+          if (urlStems.indexOf(stem) !== -1) {
+            var cb = document.getElementById('layer-' + idx);
+            if (cb) cb.checked = true;
+            var kmlLayer = loadKml(filename, idx);
+            loadPromises.push(new Promise(function(resolve) {
+              kmlLayer.on('ready', resolve);
+              kmlLayer.on('error', resolve);
+            }));
+          }
+        });
+        Promise.all(loadPromises).then(function() {
+          fitToVisibleLayers();
+        });
+      }
+    }).catch(function() {
+      showError('Could not load file list');
+    });
+  </script>
+</body>
+</html>
