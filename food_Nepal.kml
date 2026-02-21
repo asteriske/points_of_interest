@@ -4,6 +4,101 @@
     <name>NYC Restaurant Map</name>
     <description>Restaurant locations extracted from markdown files</description>
     <Placemark>
+      <name>Cafe Harati (Bhaktapur - Primary)</name>
+      <description>Cafe Harati - Bhaktapur (Primary)
+📍 Taumadhi Square Near Nyatapola Temple, Bhaktapur 44800, Nepal
+📞 +977 1-6610346
+🔗 https://www.tripadvisor.com/Restaurant_Review-g424934-d32807326-Reviews-Cafe_Harati-Bhaktapur_Kathmandu_Valley_Bagmati_Zone_Central_Region.html
+⭐ Signature Items:
+• Sikarni: Sweet yogurt pots with cinnamon
+• Yogurt: Described by one reviewer as &quot;the best yogurt in the world&quot; (Bhaktapur is famous for its juju dhau/king yogurt)</description>
+      <Point>
+        <coordinates>85.42914,27.671167,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Newa Lahana (Bhaktapur - Primary)</name>
+      <description>Newa Lahana - Bhaktapur (Primary)
+📍 Sukuldhoka, Bhaktapur, Nepal
+📞 01-6620770
+🔗 https://www.instagram.com/newalahana.bkt/
+⭐ Signature Items:
+• Lahana Masala: House specialty (featured in Instagram highlights)
+• Samay Baji Set: Traditional Newari feast platter
+• Choila: Spiced meat preparation</description>
+      <Point>
+        <coordinates>85.4305234,27.6721722,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Restaurant Tusa (Bhaktapur, Nepal - Primary)</name>
+      <description>Restaurant Tusa - Bhaktapur, Nepal (Primary)
+📍 Naagpokhari 6, Bhaktapur 44800, Nepal
+📞 —
+🔗 https://www.tripadvisor.com/Restaurant_Review-g424934-d32683060-Reviews-Restaurant_Tusa-Bhaktapur_Kathmandu_Valley_Bagmati_Zone_Central_Region.html
+⭐ Signature Items:
+• Fermented Potato and Millet Roti: with charred garlic and tomato chutney
+• Batuk Chukauni: Magar lentil dish with yogurt-based potato achar
+• Jackfruit Skewer: with tamarind-mustard glaze</description>
+      <Point>
+        <coordinates>85.47233,27.70496,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Mithila Thali by Chef Santosh Shah (Lalitpur - Primary)</name>
+      <description>Mithila Thali by Chef Santosh Shah - Lalitpur (Primary)
+📍 Jhamsikhel Road, Lalitpur 44700, Nepal
+📞 +977 970 521 5000
+🔗 https://www.tripadvisor.com/Restaurant_Review-g315764-d32972702-Reviews-Mithila_Thali_By_Chef_Santosh_Shah-Patan_Lalitpur_Kathmandu_Valley_Bagmati_Zone_.html
+⭐ Signature Items:
+• Daily Diet Thali: Rs 550; includes chokha, rice, ghee roti, taruwa, tilauri, salad, and Tawa fish from Janakpur
+• Ghee Roti: Traditional clarified butter bread
+• Taruwa: Deep-fried Mithila delicacy
+🔥 Popular Items:
+• Dhuska: Traditional Mithila fried bread
+• Bagiya: Steamed rice flour dumpling
+• Aloo Chokha: Mashed spiced potato</description>
+      <Point>
+        <coordinates>85.313126,27.67586,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Mithila Thali by Chef Santosh Shah (Gairidhara, Kathmandu)</name>
+      <description>Mithila Thali by Chef Santosh Shah - Gairidhara, Kathmandu
+📍 Gairidhara Rd, Kathmandu
+📞 +977 970 521 5000
+🔗 https://www.tripadvisor.com/Restaurant_Review-g315764-d32972702-Reviews-Mithila_Thali_By_Chef_Santosh_Shah-Patan_Lalitpur_Kathmandu_Valley_Bagmati_Zone_.html
+⭐ Signature Items:
+• Daily Diet Thali: Rs 550; includes chokha, rice, ghee roti, taruwa, tilauri, salad, and Tawa fish from Janakpur
+• Ghee Roti: Traditional clarified butter bread
+• Taruwa: Deep-fried Mithila delicacy
+🔥 Popular Items:
+• Dhuska: Traditional Mithila fried bread
+• Bagiya: Steamed rice flour dumpling
+• Aloo Chokha: Mashed spiced potato</description>
+      <Point>
+        <coordinates>85.3278,27.7177,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Mithila Thali by Chef Santosh Shah (Janakpur (Original Location))</name>
+      <description>Mithila Thali by Chef Santosh Shah - Janakpur (Original Location)
+📍 Janakpur, Nepal
+📞 +977 970 521 5000
+🔗 https://www.tripadvisor.com/Restaurant_Review-g315764-d32972702-Reviews-Mithila_Thali_By_Chef_Santosh_Shah-Patan_Lalitpur_Kathmandu_Valley_Bagmati_Zone_.html
+⭐ Signature Items:
+• Daily Diet Thali: Rs 550; includes chokha, rice, ghee roti, taruwa, tilauri, salad, and Tawa fish from Janakpur
+• Ghee Roti: Traditional clarified butter bread
+• Taruwa: Deep-fried Mithila delicacy
+🔥 Popular Items:
+• Dhuska: Traditional Mithila fried bread
+• Bagiya: Steamed rice flour dumpling
+• Aloo Chokha: Mashed spiced potato</description>
+      <Point>
+        <coordinates>85.9249,26.7285,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
       <name>Yala 3G Honacha (Lalitpur - Primary)</name>
       <description>Yala 3G Honacha - Lalitpur (Primary)
 📍 Behind Krishna Mandir, Patan Durbar Square, Patko, Lalitpur 44700, Nepal
