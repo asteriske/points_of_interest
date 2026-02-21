@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>NYC Restaurant Map</name>
+    <description>Restaurant locations extracted from markdown files</description>
+    <Placemark>
+      <name>Yala 3G Honacha (Lalitpur - Primary)</name>
+      <description>Yala 3G Honacha - Lalitpur (Primary)
+📍 Behind Krishna Mandir, Patan Durbar Square, Patko, Lalitpur 44700, Nepal
+📞 +977 984-1460984
+🔗 https://www.instagram.com/yala3ghonacha/?hl=en
+⭐ Signature Items:
+• Chatamari: Traditional Newari savory crepe (rice flour base with toppings)
+• Haku Choila: Spiced buffalo meat, a Newari delicacy
+• Syapumhicha: Newari leaf/vegetable dish</description>
+      <Point>
+        <coordinates>85.325,27.6736,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Yala 3G Honacha (Honacha II)</name>
+      <description>Yala 3G Honacha - Honacha II
+📍 Near Bhimsen Mandir, Patan Durbar Square area
+📞 +977 984-1460984
+🔗 https://www.instagram.com/yala3ghonacha/?hl=en
+⭐ Signature Items:
+• Chatamari: Traditional Newari savory crepe (rice flour base with toppings)
+• Haku Choila: Spiced buffalo meat, a Newari delicacy
+• Syapumhicha: Newari leaf/vegetable dish</description>
+      <Point>
+        <coordinates>85.3248,27.673,0</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>
