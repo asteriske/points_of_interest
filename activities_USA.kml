@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Activities Map</name>
+    <description>Activity locations extracted from markdown files</description>
+    <Placemark>
+      <name>The Barnes Foundation (Philadelphia, PA)</name>
+      <description>The Barnes Foundation - Philadelphia, PA
+📍 2025 Benjamin Franklin Parkway, Philadelphia, PA 19130
+📞 215-278-7000
+🌐 https://www.barnesfoundation.org
+🔗 https://www.tripadvisor.com/Attraction_Review-g60795-d3187840-Reviews-Barnes-Philadelphia_Pennsylvania.html
+ℹ️ The Barnes Foundation was founded in 1922 by Dr. Albert C. Barnes, who made his fortune co-developing Argyrol, an antiseptic silver compound. Inspired by philosopher John Dewey's writings on education and democracy, Barnes chartered the foundation as an educational institution dedicated to teaching...</description>
+      <Point>
+        <coordinates>-75.1727,39.9605,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Calder Gardens (Philadelphia, PA)</name>
+      <description>Calder Gardens - Philadelphia, PA
+📍 2100 Benjamin Franklin Parkway, Philadelphia, PA 19130
+📞 215-278-7250
+🌐 https://caldergardens.org
+🔗 https://www.visitphilly.com/things-to-do/attractions/calder-gardens/
+ℹ️ Calder Gardens is a geometric wonderland dedicated entirely to the work of Alexander Calder (1898-1976), one of the most acclaimed and influential artists of the 20th century and a native Philadelphian. Spanning his entire 50-year career, the attraction features rotating selections of kinetic...</description>
+      <Point>
+        <coordinates>-75.1748,39.9603,0</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>
