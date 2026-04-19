@@ -1,0 +1,126 @@
+<?xml version="1.0" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>NYC Restaurant Map</name>
+    <description>Restaurant locations extracted from markdown files</description>
+    <Placemark>
+      <name>Cleveland Chop (Cleveland, OH - Primary)</name>
+      <description>Cleveland Chop - Cleveland, OH (Primary)
+📍 824 W St Clair Ave, Cleveland, OH 44113
+📞 (216) 696-2467
+🔗 https://www.instagram.com/p/DWq5D_-kd8R/?img_index=1
+⭐ Signature Items:
+• Tomahawk Pork Chop: House signature
+• Veal Chop: Classic steakhouse cut
+• Lobster Mac &amp; Cheese: Popular side/entrée</description>
+      <Point>
+        <coordinates>-81.6998,41.4991,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Condado Tacos (Cleveland Area, OH - Primary)</name>
+      <description>Condado Tacos - Cleveland Area, OH (Primary)
+📍 10 Park Ave, Ste 112, Orange, OH 44122
+📞 (216) 230-2722
+🔗 https://www.instagram.com/p/DWq5D_-kd8R/?img_index=1
+⭐ Signature Items:
+• Build-Your-Own Tacos: Choose protein, shell, toppings, and sauce
+• Easy Pleasy Burrito: Signature burrito</description>
+      <Point>
+        <coordinates>-81.4866,41.4551,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Condado Tacos (Crocker Park (Westlake))</name>
+      <description>Condado Tacos - Crocker Park (Westlake)
+📍 203 Market St, Westlake, OH 44145
+📞 (216) 230-2722
+🔗 https://www.instagram.com/p/DWq5D_-kd8R/?img_index=1
+⭐ Signature Items:
+• Build-Your-Own Tacos: Choose protein, shell, toppings, and sauce
+• Easy Pleasy Burrito: Signature burrito</description>
+      <Point>
+        <coordinates>-81.9518,41.4573,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Guarino's Restaurant (Cleveland, OH - Primary)</name>
+      <description>Guarino's Restaurant - Cleveland, OH (Primary)
+📍 12309 Mayfield Rd, Cleveland, OH 44106
+📞 (216) 231-3100
+🔗 https://www.instagram.com/p/DWq5D_-kd8R/?img_index=1
+⭐ Signature Items:
+• Veal Piccata: Classic Italian preparation
+• Lasagna: Old-school Italian-American house specialty
+• Gnocchi Pesto: House pasta</description>
+      <Point>
+        <coordinates>-81.5971,41.5087,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Mason's Creamery (Cleveland, OH - Primary)</name>
+      <description>Mason's Creamery - Cleveland, OH (Primary)
+📍 4401 Bridge Ave, Cleveland, OH 44113
+📞 (216) 762-1095
+🔗 https://www.instagram.com/p/DWq5D_-kd8R/?img_index=1
+⭐ Signature Items:
+• Housemade Ice Cream: Creative and classic flavors including cocoa puff, floral grey, vanilla bean
+• Korean Corn Dogs: Panko-crusted, drizzled with gochujang sauce
+• Vegan Options: Vegan Buckeye, Vegan Chocolate Cookie Butter</description>
+      <Point>
+        <coordinates>-81.7166,41.4806,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Mitchell's Homemade Ice Cream (Cleveland, OH - Primary)</name>
+      <description>Mitchell's Homemade Ice Cream - Cleveland, OH (Primary)
+📍 1867 W 25th St, Cleveland, OH 44113
+📞 (216) 861-2799
+🔗 https://www.instagram.com/p/DWq5D_-kd8R/?img_index=1
+⭐ Signature Items:
+• Vanilla Bean: Classic housemade
+• Cookies and Cream: Perennial favorite
+• Vegan Buckeye: Vegan option</description>
+      <Point>
+        <coordinates>-81.7044,41.4858,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Poppy (Cleveland, OH - Primary)</name>
+      <description>Poppy - Cleveland, OH (Primary)
+📍 12502 Larchmere Blvd, Cleveland, OH 44120
+📞 (216) 415-5069
+🔗 https://www.instagram.com/p/DWq5D_-kd8R/?img_index=1
+⭐ Signature Items:
+• Beef Tartare: Signature small plate
+• Bone-in Pork Schnitzel: Acclaimed entrée
+• Gochujang Meatballs: Popular appetizer</description>
+      <Point>
+        <coordinates>-81.596,41.4876,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>The South Side (Cleveland, OH - Primary)</name>
+      <description>The South Side - Cleveland, OH (Primary)
+📍 2207 W 11th St, Cleveland, OH 44113
+📞 (216) 937-2288
+🔗 https://www.instagram.com/p/DWq5D_-kd8R/?img_index=1
+⭐ Signature Items:
+• Tremont Burger: House signature burger
+• Fat Kids Nachos: Popular appetizer</description>
+      <Point>
+        <coordinates>-81.6892,41.4821,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Gather Food + Drink (Rocky River, OH - Primary)</name>
+      <description>Gather Food + Drink - Rocky River, OH (Primary)
+📍 20253 Lake Rd, Rocky River, OH 44116
+📞 (440) 799-4083
+🔗 https://www.instagram.com/p/DWq5D_-kd8R/?img_index=1</description>
+      <Point>
+        <coordinates>-81.8454,41.4835,0</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>
