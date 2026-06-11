@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>NYC Restaurant Map</name>
+    <description>Restaurant locations extracted from markdown files</description>
+    <Placemark>
+      <name>Dépanneur Le Pick-Up (Montreal, Canada - Primary)</name>
+      <description>Dépanneur Le Pick-Up - Montreal, Canada (Primary)
+📍 7032 Rue Waverly, Montréal, QC H2S 3J2, Canada
+📞 +1 514-271-8011
+🔗 https://www.bonappetit.com/story/depanneur-le-pick-up
+⭐ Signature Items:
+• Grilled Halloumi Sandwich: The Bon Appétit-celebrated star: toasted seeded bread, fatty/tangy griddled golden halloumi, zingy mint-laced slaw, and harissa-honey mayo slathered on both sides — sweet, spicy, creamy, smoky
+• Club Chipotle Sandwich: Triple-decker of chicken, bacon, lettuce, tomato, and chipotle mayo; classic and well executed
+• Pulled Pork Sandwich: A house staple, also famously offered as a veggie pulled &quot;pork&quot; version</description>
+      <Point>
+        <coordinates>-73.6176597,45.5318187,0</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

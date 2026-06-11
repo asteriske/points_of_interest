@@ -4,6 +4,54 @@
     <name>Activities Map</name>
     <description>Activity locations extracted from markdown files</description>
     <Placemark>
+      <name>The Skyscraper Museum (New York City)</name>
+      <description>The Skyscraper Museum - New York City
+📍 39 Battery Place, New York, NY 10280
+📞 (212) 968-1961
+🌐 https://www.skyscraper.org
+🔗 https://www.instagram.com/p/DYfV0pRGUBQ/?img_index=1
+ℹ️ Since 1996, the Skyscraper Museum has been dedicated to the architecture, engineering, science, and history behind tall buildings. Located in Battery Park City at the southern tip of Manhattan — fittingly amid the skyscrapers it celebrates — the museum features miniature building replicas, scale...</description>
+      <Point>
+        <coordinates>-74.017691,40.70575,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Poster House (New York City)</name>
+      <description>Poster House - New York City
+📍 119 West 23rd Street, New York, NY 10011
+📞 (917) 722-2439
+🌐 https://posterhouse.org
+🔗 https://www.instagram.com/p/DYfV0pRGUBQ/?img_index=1
+ℹ️ Poster House is the first U.S. museum dedicated exclusively to the art of the poster, examining its cultural and historical significance from the late 19th century to the present day. Opened in 2019, the museum's rotating exhibitions explore everything from political movements, AIDS activism, and...</description>
+      <Point>
+        <coordinates>-73.9933365,40.7435881,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Brooklyn Seltzer Museum (New York City)</name>
+      <description>Brooklyn Seltzer Museum - New York City
+📍 474 Hemlock Street, Brooklyn, NY 11208
+📞 (718) 437-7782
+🌐 https://www.brooklynseltzermuseum.com
+🔗 https://www.instagram.com/p/DYfV0pRGUBQ/?img_index=1
+ℹ️ The family-owned Brooklyn Seltzer Museum and factory gives visitors a peek into the science and history of carbonated refreshment. Run by the Gomberg family — longtime seltzer bottlers behind Brooklyn Seltzer Boys — the museum showcases the heritage of New York's beloved fizzy water, including...</description>
+      <Point>
+        <coordinates>-73.8698351,40.6777636,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>The AKC Museum of the Dog (New York City)</name>
+      <description>The AKC Museum of the Dog - New York City
+📍 101 Park Avenue, New York, NY 10016
+📞 (212) 696-8360
+🌐 https://www.museumofthedog.org
+🔗 https://www.instagram.com/p/DYfV0pRGUBQ/?img_index=1
+ℹ️ The American Kennel Club opened the Museum of the Dog in 2019 at the AKC headquarters near Grand Central. Inside, you'll find classical and contemporary art honoring man's best friend, alongside interactive exhibits that are fun for kids and adult canine enthusiasts alike. The collection is one of...</description>
+      <Point>
+        <coordinates>-73.9775762,40.7506105,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
       <name>The Barnes Foundation (Philadelphia, PA)</name>
       <description>The Barnes Foundation - Philadelphia, PA
 📍 2025 Benjamin Franklin Parkway, Philadelphia, PA 19130
@@ -25,6 +73,30 @@
 ℹ️ Calder Gardens is a geometric wonderland dedicated entirely to the work of Alexander Calder (1898-1976), one of the most acclaimed and influential artists of the 20th century and a native Philadelphian. Spanning his entire 50-year career, the attraction features rotating selections of kinetic...</description>
       <Point>
         <coordinates>-75.1748,39.9603,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Waterfront Museum (New York City)</name>
+      <description>Waterfront Museum - New York City
+📍 290 Conover Street, Brooklyn, NY 11231
+📞 (718) 624-4719
+🌐 https://waterfrontmuseum.org
+🔗 https://www.instagram.com/p/DYfV0pRGUBQ/?img_index=1
+ℹ️ The Waterfront Museum is housed aboard the Lehigh Valley Barge #79, a wooden covered barge built in 1914 and now docked in Red Hook, Brooklyn. The floating museum preserves maritime history through artifacts and oral histories from longshoremen and harbor workers, while hosting cultural programming...</description>
+      <Point>
+        <coordinates>-74.0182882,40.6752578,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>The New York Historical (New York City)</name>
+      <description>The New York Historical - New York City
+📍 170 Central Park West (at 77th Street), New York, NY 10024
+📞 (212) 873-3400
+🌐 https://www.nyhistory.org
+🔗 https://www.instagram.com/p/DYfV0pRGUBQ/?img_index=1
+ℹ️ The New York Historical (formerly the New-York Historical Society) is New York City's oldest museum, founded in 1804, and is dedicated to both the history of the Big Apple and the United States. The museum features rotating art and history exhibitions — recent highlights include shows for America's...</description>
+      <Point>
+        <coordinates>-73.9743038,40.7792489,0</coordinates>
       </Point>
     </Placemark>
   </Document>
