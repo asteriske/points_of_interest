@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Activities Map</name>
+    <description>Activity locations extracted from markdown files</description>
+    <Placemark>
+      <name>Quinta da Regaleira (Sintra, Portugal)</name>
+      <description>Quinta da Regaleira - Sintra, Portugal
+📍 Rua Barbosa du Bocage, s/n, 2710-567 Sintra, Portugal
+📞 N/A
+🌐 https://www.regaleira.pt/en
+🔗 https://www.instagram.com/p/DWvjZlbk56J/
+ℹ️ Quinta da Regaleira is a 19th-century estate in Sintra built for António Augusto Carvalho Monteiro, a wealthy Portuguese eccentric and Freemason. The grounds are steeped in esoteric symbolism — Masonic, Rosicrucian, and Templar imagery is woven throughout. The most famous feature is the Poço...</description>
+      <Point>
+        <coordinates>-9.3962,38.7951,0</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

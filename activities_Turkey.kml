@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Activities Map</name>
+    <description>Activity locations extracted from markdown files</description>
+    <Placemark>
+      <name>Basilica Cistern (Yerebatan Sarnıcı) (Istanbul, Turkey)</name>
+      <description>Basilica Cistern (Yerebatan Sarnıcı) - Istanbul, Turkey
+📍 Alemdar, Yerebatan Cd. 1/3, 34110 Fatih, Istanbul, Turkey
+📞 N/A
+🌐 https://yerebatan.com/en/
+🔗 https://www.instagram.com/p/DWoMO7LgiM5/
+ℹ️ The Basilica Cistern (Yerebatan Sarnıcı — &quot;Sunken Palace&quot;) is a vast 6th-century underground Roman water cistern built by Emperor Justinian I in 532 AD. It stretches 138m × 65m and is supported by 336 marble columns, many repurposed from earlier Roman structures. It once supplied water to the Great...</description>
+      <Point>
+        <coordinates>28.9784,41.0085,0</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

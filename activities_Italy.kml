@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Activities Map</name>
+    <description>Activity locations extracted from markdown files</description>
+    <Placemark>
+      <name>Helvetia &amp; Bristol (Florence)</name>
+      <description>Helvetia &amp; Bristol - Florence
+📍 Via dei Pescioni, 2, Firenze, Toscana 50123, Italy
+📞 +39 055 26651
+🌐 https://collezione.starhotels.com/en/our-hotels/helvetia-and-bristol-florence/
+🔗 https://collezione.starhotels.com/en/our-hotels/helvetia-and-bristol-florence/
+ℹ️ Helvetia &amp; Bristol has been enchanting guests since 1885, when Florence was a popular stop on the Grand Tour. One of Florence's most storied 5-star luxury hotels, it is part of the Starhotels Collezione group and holds membership in the Leading Hotels of the World, Virtuoso, and Altagamma.</description>
+      <Point>
+        <coordinates>11.2522361,43.7717275,0</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

@@ -1,0 +1,127 @@
+<?xml version="1.0" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Activities Map</name>
+    <description>Activity locations extracted from markdown files</description>
+    <Placemark>
+      <name>National Archives of Montreal (BAnQ Vieux-Montréal) (Montreal, Quebec)</name>
+      <description>National Archives of Montreal (BAnQ Vieux-Montréal) - Montreal, Quebec
+📍 535 Avenue Viger Est, Montreal, QC H2L 2P3
+📞 +1 514-873-1100
+🌐 https://www.banq.qc.ca
+🔗 https://www.instagram.com/p/DWy80PCEc1h/
+ℹ️ The &quot;National Archives of Montreal&quot; is the Montreal archives centre of Bibliothèque et Archives nationales du Québec (BAnQ), housed in the magnificent Édifice Gilles-Hocquart. The building, completed in 1916, was originally the École des hautes études commerciales (HEC) and is a striking Beaux-Arts...</description>
+      <Point>
+        <coordinates>-73.5546515,45.5132734,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Biosphère (Montreal, Canada)</name>
+      <description>Biosphère - Montreal, Canada
+📍 160 Chemin du Tour-de-l'Isle, Montréal, QC H3C 4G8
+📞 +1 514-868-3000
+🌐 https://espacepourlavie.ca/en/biosphere
+🔗 https://www.instagram.com/p/DZNvFGXMRE8/
+ℹ️ The Biosphère is one of Montréal's most iconic landmarks — a giant geodesic dome originally built as the United States Pavilion for Expo 67, designed by architect Buckminster Fuller. Today it houses an environmental museum (part of Espace pour la vie / Space for Life), with exhibitions on ecology,...</description>
+      <Point>
+        <coordinates>-73.5314268,45.5140865,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Château Dufresne (Montreal, Quebec)</name>
+      <description>Château Dufresne - Montreal, Quebec
+📍 2929 Avenue Jeanne-d'Arc, Montreal, QC H1W 1E7
+📞 +1 514-259-9201
+🌐 https://www.chateaudufresne.com
+🔗 https://www.instagram.com/p/DWy80PCEc1h/
+ℹ️ Château Dufresne is a historic museum housed in a grand Beaux-Arts mansion that feels straight out of a European fairytale. Built between 1915 and 1918, it was originally the twin private residence of brothers Marius and Oscar Dufresne — Marius an engineer and architect, Oscar an industrialist. The...</description>
+      <Point>
+        <coordinates>-73.5538942,45.5539015,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Château Ramezay (Montreal, Quebec)</name>
+      <description>Château Ramezay - Montreal, Quebec
+📍 280 Rue Notre-Dame Est, Montreal, QC H2Y 3B3
+📞 +1 514-861-3708
+🌐 https://www.chateauramezay.qc.ca
+🔗 https://www.instagram.com/p/DWy80PCEc1h/
+ℹ️ Château Ramezay is a historic house museum in the heart of Old Montreal, directly across from City Hall. Built in 1705 as the residence of Claude de Ramezay, governor of Montreal, it is one of the oldest buildings in the city and was the first building in Quebec to be classified as a historic...</description>
+      <Point>
+        <coordinates>-73.5531691,45.5087643,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Circuit Gilles-Villeneuve (Montreal, Canada)</name>
+      <description>Circuit Gilles-Villeneuve - Montreal, Canada
+📍 Circuit Gilles-Villeneuve, Île Notre-Dame, Montréal, QC H3C 4W7
+📞 +1 514-872-6120
+🌐 https://www.parcjeandrapeau.com/en/
+🔗 https://www.instagram.com/p/DZNvFGXMRE8/
+ℹ️ The Circuit Gilles-Villeneuve is the famous motor-racing track on Île Notre-Dame that hosts the Formula 1 Canadian Grand Prix each year. Named after Canadian F1 driver Gilles Villeneuve, it's known for its high-speed straights and the legendary &quot;Wall of Champions.&quot;</description>
+      <Point>
+        <coordinates>-73.5287484,45.5027842,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Port of Montreal Tower (Grand Quai Observation Tower) (Montreal, Quebec)</name>
+      <description>Port of Montreal Tower (Grand Quai Observation Tower) - Montreal, Quebec
+📍 Grand Quai du Port de Montréal, 200 Rue de la Commune Ouest, Montreal, QC H2Y 3Y5
+📞 +1 514-283-7011 (Port of Montreal)
+🌐 https://www.grandquai.com
+🔗 https://www.instagram.com/p/DWy80PCEc1h/
+ℹ️ The Port of Montreal Tower (Tour du Port de Montréal) is an observation tower atop the Grand Quai du Port de Montréal in Old Montreal. Opened in 2019, the tower rises about 65 metres and offers one of the most underrated 360-degree panoramas of the city — sweeping views of the St. Lawrence River,...</description>
+      <Point>
+        <coordinates>-73.5511212,45.5024668,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Île Sainte-Hélène (Montreal, Canada)</name>
+      <description>Île Sainte-Hélène - Montreal, Canada
+📍 Île Sainte-Hélène, Parc Jean-Drapeau, Montréal, QC
+📞 +1 514-872-6120
+🌐 https://www.parcjeandrapeau.com/en/
+🔗 https://www.instagram.com/p/DZNvFGXMRE8/
+ℹ️ Île Sainte-Hélène is the northern island of Parc Jean-Drapeau, a natural island in the St. Lawrence River that was expanded with rock excavated from the Montréal Metro for Expo 67. The post highlights it for its gardens, picnic spots, nature trails, and some of the best views of Montréal's skyline.</description>
+      <Point>
+        <coordinates>-73.53459,45.5188744,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Jean-Doré Beach (Plage Jean-Doré) (Montreal, Canada)</name>
+      <description>Jean-Doré Beach (Plage Jean-Doré) - Montreal, Canada
+📍 151 Circuit Gilles-Villeneuve, Montréal, QC H3C 1A9
+📞 +1 514-872-6120
+🌐 https://www.parcjeandrapeau.com/en/jean-dore-beach-sand-swimming-sun-montreal/
+🔗 https://www.instagram.com/p/DZNvFGXMRE8/
+ℹ️ Jean-Doré Beach is a sandy beach on Île Notre-Dame, just minutes from downtown Montréal. It features a roughly 600-meter sandy shoreline with a designated ~15,000 m² supervised swimming area in a filtered natural lake. The beach was renamed Jean-Doré Beach in 2015 (on its 25th anniversary) in honor...</description>
+      <Point>
+        <coordinates>-73.532,45.5009,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Parc Jean-Drapeau (Montreal, Canada)</name>
+      <description>Parc Jean-Drapeau - Montreal, Canada
+📍 1 Circuit Gilles-Villeneuve, Montréal, QC H3C 1A9
+📞 +1 514-872-6120
+🌐 https://www.parcjeandrapeau.com/en/
+🔗 https://www.instagram.com/p/DZNvFGXMRE8/
+ℹ️ Parc Jean-Drapeau is one of Montréal's most beautiful places to visit — a sprawling island park that offers an escape from the city without actually leaving it. Spread across Île Sainte-Hélène and the man-made Île Notre-Dame in the middle of the St. Lawrence River, it was the site of Expo 67 and...</description>
+      <Point>
+        <coordinates>-73.5343331,45.5138637,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Westmount Conservatory &amp; Greenhouse (Westmount, Quebec)</name>
+      <description>Westmount Conservatory &amp; Greenhouse - Westmount, Quebec
+📍 4574 Sherbrooke Street West (Westmount Park, near Avenue Lansdowne), Westmount, QC H3Z 1G1
+📞 +1 514-989-5200 (City of Westmount)
+🌐 https://westmount.org
+🔗 https://www.instagram.com/p/DWy80PCEc1h/
+ℹ️ The Westmount Conservatory (Conservatoire de Westmount) is a charming Victorian-style glass greenhouse adjoining the Westmount Public Library in Westmount Park. Built in 1927, it offers a tiny tropical escape in the middle of the city — lush greenery, soft humidity, and sweet little pathways that...</description>
+      <Point>
+        <coordinates>-73.5994743,45.4810205,0</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

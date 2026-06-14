@@ -4,6 +4,34 @@
     <name>NYC Restaurant Map</name>
     <description>Restaurant locations extracted from markdown files</description>
     <Placemark>
+      <name>Cappella (Montreal - Primary)</name>
+      <description>Cappella - Montreal (Primary)
+📍 3 Rue de la Commune Ouest, Vieux-Montréal, Montréal, QC H2Y 1Z3
+📞 N/A (no public phone listed)
+🔗 https://www.instagram.com/p/DZPGKGvAEiP/
+⭐ Signature Items:
+• Craft cocktails: Curated cocktail menu, the core of the experience
+• Savory panini: Served to guests during the &quot;waiting&quot; stage of entry
+• Bottle service: Exclusive selections available for tables and private bookings</description>
+      <Point>
+        <coordinates>-73.5534472,45.5052065,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Crew Collective &amp; Café (Montreal - Primary)</name>
+      <description>Crew Collective &amp; Café - Montreal (Primary)
+📍 360 Rue Saint-Jacques, Montréal, QC H2Y 1P5
+📞 (514) 285-7095
+🔗 https://www.instagram.com/p/DW2fsCZAUWi/
+⭐ Signature Items:
+• Latte Dulce de Leche: Espresso drink with dulce de leche
+• Matcha Latte: House matcha preparation
+• Smoked Salmon Bagel: Made with Fairmount Bagel</description>
+      <Point>
+        <coordinates>-73.5590947,45.5022617,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
       <name>Dépanneur Le Pick-Up (Montreal, Canada - Primary)</name>
       <description>Dépanneur Le Pick-Up - Montreal, Canada (Primary)
 📍 7032 Rue Waverly, Montréal, QC H2S 3J2, Canada
@@ -15,6 +43,34 @@
 • Pulled Pork Sandwich: A house staple, also famously offered as a veggie pulled &quot;pork&quot; version</description>
       <Point>
         <coordinates>-73.6176597,45.5318187,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Lahmajoune Villeray (Montreal - Primary)</name>
+      <description>Lahmajoune Villeray - Montreal (Primary)
+📍 420 Rue Faillon Est, Montréal, QC H2R 2E6
+📞 +1 438-380-3805
+🔗 https://www.instagram.com/p/DYAu38lSiIy/
+⭐ Signature Items:
+• Lahmajoune: Thin baked flatbread topped with seasoned minced meat; the house signature, made fresh on the spot
+• Cheese sticks / cheese flatbreads: Fresh-baked cheese-topped flatbreads
+• Kebbeh (kibbeh): Available in meat and vegetarian versions</description>
+      <Point>
+        <coordinates>-73.6198394,45.5403758,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Lovebird (Montreal - Primary)</name>
+      <description>Lovebird - Montreal (Primary)
+📍 101 Rue de la Capitale, Montréal, QC H2Y 1Y8 (beneath Hôtel Nelligan)
+📞 (514) 788-4010
+🔗 https://www.instagram.com/p/DZBUPEytcHa/
+⭐ Signature Items:
+• Smoked oysters: small bite designed to complement the drinks
+• Lobster roll: small plate
+• Beef tartare: small plate</description>
+      <Point>
+        <coordinates>-73.5541613,45.503825,0</coordinates>
       </Point>
     </Placemark>
   </Document>
