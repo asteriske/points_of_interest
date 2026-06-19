@@ -4,6 +4,20 @@
     <name>NYC Restaurant Map</name>
     <description>Restaurant locations extracted from markdown files</description>
     <Placemark>
+      <name>Rockaway Brewing Company (Beach Taproom) (Arverne, Queens - Primary)</name>
+      <description>Rockaway Brewing Company (Beach Taproom) - Arverne, Queens (Primary)
+📍 415 Beach 72nd Street, Arverne, Queens, NY 11692
+📞 N/A
+🔗 https://secretnyc.co/guide-to-rockaway-beach/
+⭐ Signature Items:
+• ROCKAWAY (Pilsner / flagship beers): House-brewed lagers and ales
+• Rotating Drafts: Six beers on rotation
+• Seasonal Brews: Changing seasonal taps</description>
+      <Point>
+        <coordinates>-73.8010455,40.5930317,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
       <name>Anchovies (Boston, Massachusetts - Primary)</name>
       <description>Anchovies - Boston, Massachusetts (Primary)
 📍 433 Columbus Avenue, Boston, MA 02116
@@ -346,6 +360,146 @@
 • Handmade pastas: over a dozen / up to 15 fresh pasta dishes on offer</description>
       <Point>
         <coordinates>-73.9951708,40.7205649,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bungalow Bar (Rockaway Beach, Queens - Primary)</name>
+      <description>Bungalow Bar - Rockaway Beach, Queens (Primary)
+📍 377 Beach 92nd Street (on Jamaica Bay, at the foot of the Cross Bay Bridge)
+📞 (718) 945-2100
+🔗 https://secretnyc.co/guide-to-rockaway-beach/
+⭐ Signature Items:
+• Crab Cakes: A house specialty since opening
+• Tequila Shrimp: Popular seafood plate
+• Fish Tacos: Beach-bar staple</description>
+      <Point>
+        <coordinates>-73.8159358,40.5864725,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Connolly's Bar (Rockaway Beach, Queens - Primary)</name>
+      <description>Connolly's Bar - Rockaway Beach, Queens (Primary)
+📍 155 Beach 95th Street
+📞 N/A
+🔗 https://secretnyc.co/guide-to-rockaway-beach/
+⭐ Signature Items:
+• Frozen Piña Colada: The legendary signature drink
+• Frozen Cocktails: Other slushie-style frozen drinks
+• Cold Beer: Classic bar pours</description>
+      <Point>
+        <coordinates>-73.8166958,40.5844065,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Rippers (Rockaway Beach, Queens - Primary)</name>
+      <description>Rippers - Rockaway Beach, Queens (Primary)
+📍 8601 Shore Front Parkway
+📞 N/A
+🔗 https://secretnyc.co/guide-to-rockaway-beach/
+⭐ Signature Items:
+• Grass-Fed Burger: The signature build
+• All-Beef Franks: Classic boardwalk hot dogs
+• Vegan Burger: Plant-based option</description>
+      <Point>
+        <coordinates>-73.8108529,40.5846431,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Rockaway Beach Surf Club (Rockaway Beach, Queens - Primary)</name>
+      <description>Rockaway Beach Surf Club - Rockaway Beach, Queens (Primary)
+📍 302 Beach 87th Street
+📞 N/A
+🔗 https://secretnyc.co/guide-to-rockaway-beach/
+⭐ Signature Items:
+• Fish Tacos: From the in-house Tacoway Beach kitchen
+• Frozen / Fruity Cocktails: Beachy mixed drinks
+• Craft Pints: Rotating draft beer</description>
+      <Point>
+        <coordinates>-73.8121609,40.588782,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sayra's Wine Bar (Rockaway Beach, Queens - Primary)</name>
+      <description>Sayra's Wine Bar - Rockaway Beach, Queens (Primary)
+📍 91-11 Rockaway Beach Boulevard
+📞 N/A
+🔗 https://secretnyc.co/guide-to-rockaway-beach/
+⭐ Signature Items:
+• Curated Wines by the Glass: Rotating wine selection
+• Craft Cocktails: House mixed drinks
+• Light Bites / Small Plates: Charcuterie and shareable snacks</description>
+      <Point>
+        <coordinates>-73.8150074,40.5865214,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tacoway Beach (Rockaway Beach, Queens - Primary)</name>
+      <description>Tacoway Beach - Rockaway Beach, Queens (Primary)
+📍 302 Beach 87th Street (inside Rockaway Beach Surf Club)
+📞 N/A
+🔗 https://secretnyc.co/guide-to-rockaway-beach/
+⭐ Signature Items:
+• Crispy Beer-Battered Fish Tacos: The standout, lightly battered and fried fish
+• Mushroom &quot;Meat&quot; Tacos: Popular vegetarian/vegan option
+• Tofu Tacos: Another plant-based choice</description>
+      <Point>
+        <coordinates>-73.8121609,40.588782,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Whit's End (Rockaway Beach, Queens - Primary)</name>
+      <description>Whit's End - Rockaway Beach, Queens (Primary)
+📍 97-02 Rockaway Beach Boulevard
+📞 N/A
+🔗 https://secretnyc.co/guide-to-rockaway-beach/
+⭐ Signature Items:
+• Brussels Sprouts Pizza: A signature vegetable pie
+• Seafood Pizzas: Rotating seafood-topped options
+• Wood-Fired Margherita: Classic blistered-crust pie</description>
+      <Point>
+        <coordinates>-73.8190492,40.5849485,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Caracas Arepa Bar (Rockaway Park, Queens - Primary)</name>
+      <description>Caracas Arepa Bar - Rockaway Park, Queens (Primary)
+📍 106-01 Shore Front Parkway
+📞 N/A
+🔗 https://secretnyc.co/guide-to-rockaway-beach/
+⭐ Signature Items:
+• Arepas: Cornmeal pockets with a range of savory fillings (shredded beef, cheese, plantain, etc.)
+• Tequeños: Fried cheese sticks
+• Yuca Balls / Bolitas: Fried yucca side</description>
+      <Point>
+        <coordinates>-73.8260314,40.5805716,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Claudette's (Cuisine by Claudette) (Rockaway Park, Queens - Primary)</name>
+      <description>Claudette's (Cuisine by Claudette) - Rockaway Park, Queens (Primary)
+📍 143 Beach 116th Street
+📞 N/A
+🔗 https://secretnyc.co/guide-to-rockaway-beach/
+⭐ Signature Items:
+• Açai Bowls: A signature offering
+• Baked Goods: House-made pastries and treats
+• Gourmet Coffee: Specialty coffee drinks</description>
+      <Point>
+        <coordinates>-73.8368557,40.5788356,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>The Rockaway Hotel + Spa (Margie's &amp; The Rooftop) (Rockaway Park, Queens - Primary)</name>
+      <description>The Rockaway Hotel + Spa (Margie's &amp; The Rooftop) - Rockaway Park, Queens (Primary)
+📍 108-10 Rockaway Beach Drive
+📞 (718) 514-2900
+🔗 https://secretnyc.co/guide-to-rockaway-beach/
+⭐ Signature Items:
+• $2 Oysters (Wednesdays at Margie's): Weekly oyster special
+• American Classics (Margie's): Seasonal American menu
+• Rooftop Cocktails: Craft drinks with skyline views</description>
+      <Point>
+        <coordinates>-73.8301158,40.5813453,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
