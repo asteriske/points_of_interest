@@ -4,6 +4,71 @@
     <name>NYC Restaurant Map</name>
     <description>Restaurant locations extracted from markdown files</description>
     <Placemark>
+      <name>Aliments Viens (Montreal - Primary)</name>
+      <description>Aliments Viens - Montreal (Primary)
+📍 4556b Boulevard Saint-Laurent, Montréal, QC H2W 1Z5
+📞 +1 514-379-4666
+🔗 https://instagram.com/alimentsviens
+⭐ Signature Items:
+• House charcuterie: sold by the gram/kilogram; a range of cured meats made in-house
+• Ham and cheese sandwich: particularly popular; built on Hof Kelsten bread</description>
+      <Point>
+        <coordinates>-73.5879833,45.5206876,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Arthur's Nosh Bar (Montreal - Primary)</name>
+      <description>Arthur's Nosh Bar - Montreal (Primary)
+📍 4621 Rue Notre-Dame Ouest, Montréal, QC H4C 1S5
+📞 +1 514-757-5190
+🔗 https://instagram.com/arthursmtl
+⭐ Signature Items:
+• Gravlax (lox) sandwich: house cured</description>
+      <Point>
+        <coordinates>-73.5883529,45.4734441,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Au Pied de Cochon (Montreal, Quebec - Primary)</name>
+      <description>Au Pied de Cochon - Montreal, Quebec (Primary)
+📍 536 Avenue Duluth Est, Montréal, QC H2L 1A8
+📞 (514) 281-1114
+🔗 https://instagram.com/restaurantaupieddecochon
+⭐ Signature Items:
+• Duck in a Can (Canard en conserve): Half a duck breast, a lobe of foie gras, balsamic demi-glace, cabbage, roasted garlic and thyme sealed in a can, cooked, then opened and poured over toast tableside
+• Foie gras poutine: Fries fried in duck fat, cheese curds and lobes of foie gras
+• Foie gras hamburger: Among the ten-plus foie gras menu items</description>
+      <Point>
+        <coordinates>-73.5743809,45.5222139,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bar St-Denis (Montreal, QC - Primary)</name>
+      <description>Bar St-Denis - Montreal, QC (Primary)
+📍 6966 Rue Saint-Denis, Montreal, QC H2S 2S4
+📞 (514) 276-9717
+🔗 https://instagram.com/barstdenis
+⭐ Signature Items:
+• Chicken ballotine: with veal sweetbreads and morels
+• Scallops: with radish and rhubarb</description>
+      <Point>
+        <coordinates>-73.6124244,45.5372041,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Beauty's Luncheonette (Montreal - Primary)</name>
+      <description>Beauty's Luncheonette - Montreal (Primary)
+📍 93 Avenue du Mont-Royal Ouest, Montréal, QC H2T 2S5
+📞 +1 514-849-8883
+🔗 https://instagram.com/beautysmtl
+⭐ Signature Items:
+• Beauty's Special: lox and cream cheese on a Montreal-style bagel (created by Freda Sckolnick)
+• Mish-Mash omelette: omelette with hot dog, salami, green pepper, and fried onion (created by Freda Sckolnick)</description>
+      <Point>
+        <coordinates>-73.5874882,45.5190998,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
       <name>CA LEM Creamery (Montreal, Quebec - Primary)</name>
       <description>CA LEM Creamery - Montreal, Quebec (Primary)
 📍 6926 Rue Sherbrooke Ouest, Montréal, QC H4B 1P8
@@ -18,6 +83,18 @@
       </Point>
     </Placemark>
     <Placemark>
+      <name>Cabaret L'Enfer (Montreal, QC - Primary)</name>
+      <description>Cabaret L'Enfer - Montreal, QC (Primary)
+📍 4094 Rue Saint-Denis, Montreal, QC H2W 2M5
+📞 (514) 419-1090
+🔗 https://instagram.com/cabaret.lenfer
+⭐ Signature Items:
+• Seasonal tasting menu: Italian roots with French technique, local and seasonal ingredients</description>
+      <Point>
+        <coordinates>-73.5768027,45.520926,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
       <name>Cappella (Montreal - Primary)</name>
       <description>Cappella - Montreal (Primary)
 📍 3 Rue de la Commune Ouest, Vieux-Montréal, Montréal, QC H2Y 1Z3
@@ -29,6 +106,20 @@
 • Bottle service: Exclusive selections available for tables and private bookings</description>
       <Point>
         <coordinates>-73.5534472,45.5052065,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Christina's Cuisine (Laval (Greater Montreal) - Primary)</name>
+      <description>Christina's Cuisine - Laval (Greater Montreal) (Primary)
+📍 4367 Boulevard Notre-Dame, Laval, QC H7W 1T3
+📞 (450) 934-8462
+🔗 https://instagram.com/christinascuisine
+⭐ Signature Items:
+• Roasted lamb and pork: homemade specialties (the main reason to visit)
+• Pastitsio: &quot;perfect&quot; baked Greek pasta dish
+• Fried calamari: &quot;almost impossibly crispy&quot;</description>
+      <Point>
+        <coordinates>-73.7579436,45.5379456,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -74,6 +165,62 @@
       </Point>
     </Placemark>
     <Placemark>
+      <name>Elena (Montreal - Primary)</name>
+      <description>Elena - Montreal (Primary)
+📍 5090 Rue Notre-Dame Ouest, Montreal, QC H4C 1T1
+📞 +1 514-379-4883
+🔗 https://instagram.com/elenamontreal
+⭐ Signature Items:
+• Wood-fired sourdough pizza: naturally leavened crust with local/seasonal toppings (mushroom &amp; cheese among favorites)
+• Mafalda al ragu: housemade pasta with ragu
+• Kale Caesar salad: frequently praised</description>
+      <Point>
+        <coordinates>-73.5917459,45.4697872,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Green Spot (Montreal, Quebec - Primary)</name>
+      <description>Green Spot - Montreal, Quebec (Primary)
+📍 3041 Rue Notre-Dame Ouest, Montréal, QC H4C 1N9
+📞 (514) 931-6473
+🔗 https://instagram.com/greenspot1947
+⭐ Signature Items:
+• Smoked meat: Classic Montreal-style
+• Breakfast / all-day breakfast: Diner staple
+• Burgers: House favorite</description>
+      <Point>
+        <coordinates>-73.5788021,45.4809122,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Haidilao Hot Pot (Montreal - Primary)</name>
+      <description>Haidilao Hot Pot - Montreal (Primary)
+📍 1194 Rue Sainte-Catherine Ouest, Montreal, QC H3B 1K1
+📞 (438) 773-9413
+🔗 https://instagram.com/haidilaomontreal
+⭐ Signature Items:
+• Spicy Sichuan (mala) broth: the signature numbing-spicy base
+• Tomato broth: mild, popular crowd-pleaser
+• Sukiyaki broth: savory Japanese-style base</description>
+      <Point>
+        <coordinates>-73.5738625,45.4987464,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hof Kelsten (Montreal, Quebec - Primary)</name>
+      <description>Hof Kelsten - Montreal, Quebec (Primary)
+📍 4524 Boulevard Saint-Laurent, Montréal, QC H2T 1R4
+📞 Unknown
+🔗 https://instagram.com/hofkelsten
+⭐ Signature Items:
+• Chocolate babka: A house standout (around $24)
+• Croissants: (around $3.75)
+• Pain au chocolat Valrhona: (around $4.25)</description>
+      <Point>
+        <coordinates>-73.5870403,45.5202679,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
       <name>Iconoglace (Montreal, Quebec - Primary)</name>
       <description>Iconoglace - Montreal, Quebec (Primary)
 📍 1320 Rue Bélanger, Montréal, QC H2G 1A2
@@ -85,6 +232,19 @@
 • Vegan Soft Serve: Plant-based options</description>
       <Point>
         <coordinates>-73.6060557,45.5433607,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kitano Shokudo (Montreal - Primary)</name>
+      <description>Kitano Shokudo - Montreal (Primary)
+📍 143 Avenue du Mont-Royal Est, Montreal, QC H2T 1N9
+📞 (438) 383-4700
+🔗 https://instagram.com/kitanoshokudo
+⭐ Signature Items:
+• Chirashi don: artfully arranged bowl of sashimi over rice
+• Uni carbonara: signature crossover dish</description>
+      <Point>
+        <coordinates>-73.5852,45.5216,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -144,6 +304,20 @@
       </Point>
     </Placemark>
     <Placemark>
+      <name>Le Taj (Montreal, Quebec - Primary)</name>
+      <description>Le Taj - Montreal, Quebec (Primary)
+📍 2077 Rue Stanley (at Sherbrooke), Montréal, QC H3A 1R7
+📞 (514) 845-9015
+🔗 https://instagram.com/restaurantletaj
+⭐ Signature Items:
+• Tandoori chicken: Grilled in the visible tandoor oven
+• Lamb chops: Tandoor-grilled
+• Samosas &amp; pakoras: Noted for their light, perfumed, herb-flavored batter</description>
+      <Point>
+        <coordinates>-73.5767438,45.5010421,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
       <name>Les Givrés (Montreal, Quebec - Primary)</name>
       <description>Les Givrés - Montreal, Quebec (Primary)
 📍 2730 Rue Masson, Montréal, QC H1Y 1W5
@@ -155,6 +329,19 @@
 • Rotating Flavours: Seasonal, Quebec-sourced</description>
       <Point>
         <coordinates>-73.5756472,45.5465501,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Liverpool House (Montreal, QC - Primary)</name>
+      <description>Liverpool House - Montreal, QC (Primary)
+📍 2501 Rue Notre-Dame Ouest, Montreal, QC H3J 1N6
+📞 (514) 313-6049
+🔗 https://instagram.com/liverpoolhousemtl
+⭐ Signature Items:
+• Fresh seafood and oysters: market-driven selection
+• French-Quebec comfort cooking: rich, seasonal plates</description>
+      <Point>
+        <coordinates>-73.5753751,45.4829637,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -172,6 +359,33 @@
       </Point>
     </Placemark>
     <Placemark>
+      <name>Lulu Épicerie (Montreal - Primary)</name>
+      <description>Lulu Épicerie - Montreal (Primary)
+📍 2507 Rue Notre-Dame Ouest, Montréal, QC H3J 1N6
+📞 +1 514-507-5858
+🔗 https://instagram.com/luluepicerie
+⭐ Signature Items:
+• Lebanese shawarma: charcoal-grilled, a signature of the house
+• Manakeesh: homemade Lebanese flatbreads (e.g., za'atar)</description>
+      <Point>
+        <coordinates>-73.5754573,45.482918,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Mano Cornuto (Montreal - Primary)</name>
+      <description>Mano Cornuto - Montreal (Primary)
+📍 988 Rue Ottawa, Montreal, QC H3C 1S9
+📞 (514) 868-8451
+🔗 https://instagram.com/manocornuto.mtl
+⭐ Signature Items:
+• Fresh pasta: housemade, pasta program led by Emilie Madeleine
+• Daily focaccia / schiacciata: baked daily
+• Insalate (salads): seasonal</description>
+      <Point>
+        <coordinates>-73.5584696,45.4950791,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
       <name>Mlle Catherine (Montreal, Quebec - Primary)</name>
       <description>Mlle Catherine - Montreal, Quebec (Primary)
 📍 423 Place Jacques-Cartier, Montréal, QC H2Y 3B1
@@ -183,6 +397,75 @@
 • Sorbets: Fruit-packed dairy-free options</description>
       <Point>
         <coordinates>-73.5528497,45.508019,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ohayo Café (Montreal - Primary)</name>
+      <description>Ohayo Café - Montreal (Primary)
+📍 145 Avenue du Mont-Royal Est, Montreal, QC H2T 1N6
+📞 Unknown
+🔗 https://instagram.com/ohayocafemtl
+⭐ Signature Items:
+• Ebi (shrimp) burger: crispy-yet-juicy patty with tangy yuzu mayo on a soft brioche bun (a standout, rave-reviewed item)
+• Japanese-style French toast: signature yōshoku dish
+• Keema curry: with ground beef and pork</description>
+      <Point>
+        <coordinates>-73.5851555,45.5216266,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Pasta Pooks (Montreal - Primary)</name>
+      <description>Pasta Pooks - Montreal (Primary)
+📍 6700 Rue Clark, Montreal, QC H2S 1J6
+📞 Unknown
+🔗 https://instagram.com/pasta.pooks
+⭐ Signature Items:
+• Ricotta &amp; spinach ravioli: hand-rolled
+• Tagliatelle bolognese: classic ragù
+• Gnocchi (pomodoro): praised</description>
+      <Point>
+        <coordinates>-73.6131608,45.5313144,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Patati Patata (Montreal, QC - Primary)</name>
+      <description>Patati Patata - Montreal, QC (Primary)
+📍 4177 Boulevard Saint-Laurent, Montréal, QC H2W 1Y7
+📞 (514) 844-0216
+🔗 https://instagram.com/patatimontreal
+⭐ Signature Items:
+• Mini Burgers: small, flavorful burgers that are the house specialty
+• Poutine: including a version with olives; squeaky curds with a strong cheese-to-gravy-to-fry ratio</description>
+      <Point>
+        <coordinates>-73.5814607,45.5180548,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Pizza Toni (Montreal - Primary)</name>
+      <description>Pizza Toni - Montreal (Primary)
+📍 4909 Rue Notre-Dame Ouest, Montreal, QC
+📞 (514) 742-4232
+🔗 https://instagram.com/thepizzatoni
+⭐ Signature Items:
+• Spicy honey garlic pepperoni slice/pie: crispy pepperoni with hot honey
+• Pepperoni slice: praised for perfectly crispy pepperoni
+• Margherita: classic</description>
+      <Point>
+        <coordinates>-73.5906325,45.4709979,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Restaurant Mikado (Montreal, Quebec - Primary)</name>
+      <description>Restaurant Mikado - Montreal, Quebec (Primary)
+📍 399 Avenue Laurier Ouest, Montréal, QC H2V 2K3
+📞 (514) 279-4809
+🔗 https://instagram.com/restaurant.mikado
+⭐ Signature Items:
+• Sashimi: Praised by reviewers as excellent; among the kitchen's strongest offerings
+• Specialty maki rolls: Innovative house creations
+• Omakase: Multi-course chef's selection using the freshest ingredients</description>
+      <Point>
+        <coordinates>-73.5966923,45.5189785,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -200,17 +483,84 @@
       </Point>
     </Placemark>
     <Placemark>
+      <name>Schwartz's Deli (Montreal, QC - Primary)</name>
+      <description>Schwartz's Deli - Montreal, QC (Primary)
+📍 3895 Boulevard Saint-Laurent, Montréal, QC H2W 1X9
+📞 (514) 842-4813
+🔗 https://instagram.com/schwartzsofficial
+⭐ Signature Items:
+• Smoked Meat Sandwich: hand-cut, served on rye with yellow mustard (medium-fat is the classic order)
+• Smoked Meat Platter: with pickle, fries, and a Cott Black Cherry soda</description>
+      <Point>
+        <coordinates>-73.5776499,45.5163277,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Smoke Meat Pete (L'Île-Perrot, QC - Primary)</name>
+      <description>Smoke Meat Pete - L'Île-Perrot, QC (Primary)
+📍 283 1re Avenue, L'Île-Perrot, QC J7V 5A1
+📞 (514) 425-6068
+🔗 https://instagram.com/smokemeatpete2521
+⭐ Signature Items:
+• Montreal Smoked Meat Sandwich: hand-carved smoked meat on rye with mustard
+• Poutine: classic Quebec fries, cheese curds, and gravy
+• Hardwood Charcoal Steaks: grilled over charcoal</description>
+      <Point>
+        <coordinates>-73.9613452,45.3957655,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
       <name>Snowdon Deli (Montreal, Quebec - Primary)</name>
       <description>Snowdon Deli - Montreal, Quebec (Primary)
 📍 5265 Boulevard Décarie, Montréal, QC H3W 3C2 (corner of Décarie Blvd. &amp; Isabella Ave.)
 📞 (514) 488-9129
 🔗 https://www.instagram.com/p/DZvX1L3mjx9/?img_index=1
 ⭐ Signature Items:
-• Smoked Meat: Hand-carved Montreal smoked meat, repeatedly called among the best in the city
+• Smoked Meat: Hand-carved Montreal smoked meat on rye with mustard, repeatedly called among the best in the city
 • Karnatzel: Dried, spiced beef sausage — a fan-favourite (regulars ask for &quot;a lifetime of karnatzels&quot;)
 • Party Sandwiches: Famous catering/party sandwich platters</description>
       <Point>
         <coordinates>-73.6317688,45.4852491,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sumac Restaurant (Montreal - Primary)</name>
+      <description>Sumac Restaurant - Montreal (Primary)
+📍 3618 Rue Notre-Dame Ouest, Montréal, QC H4C 1P5
+📞 +1 514-935-1444
+🔗 https://instagram.com/sumacrestaurant
+⭐ Signature Items:
+• Falafel sandwich: with tahini and hummus
+• Chicken shawarma: house specialty
+• Sabich: eggplant and egg sandwich</description>
+      <Point>
+        <coordinates>-73.5808424,45.4794842,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sushi Nishinokaze (Montreal - Primary)</name>
+      <description>Sushi Nishinokaze - Montreal (Primary)
+📍 5400 Boulevard Saint-Laurent, Montreal, QC H2T 1S1
+📞 (438) 558-6558
+🔗 https://instagram.com/sushi_nishinokaze
+⭐ Signature Items:
+• ~20–21 course Edomae omakase: the full experience (~$413.91 CAD per person incl. tax and service, beverages excluded)
+• Kohada (gizzard shad) nigiri: classic Edomae signature
+• Ni-hotate: wild Îles-de-la-Madeleine scallop simmered in its master stock</description>
+      <Point>
+        <coordinates>-73.5976761,45.5250404,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Taverne Sur Le Square (Westmount, QC - Primary)</name>
+      <description>Taverne Sur Le Square - Westmount, QC (Primary)
+📍 1 Westmount Square, Westmount, QC H3Z 2P9
+📞 (514) 989-9779
+🔗 https://instagram.com/tavernesquare
+⭐ Signature Items:
+• Comfort-food taverne plates: seasonal, market-driven menu</description>
+      <Point>
+        <coordinates>-73.5885888,45.4872345,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -225,6 +575,20 @@
 • Cookies: House cookies to pair</description>
       <Point>
         <coordinates>-73.5735982,45.5198817,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Vin Mon Lapin (Montreal, QC - Primary)</name>
+      <description>Vin Mon Lapin - Montreal, QC (Primary)
+📍 150 Rue Saint-Zotique Est, Montreal, QC H2S 1K9
+📞 (514) 379-4550
+🔗 https://instagram.com/vinmonlapin
+⭐ Signature Items:
+• House-made pasta: changes with the season
+• Dry-aged / matured meats: aged on the premises
+• House-made sorbets: for dessert</description>
+      <Point>
+        <coordinates>-73.6106593,45.5330224,0</coordinates>
       </Point>
     </Placemark>
   </Document>
