@@ -4,6 +4,20 @@
     <name>NYC Restaurant Map</name>
     <description>Restaurant locations extracted from markdown files</description>
     <Placemark>
+      <name>CA LEM Creamery (Montreal, Quebec - Primary)</name>
+      <description>CA LEM Creamery - Montreal, Quebec (Primary)
+📍 6926 Rue Sherbrooke Ouest, Montréal, QC H4B 1P8
+📞 N/A (Instagram: @calemcreamery)
+🔗 https://www.instagram.com/p/DXfSIpzGLll/
+⭐ Signature Items:
+• Vietnamese Coffee: Signature globally-inspired flavour
+• Matcha Crème Brûlée: Creative house flavour
+• London Fog / Orange Creamsicle / Cookie Monster / Mojito: Rotating inventive flavours</description>
+      <Point>
+        <coordinates>-73.6355007,45.4601327,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
       <name>Cappella (Montreal - Primary)</name>
       <description>Cappella - Montreal (Primary)
 📍 3 Rue de la Commune Ouest, Vieux-Montréal, Montréal, QC H2Y 1Z3
@@ -15,6 +29,20 @@
 • Bottle service: Exclusive selections available for tables and private bookings</description>
       <Point>
         <coordinates>-73.5534472,45.5052065,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Crèmerie Meu Meu (Montreal, Quebec - Primary)</name>
+      <description>Crèmerie Meu Meu - Montreal, Quebec (Primary)
+📍 4458 Rue Saint-Denis, Montréal, QC H2J 2L1
+📞 (514) 288-5889
+🔗 https://www.instagram.com/p/DXfSIpzGLll/
+⭐ Signature Items:
+• Homemade Ice Cream: Over 120 unique, all-natural flavours
+• Sorbets: House-made fruit sorbets
+• Rotating Specials: Seasonal and creative flavours</description>
+      <Point>
+        <coordinates>-73.5823298,45.5235376,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -46,6 +74,34 @@
       </Point>
     </Placemark>
     <Placemark>
+      <name>Iconoglace (Montreal, Quebec - Primary)</name>
+      <description>Iconoglace - Montreal, Quebec (Primary)
+📍 1320 Rue Bélanger, Montréal, QC H2G 1A2
+📞 N/A (Instagram: @iconoglace)
+🔗 https://www.instagram.com/p/DXfSIpzGLll/
+⭐ Signature Items:
+• Soft Serve: Rotating artisanal flavours
+• Creative Toppings: Inventive garnishes and pairings
+• Vegan Soft Serve: Plant-based options</description>
+      <Point>
+        <coordinates>-73.6060557,45.5433607,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>La Cave à Manger (Montreal, Quebec - Primary)</name>
+      <description>La Cave à Manger - Montreal, Quebec (Primary)
+📍 386 Rue Saint-Paul Est, Montréal, QC H2Y 1H3
+📞 (514) 419-2355
+🔗 https://www.instagram.com/p/DXfSIpzGLll/
+⭐ Signature Items:
+• Soft Serve / Frozen Treats: The item that landed it on the ice cream list
+• Viennoiseries &amp; Pastries: House-baked croissants and breads
+• Fresh Pizzas &amp; Sandwiches: Savoury café fare</description>
+      <Point>
+        <coordinates>-73.5513306,45.5094602,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
       <name>Lahmajoune Villeray (Montreal - Primary)</name>
       <description>Lahmajoune Villeray - Montreal (Primary)
 📍 420 Rue Faillon Est, Montréal, QC H2R 2E6
@@ -60,6 +116,48 @@
       </Point>
     </Placemark>
     <Placemark>
+      <name>Le Blueboy (Artisan Glacier) (Montreal, Quebec - Primary)</name>
+      <description>Le Blueboy (Artisan Glacier) - Montreal, Quebec (Primary)
+📍 150 Avenue du Mont-Royal Est, Montréal, QC H2T 1N6
+📞 (438) 383-4034
+🔗 https://www.instagram.com/p/DXfSIpzGLll/
+⭐ Signature Items:
+• Soft Serve &amp; Frozen Yogurt: Made on-site, weekly-changing flavours
+• Churros: Fresh fried churros
+• Beignets: House beignets to pair with ice cream</description>
+      <Point>
+        <coordinates>-73.584902,45.5215511,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Le K (Le Kiosque K) (Montreal, Quebec - Primary)</name>
+      <description>Le K (Le Kiosque K) - Montreal, Quebec (Primary)
+📍 Square Saint-Louis (stone pavilion), Avenue Laval, Montréal, QC H2X 3H5
+📞 (514) 833-9810
+🔗 https://www.instagram.com/p/DXfSIpzGLll/
+⭐ Signature Items:
+• Hazelnut Gelato: A standout must-try
+• Gelato: Rotating flavours
+• Coffee &amp; Pastries: Espresso drinks, bagels, croissants, sandwiches</description>
+      <Point>
+        <coordinates>-73.5698253,45.5171171,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Les Givrés (Montreal, Quebec - Primary)</name>
+      <description>Les Givrés - Montreal, Quebec (Primary)
+📍 2730 Rue Masson, Montréal, QC H1Y 1W5
+📞 (514) 373-7558
+🔗 https://www.instagram.com/p/DXfSIpzGLll/
+⭐ Signature Items:
+• Artisanal Ice Cream: Made from scratch with natural, local ingredients
+• Sorbets: Fruit-forward dairy-free options
+• Rotating Flavours: Seasonal, Quebec-sourced</description>
+      <Point>
+        <coordinates>-73.5756472,45.5465501,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
       <name>Lovebird (Montreal - Primary)</name>
       <description>Lovebird - Montreal (Primary)
 📍 101 Rue de la Capitale, Montréal, QC H2Y 1Y8 (beneath Hôtel Nelligan)
@@ -71,6 +169,48 @@
 • Beef tartare: small plate</description>
       <Point>
         <coordinates>-73.5541613,45.503825,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Mlle Catherine (Montreal, Quebec - Primary)</name>
+      <description>Mlle Catherine - Montreal, Quebec (Primary)
+📍 423 Place Jacques-Cartier, Montréal, QC H2Y 3B1
+📞 (514) 866-5757
+🔗 https://www.instagram.com/p/DXfSIpzGLll/
+⭐ Signature Items:
+• Soft Serve: Unique rotating soft serve flavours
+• Gelato: House-made rotating gelato
+• Sorbets: Fruit-packed dairy-free options</description>
+      <Point>
+        <coordinates>-73.5528497,45.508019,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ripples Ice Cream (Montreal, Quebec - Primary)</name>
+      <description>Ripples Ice Cream - Montreal, Quebec (Primary)
+📍 3971 Boulevard Saint-Laurent, Montréal, QC H2W 1Y2
+📞 (514) 842-1697
+🔗 https://www.instagram.com/p/DXfSIpzGLll/
+⭐ Signature Items:
+• Homemade Ice Cream: Over 30 unique flavours
+• Sorbets: House-made fruit sorbets
+• Rotating Flavours: Changing daily/seasonal selection</description>
+      <Point>
+        <coordinates>-73.5781494,45.5165384,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Unicone (Montreal, Quebec - Primary)</name>
+      <description>Unicone - Montreal, Quebec (Primary)
+📍 3873 Rue Saint-Denis, Montréal, QC H2W 2M4
+📞 (514) 360-8823
+🔗 https://www.instagram.com/p/DXfSIpzGLll/
+⭐ Signature Items:
+• Weekly Soft Serve: A single nostalgic, globally-inspired flavour that changes each week
+• Creative Drinks: Specialty lattes and signature beverages
+• Cookies: House cookies to pair</description>
+      <Point>
+        <coordinates>-73.5735982,45.5198817,0</coordinates>
       </Point>
     </Placemark>
   </Document>
