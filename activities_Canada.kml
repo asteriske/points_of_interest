@@ -100,6 +100,18 @@
       </Point>
     </Placemark>
     <Placemark>
+      <name>Navettes Fluviales (River Shuttles) (Montreal, Quebec)</name>
+      <description>Navettes Fluviales (River Shuttles) - Montreal, Quebec
+📍 Vieux-Port de Montréal (Old Port), Ville-Marie, Montreal, Quebec
+📞 See navettesfluviales.com/contact-us
+🌐 https://navettesfluviales.com
+🔗 https://www.instagram.com/p/DX2bgvlsaBz/
+ℹ️ The navettes fluviales are seasonal river shuttle boats that carry passengers across the St. Lawrence River, offering both practical transit and a scenic way to see Montreal from the water during the summer. They connect the Old Port (Vieux-Port) with destinations including Boucherville, Île...</description>
+      <Point>
+        <coordinates>-73.5529866,45.5042344,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
       <name>Parc Jean-Drapeau (Montreal, Canada)</name>
       <description>Parc Jean-Drapeau - Montreal, Canada
 📍 1 Circuit Gilles-Villeneuve, Montréal, QC H3C 1A9
@@ -121,6 +133,18 @@
 ℹ️ Pointe-à-Callière is Montreal's Museum of Archaeology and History, established in 1992 and built directly above the actual remains of the city's birthplace at Place Royale — a National Historic Site. An archaeological tour leads visitors from the Indigenous occupation of the site, through the...</description>
       <Point>
         <coordinates>-73.55418,45.5025957,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Redpath Museum (Montreal, Quebec)</name>
+      <description>Redpath Museum - Montreal, Quebec
+📍 859 Sherbrooke Street West, Montreal, Quebec H3A 0C4
+📞 514-398-4861
+🌐 https://www.mcgill.ca/redpath/
+🔗 https://www.instagram.com/p/DaG2XNPx3Mr/
+ℹ️ The Redpath Museum is a natural history museum on the McGill University campus in downtown Montreal. Housed in a striking Greek Revival building completed in 1882, it is the oldest building in Canada purpose-built to be a museum. The collections span natural history, world cultures, and the history...</description>
+      <Point>
+        <coordinates>-73.5775143,45.5044713,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
