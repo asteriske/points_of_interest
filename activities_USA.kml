@@ -64,6 +64,42 @@
       </Point>
     </Placemark>
     <Placemark>
+      <name>Cold Spring Harbor State Park (Long Island, New York)</name>
+      <description>Cold Spring Harbor State Park - Long Island, New York
+📍 Route 25A / Harbor Road, Cold Spring Harbor, NY 11724
+📞 (631) 423-1770 (NY State Parks, Long Island Region)
+🌐 https://parks.ny.gov/parks/coldspringharbor
+🔗 https://www.nationalgeographic.com/travel/article/new-york-city-train-to-hiking-trails
+ℹ️ Featured in National Geographic's &quot;6 spectacular hikes near New York City—and you can reach them by train&quot; (by Lina Zeldovich). Cold Spring Harbor State Park is a 47-acre state park on Long Island's North Shore with two moderate trails winding through dense forest. It connects to the Long Island...</description>
+      <Point>
+        <coordinates>-73.4592824,40.8632136,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hudson Highlands State Park Preserve (Cold Spring, New York)</name>
+      <description>Hudson Highlands State Park Preserve - Cold Spring, New York
+📍 Route 9D, Cold Spring, NY 10516 (multiple trailheads along 9D)
+📞 (845) 225-7207 (NY State Parks, Taconic Region)
+🌐 https://parks.ny.gov/parks/hudsonhighlands
+🔗 https://www.nationalgeographic.com/travel/article/new-york-city-train-to-hiking-trails
+ℹ️ Featured in National Geographic's &quot;6 spectacular hikes near New York City—and you can reach them by train&quot; (by Lina Zeldovich). Hudson Highlands State Park Preserve is a rugged, undeveloped preserve on the east side of the Hudson River known for steep climbs and panoramic river views. The article...</description>
+      <Point>
+        <coordinates>-73.9499107,41.4772251,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Little Stony Point (Cold Spring, New York)</name>
+      <description>Little Stony Point - Cold Spring, New York
+📍 3011 Route 9D, Cold Spring, NY 10516
+📞 (845) 225-7207 (NY State Parks, Taconic Region)
+🌐 https://littlestonypoint.org
+🔗 https://www.nationalgeographic.com/travel/article/new-york-city-train-to-hiking-trails
+ℹ️ Mentioned in National Geographic's &quot;6 spectacular hikes near New York City—and you can reach them by train&quot; (by Lina Zeldovich) as an easy option alongside the Hudson Highlands hikes. Little Stony Point is a small peninsula jutting into the Hudson River just north of Cold Spring village. Its **easy...</description>
+      <Point>
+        <coordinates>-73.9650901,41.4259948,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
       <name>Cold Spring Waterfront and Boscobel (Cold Spring, New York)</name>
       <description>Cold Spring Waterfront and Boscobel - Cold Spring, New York
 📍 1601 Route 9D, Garrison, NY 10524
@@ -73,6 +109,18 @@
 ℹ️ This is a gentle riverfront walk paired with a historic mansion. **Boscobel**, an 1808 Federal-style house overlooking West Point, reopened in August 2025 after a 17-month closure that began when its library ceiling came down in April 2024. The new **&quot;Preservation in Progress&quot; tours** walk guests...</description>
       <Point>
         <coordinates>-73.9474557,41.3699231,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Storm King State Park (Cornwall-on-Hudson, New York)</name>
+      <description>Storm King State Park - Cornwall-on-Hudson, New York
+📍 Storm King State Park, Cornwall-on-Hudson, NY 12520
+📞 (845) 786-2701 (Palisades Interstate Park Commission, NY)
+🌐 https://parks.ny.gov/parks/stormking
+🔗 https://www.nationalgeographic.com/travel/article/new-york-city-train-to-hiking-trails
+ℹ️ Featured in National Geographic's &quot;6 spectacular hikes near New York City—and you can reach them by train&quot; (by Lina Zeldovich). Storm King State Park sits on the west side of the Hudson Highlands and is known for dramatic, panoramic river views. Highlights include the **Highland Trail** (about 5...</description>
+      <Point>
+        <coordinates>-73.9929715,41.4246342,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -109,6 +157,18 @@
 ℹ️ The crushed-stone **Tower Trail** switchbacks 1.6 miles up the Giant's &quot;left hip&quot; to a four-story stone observation tower with a vantage point all the way to Long Island Sound. The blue-blazed **Quinnipiac loop** adds a real scramble up the Giant's &quot;head&quot; and 400-foot cliff overlooks for a five- to...</description>
       <Point>
         <coordinates>-72.9013809,41.4203514,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Franny Reese State Park (Highland, New York)</name>
+      <description>Franny Reese State Park - Highland, New York
+📍 Franny Reese State Park, Highland, NY 12528 (trailhead off Haviland Road, near the Walkway Over the Hudson west end)
+📞 (845) 473-4440 (Scenic Hudson / NY State Parks)
+🌐 https://parks.ny.gov/parks/frannyreese
+🔗 https://www.nationalgeographic.com/travel/article/new-york-city-train-to-hiking-trails
+ℹ️ Featured in National Geographic's &quot;6 spectacular hikes near New York City—and you can reach them by train&quot; (by Lina Zeldovich). Franny Reese State Park is a quiet, wooded preserve on the west bank of the Hudson, directly accessible by walking across the Walkway Over the Hudson from Poughkeepsie....</description>
+      <Point>
+        <coordinates>-73.9566575,41.699472,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -244,6 +304,18 @@
       </Point>
     </Placemark>
     <Placemark>
+      <name>Rockefeller State Park Preserve (Westchester County, New York)</name>
+      <description>Rockefeller State Park Preserve - Westchester County, New York
+📍 125 Phelps Way (Route 117), Pleasantville / Sleepy Hollow, NY 10570
+📞 (914) 631-1470 (NY State Parks)
+🌐 https://parks.ny.gov/parks/rockefeller
+🔗 https://www.nationalgeographic.com/travel/article/new-york-city-train-to-hiking-trails
+ℹ️ Featured in National Geographic's &quot;6 spectacular hikes near New York City—and you can reach them by train&quot; (by Lina Zeldovich). Rockefeller State Park Preserve offers roughly **55 miles of wide, easy-to-moderate carriage road trails** on former Rockefeller family land in Westchester's Pocantico...</description>
+      <Point>
+        <coordinates>-73.8309454,41.1077178,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
       <name>The New York Historical (New York City)</name>
       <description>The New York Historical - New York City
 📍 170 Central Park West (at 77th Street), New York, NY 10024
@@ -253,6 +325,18 @@
 ℹ️ The New York Historical (formerly the New-York Historical Society) is New York City's oldest museum, founded in 1804, and is dedicated to both the history of the Big Apple and the United States. The museum features rotating art and history exhibitions — recent highlights include shows for America's...</description>
       <Point>
         <coordinates>-73.9743038,40.7792489,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Belmont Lake State Park (West Babylon, New York)</name>
+      <description>Belmont Lake State Park - West Babylon, New York
+📍 625 Belmont Avenue, West Babylon, NY 11704
+📞 (631) 667-5055 (NY State Parks)
+🌐 https://parks.ny.gov/parks/belmontlake
+🔗 https://www.nationalgeographic.com/travel/article/new-york-city-train-to-hiking-trails
+ℹ️ Featured in National Geographic's &quot;6 spectacular hikes near New York City—and you can reach them by train&quot; (by Lina Zeldovich). Belmont Lake State Park is an easy, family-friendly hiking destination on Long Island. A 3.8-mile path connects **Belmont Lake** and **Argyle Lake** via flat, wooded...</description>
+      <Point>
+        <coordinates>-73.3445578,40.7341477,0</coordinates>
       </Point>
     </Placemark>
   </Document>
