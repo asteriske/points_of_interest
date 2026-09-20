@@ -1,0 +1,61 @@
+<?xml version="1.0" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>NYC Restaurant Map</name>
+    <description>Restaurant locations extracted from markdown files</description>
+    <Placemark>
+      <name>Dar Poeta (Rome - Primary)</name>
+      <description>Dar Poeta - Rome (Primary)
+📍 Vicolo del Bologna 45/46
+📞 +39 06 5880516
+🔗 https://www.instagram.com/p/DFcx5ItoGSg/
+⭐ Signature Items:
+• Patataccia Pizza: Unique combination with potatoes, creamed zucchini, and speck
+• Classic Margherita: Traditional pizza with their signature dough
+• Dessert Calzone: Filled with fresh ricotta and Nutella
+🔥 Popular Items:
+• Roman-style pizzas: Unique to Dar Poeta's preparation method
+• Calzones: Stuffed with spicy sausage and mozzarella
+• Creative pizza combinations: Seasonal and innovative toppings</description>
+      <Point>
+        <coordinates>12.4685635,41.8914177,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>La Matriciana dal 1870 (Rome - Primary)</name>
+      <description>La Matriciana dal 1870 - Rome (Primary)
+📍 Via del Viminale 40
+📞 +39 06 488 1775
+🔗 https://www.instagram.com/p/DFcx5ItoGSg/
+⭐ Signature Items:
+• Bucatini alla Matriciana: The restaurant's namesake dish, expertly prepared
+• Rigatoni alla Carbonara: Classic Roman pasta preparation
+• Spaghetti alle Vongole: Fresh clams with perfectly cooked pasta
+🔥 Popular Items:
+• Truffle pasta dishes: Seasonal preparations featuring fresh truffles
+• Traditional Roman secondi: Classic meat and fish preparations
+• Curated wine selection: Expertly chosen by sommelier owners</description>
+      <Point>
+        <coordinates>12.4959524,41.9002425,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Le Mani in Pasta (Rome - Primary)</name>
+      <description>Le Mani in Pasta - Rome (Primary)
+📍 Via dei Genovesi 37
+📞 +39 06 581 6017
+🔗 https://www.instagram.com/p/DFcx5ItoGSg/
+⭐ Signature Items:
+• Gnocchetti Sardi: With fava beans, cherry tomatoes, shrimp, truffles, and asparagus
+• Linguine with Lobster: Fresh seafood preparation
+• Seabass Carpaccio with Truffles: Elegant appetizer
+🔥 Popular Items:
+• Classic Roman pastas: Cacio e pepe, carbonara, and other traditional preparations
+• Fettuccine with mushrooms and truffles: Seasonal specialty
+• Grilled seafood platter: Fresh Mediterranean preparations</description>
+      <Point>
+        <coordinates>12.4771406,41.887722,0</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

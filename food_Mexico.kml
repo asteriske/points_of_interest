@@ -1,0 +1,118 @@
+<?xml version="1.0" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>NYC Restaurant Map</name>
+    <description>Restaurant locations extracted from markdown files</description>
+    <Placemark>
+      <name>El Pasillo del Humo (Oaxaca City - Primary)</name>
+      <description>El Pasillo del Humo - Oaxaca City (Primary)
+📍 Inside Mercado 20 de Noviembre, Miguel Cabrera 116-120, Centro, 68000 Oaxaca de Juárez, Oaxaca, Mexico
+📞 N/A (passageway of multiple vendors)
+🔗 https://www.instagram.com/p/DUJZ5y6koaE/
+⭐ Signature Items:
+• Tasajo: Thin-sliced marinated pork, grilled over charcoal until well-done but juicy
+• Cecina: Thin-sliced salted beef, charcoal grilled
+• Chorizo: Oaxacan-style grilled chorizo</description>
+      <Point>
+        <coordinates>-96.727,17.058,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>El Sabor Zapoteco (Teotitlán del Valle, Oaxaca - Primary)</name>
+      <description>El Sabor Zapoteco - Teotitlán del Valle, Oaxaca (Primary)
+📍 Avenida Juárez 30, Teotitlán del Valle, Oaxaca 70461, Mexico
+📞 Email: info@elsaborzapoteco.com
+🔗 https://www.instagram.com/p/DUJZ5y6koaE/
+⭐ Signature Items:
+• Black Bean Soup: Beans toasted on clay comal, ground on metate to powder, then cooked in aromatic chicken broth in minutes. Served with fried tortillas, avocado, cheese, and habanero-lime pickled onions
+• Mole de Pipián: Nutty, creamy mole made from toasted pumpkin seeds ground with sesame seeds, onion, garlic, tomatillos, chiles, and epazote on the metate. Served with chicken or fish
+• Salsa de Molcajete: Roma tomatoes roasted on comal with chiles de agua</description>
+      <Point>
+        <coordinates>-96.5194,17.0329,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Las Tlayudas de Mina y Bustamante (Oaxaca City - Primary)</name>
+      <description>Las Tlayudas de Mina y Bustamante - Oaxaca City (Primary)
+📍 Calle de Carlos María Bustamante 322, Centro, 68000 Oaxaca de Juárez, Oaxaca, Mexico (NW corner of Mina and Bustamante streets, ~2 blocks from the Zócalo)
+📞 +52 951 441 1704
+🔗 https://www.instagram.com/p/DUJZ5y6koaE/
+⭐ Signature Items:
+• Tlayuda: LP-sized crispy masa disk with asiento, beans, choice of fillings (standard: tomato, avocado, beef, quesillo), finished over charcoal
+• Champurrado: Hot, rich, frothy drinking chocolate made with nixtamalized corn and chocolate</description>
+      <Point>
+        <coordinates>-96.7251,17.0596,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>El Lechoncito de Oro (Oaxaca City - Primary)</name>
+      <description>El Lechoncito de Oro - Oaxaca City (Primary)
+📍 Calle de Los Libres S/N (corner of Libres and Murguía), Ruta Independencia, Centro, 68000 Oaxaca de Juárez, Oaxaca, Mexico
+📞 N/A (street food stand)
+🔗 https://www.instagram.com/p/DUJZ5y6koaE/
+⭐ Signature Items:
+• Tacos de Lechón: Juicy, slow-cooked shredded pork leg in tortillas with fiery green salsa
+• Tostadas de Lechón: Crispy tortilla topped with shredded lechón
+• Tortas de Lechón: Sandwich with shredded pork</description>
+      <Point>
+        <coordinates>-96.724,17.062,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Levadura de Olla (Oaxaca City - Primary)</name>
+      <description>Levadura de Olla - Oaxaca City (Primary)
+📍 Calle de Manuel García Vigil 304, Ruta Independencia, Centro, 68000 Oaxaca de Juárez, Oaxaca, Mexico
+📞 +52 951 269 9068
+🔗 https://www.instagram.com/p/DUJZ5y6koaE/
+⭐ Signature Items:
+• Tomato Salad: Several varieties of tomatoes and tomatillos with tomate de árbol, over beet purée, dressed with house-fermented fruit vinegar
+• Tamal: Mix of pork and chicken with roughly ground nixtamalized corn, topped with chile purée, served in a bed of smoldering corn husks adding aromatic smokiness
+• Burnt Milk and Corn Pudding: Dessert paired with cactus fruit sorbet</description>
+      <Point>
+        <coordinates>-96.7247,17.0642,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Memelas San Agustín (Oaxaca City - Primary)</name>
+      <description>Memelas San Agustín - Oaxaca City (Primary)
+📍 Calle de Manuel Fernández Fiallo 309, Centro, 68000 Oaxaca de Juárez, Oaxaca, Mexico (behind Iglesia de San Agustín)
+📞 N/A (informal street stall)
+🔗 https://www.instagram.com/p/DUJZ5y6koaE/
+⭐ Signature Items:
+• Memelas: Thick corn tortilla boats with asiento (caramelized rendered pork fat), smooth saucy refried black beans, and choice of toppings
+• Memelas con Nopales: Topped with shredded paddle cactus
+• Memelas con Quesillo: Topped with local hand-stretched mozzarella-like cheese</description>
+      <Point>
+        <coordinates>-96.723,17.0592,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Rito Chocolatería (Oaxaca City - Primary)</name>
+      <description>Rito Chocolatería - Oaxaca City (Primary)
+📍 Calle Porfirio Díaz 708-H, Ruta Independencia, Centro, 68000 Oaxaca de Juárez, Oaxaca, Mexico
+📞 +52 951 501 0937
+🔗 https://www.instagram.com/p/DUJZ5y6koaE/
+⭐ Signature Items:
+• Drinking Chocolate (Water): Traditional preparation, sharp and cacao-forward
+• Drinking Chocolate (Milk): Richer, rounder version
+• Stone-Ground Chocolate Discs: For making traditional drinking chocolate at home</description>
+      <Point>
+        <coordinates>-96.7252,17.0686,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tacos del Carmen (Oaxaca City - Primary)</name>
+      <description>Tacos del Carmen - Oaxaca City (Primary)
+📍 Jesús Carranza 110, Ruta Independencia, Centro, 68000 Oaxaca de Juárez, Oaxaca, Mexico (corner of Jesús Carranza and Manuel García Vigil, near Plazuela del Carmen Alto)
+📞 +52 951 361 5244
+🔗 https://www.instagram.com/p/DUJZ5y6koaE/
+⭐ Signature Items:
+• Empanada de Amarillo: Folded tortilla filled with stewed chicken in mole amarillo, scented with hoja santa and avocado leaf, with quesillo and beans
+• Rolled Chicken Tacos: Large, tightly rolled tacos filled to order
+• Squash Blossom Quesadilla: With quesillo</description>
+      <Point>
+        <coordinates>-96.7261,17.0669,0</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

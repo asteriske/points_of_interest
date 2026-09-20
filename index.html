@@ -91,7 +91,19 @@
   <script src="https://api.mapbox.com/mapbox.js/plugins/leaflet-omnivore/v0.3.1/leaflet-omnivore.min.js"></script>
   <script>
     var map = L.map('map').setView([40.7, -74.0], 10);
-    L.tileLayer('https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}{r}.png', {
+
+    // CARTO requires an API key on basemaps.cartocdn.com; without one the
+    // tiles still load but carry an "API KEY REQUIRED" watermark. The
+    // placeholder below is substituted at deploy time from the CARTO_KEY CI
+    // variable, so the key stays out of the repo. Left unsubstituted when
+    // opening this file locally, which just means a watermarked basemap.
+    var CARTO_KEY = 'cb1_2y0t_1_1acce75ebb404437ab30e9b0';
+    var cartoTiles = 'https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}{r}.png';
+    if (CARTO_KEY && CARTO_KEY !== '__CARTO' + '_KEY__') {
+      cartoTiles += '?key=' + CARTO_KEY;
+    }
+
+    L.tileLayer(cartoTiles, {
       attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors &copy; <a href="https://carto.com/attributions">CARTO</a>',
       subdomains: 'abcd',
       maxZoom: 20

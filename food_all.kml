@@ -4,6 +4,1128 @@
     <name>NYC Restaurant Map</name>
     <description>Restaurant locations extracted from markdown files</description>
     <Placemark>
+      <name>Aliments Viens (Montreal - Primary)</name>
+      <description>Aliments Viens - Montreal (Primary)
+📍 4556b Boulevard Saint-Laurent, Montréal, QC H2W 1Z5
+📞 +1 514-379-4666
+🔗 https://instagram.com/alimentsviens
+⭐ Signature Items:
+• House charcuterie: sold by the gram/kilogram; a range of cured meats made in-house
+• Ham and cheese sandwich: particularly popular; built on Hof Kelsten bread</description>
+      <Point>
+        <coordinates>-73.5879833,45.5206876,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Arthur's Nosh Bar (Montreal - Primary)</name>
+      <description>Arthur's Nosh Bar - Montreal (Primary)
+📍 4621 Rue Notre-Dame Ouest, Montréal, QC H4C 1S5
+📞 +1 514-757-5190
+🔗 https://instagram.com/arthursmtl
+⭐ Signature Items:
+• Gravlax (lox) sandwich: house cured</description>
+      <Point>
+        <coordinates>-73.5883529,45.4734441,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Au Pied de Cochon (Montreal, Quebec - Primary)</name>
+      <description>Au Pied de Cochon - Montreal, Quebec (Primary)
+📍 536 Avenue Duluth Est, Montréal, QC H2L 1A8
+📞 (514) 281-1114
+🔗 https://instagram.com/restaurantaupieddecochon
+⭐ Signature Items:
+• Duck in a Can (Canard en conserve): Half a duck breast, a lobe of foie gras, balsamic demi-glace, cabbage, roasted garlic and thyme sealed in a can, cooked, then opened and poured over toast tableside
+• Foie gras poutine: Fries fried in duck fat, cheese curds and lobes of foie gras
+• Foie gras hamburger: Among the ten-plus foie gras menu items</description>
+      <Point>
+        <coordinates>-73.5743809,45.5222139,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bar St-Denis (Montreal, QC - Primary)</name>
+      <description>Bar St-Denis - Montreal, QC (Primary)
+📍 6966 Rue Saint-Denis, Montreal, QC H2S 2S4
+📞 (514) 276-9717
+🔗 https://instagram.com/barstdenis
+⭐ Signature Items:
+• Chicken ballotine: with veal sweetbreads and morels
+• Scallops: with radish and rhubarb</description>
+      <Point>
+        <coordinates>-73.6124244,45.5372041,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Beauty's Luncheonette (Montreal - Primary)</name>
+      <description>Beauty's Luncheonette - Montreal (Primary)
+📍 93 Avenue du Mont-Royal Ouest, Montréal, QC H2T 2S5
+📞 +1 514-849-8883
+🔗 https://instagram.com/beautysmtl
+⭐ Signature Items:
+• Beauty's Special: lox and cream cheese on a Montreal-style bagel (created by Freda Sckolnick)
+• Mish-Mash omelette: omelette with hot dog, salami, green pepper, and fried onion (created by Freda Sckolnick)</description>
+      <Point>
+        <coordinates>-73.5874882,45.5190998,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>CA LEM Creamery (Montreal, Quebec - Primary)</name>
+      <description>CA LEM Creamery - Montreal, Quebec (Primary)
+📍 6926 Rue Sherbrooke Ouest, Montréal, QC H4B 1P8
+📞 N/A (Instagram: @calemcreamery)
+🔗 https://www.instagram.com/p/DXfSIpzGLll/
+⭐ Signature Items:
+• Vietnamese Coffee: Signature globally-inspired flavour
+• Matcha Crème Brûlée: Creative house flavour
+• London Fog / Orange Creamsicle / Cookie Monster / Mojito: Rotating inventive flavours</description>
+      <Point>
+        <coordinates>-73.6355007,45.4601327,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Cabaret L'Enfer (Montreal, QC - Primary)</name>
+      <description>Cabaret L'Enfer - Montreal, QC (Primary)
+📍 4094 Rue Saint-Denis, Montreal, QC H2W 2M5
+📞 (514) 419-1090
+🔗 https://instagram.com/cabaret.lenfer
+⭐ Signature Items:
+• Seasonal tasting menu: Italian roots with French technique, local and seasonal ingredients</description>
+      <Point>
+        <coordinates>-73.5768027,45.520926,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Cappella (Montreal - Primary)</name>
+      <description>Cappella - Montreal (Primary)
+📍 3 Rue de la Commune Ouest, Vieux-Montréal, Montréal, QC H2Y 1Z3
+📞 N/A (no public phone listed)
+🔗 https://www.instagram.com/p/DZPGKGvAEiP/
+⭐ Signature Items:
+• Craft cocktails: Curated cocktail menu, the core of the experience
+• Savory panini: Served to guests during the &quot;waiting&quot; stage of entry
+• Bottle service: Exclusive selections available for tables and private bookings</description>
+      <Point>
+        <coordinates>-73.5534472,45.5052065,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Christina's Cuisine (Laval (Greater Montreal) - Primary)</name>
+      <description>Christina's Cuisine - Laval (Greater Montreal) (Primary)
+📍 4367 Boulevard Notre-Dame, Laval, QC H7W 1T3
+📞 (450) 934-8462
+🔗 https://instagram.com/christinascuisine
+⭐ Signature Items:
+• Roasted lamb and pork: homemade specialties (the main reason to visit)
+• Pastitsio: &quot;perfect&quot; baked Greek pasta dish
+• Fried calamari: &quot;almost impossibly crispy&quot;</description>
+      <Point>
+        <coordinates>-73.7579436,45.5379456,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Crèmerie Meu Meu (Montreal, Quebec - Primary)</name>
+      <description>Crèmerie Meu Meu - Montreal, Quebec (Primary)
+📍 4458 Rue Saint-Denis, Montréal, QC H2J 2L1
+📞 (514) 288-5889
+🔗 https://www.instagram.com/p/DXfSIpzGLll/
+⭐ Signature Items:
+• Homemade Ice Cream: Over 120 unique, all-natural flavours
+• Sorbets: House-made fruit sorbets
+• Rotating Specials: Seasonal and creative flavours</description>
+      <Point>
+        <coordinates>-73.5823298,45.5235376,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Crew Collective &amp; Café (Montreal - Primary)</name>
+      <description>Crew Collective &amp; Café - Montreal (Primary)
+📍 360 Rue Saint-Jacques, Montréal, QC H2Y 1P5
+📞 (514) 285-7095
+🔗 https://www.instagram.com/p/DW2fsCZAUWi/
+⭐ Signature Items:
+• Latte Dulce de Leche: Espresso drink with dulce de leche
+• Matcha Latte: House matcha preparation
+• Smoked Salmon Bagel: Made with Fairmount Bagel</description>
+      <Point>
+        <coordinates>-73.5590947,45.5022617,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Dépanneur Le Pick-Up (Montreal, Canada - Primary)</name>
+      <description>Dépanneur Le Pick-Up - Montreal, Canada (Primary)
+📍 7032 Rue Waverly, Montréal, QC H2S 3J2, Canada
+📞 +1 514-271-8011
+🔗 https://www.bonappetit.com/story/depanneur-le-pick-up
+⭐ Signature Items:
+• Grilled Halloumi Sandwich: The Bon Appétit-celebrated star: toasted seeded bread, fatty/tangy griddled golden halloumi, zingy mint-laced slaw, and harissa-honey mayo slathered on both sides — sweet, spicy, creamy, smoky
+• Club Chipotle Sandwich: Triple-decker of chicken, bacon, lettuce, tomato, and chipotle mayo; classic and well executed
+• Pulled Pork Sandwich: A house staple, also famously offered as a veggie pulled &quot;pork&quot; version</description>
+      <Point>
+        <coordinates>-73.6176597,45.5318187,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Elena (Montreal - Primary)</name>
+      <description>Elena - Montreal (Primary)
+📍 5090 Rue Notre-Dame Ouest, Montreal, QC H4C 1T1
+📞 +1 514-379-4883
+🔗 https://instagram.com/elenamontreal
+⭐ Signature Items:
+• Wood-fired sourdough pizza: naturally leavened crust with local/seasonal toppings (mushroom &amp; cheese among favorites)
+• Mafalda al ragu: housemade pasta with ragu
+• Kale Caesar salad: frequently praised</description>
+      <Point>
+        <coordinates>-73.5917459,45.4697872,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Green Spot (Montreal, Quebec - Primary)</name>
+      <description>Green Spot - Montreal, Quebec (Primary)
+📍 3041 Rue Notre-Dame Ouest, Montréal, QC H4C 1N9
+📞 (514) 931-6473
+🔗 https://instagram.com/greenspot1947
+⭐ Signature Items:
+• Smoked meat: Classic Montreal-style
+• Breakfast / all-day breakfast: Diner staple
+• Burgers: House favorite</description>
+      <Point>
+        <coordinates>-73.5788021,45.4809122,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Haidilao Hot Pot (Montreal - Primary)</name>
+      <description>Haidilao Hot Pot - Montreal (Primary)
+📍 1194 Rue Sainte-Catherine Ouest, Montreal, QC H3B 1K1
+📞 (438) 773-9413
+🔗 https://instagram.com/haidilaomontreal
+⭐ Signature Items:
+• Spicy Sichuan (mala) broth: the signature numbing-spicy base
+• Tomato broth: mild, popular crowd-pleaser
+• Sukiyaki broth: savory Japanese-style base</description>
+      <Point>
+        <coordinates>-73.5738625,45.4987464,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hof Kelsten (Montreal, Quebec - Primary)</name>
+      <description>Hof Kelsten - Montreal, Quebec (Primary)
+📍 4524 Boulevard Saint-Laurent, Montréal, QC H2T 1R4
+📞 Unknown
+🔗 https://instagram.com/hofkelsten
+⭐ Signature Items:
+• Chocolate babka: A house standout (around $24)
+• Croissants: (around $3.75)
+• Pain au chocolat Valrhona: (around $4.25)</description>
+      <Point>
+        <coordinates>-73.5870403,45.5202679,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Iconoglace (Montreal, Quebec - Primary)</name>
+      <description>Iconoglace - Montreal, Quebec (Primary)
+📍 1320 Rue Bélanger, Montréal, QC H2G 1A2
+📞 N/A (Instagram: @iconoglace)
+🔗 https://www.instagram.com/p/DXfSIpzGLll/
+⭐ Signature Items:
+• Soft Serve: Rotating artisanal flavours
+• Creative Toppings: Inventive garnishes and pairings
+• Vegan Soft Serve: Plant-based options</description>
+      <Point>
+        <coordinates>-73.6060557,45.5433607,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kitano Shokudo (Montreal - Primary)</name>
+      <description>Kitano Shokudo - Montreal (Primary)
+📍 143 Avenue du Mont-Royal Est, Montreal, QC H2T 1N9
+📞 (438) 383-4700
+🔗 https://instagram.com/kitanoshokudo
+⭐ Signature Items:
+• Chirashi don: artfully arranged bowl of sashimi over rice
+• Uni carbonara: signature crossover dish</description>
+      <Point>
+        <coordinates>-73.5852,45.5216,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>La Cave à Manger (Montreal, Quebec - Primary)</name>
+      <description>La Cave à Manger - Montreal, Quebec (Primary)
+📍 386 Rue Saint-Paul Est, Montréal, QC H2Y 1H3
+📞 (514) 419-2355
+🔗 https://www.instagram.com/p/DXfSIpzGLll/
+⭐ Signature Items:
+• Soft Serve / Frozen Treats: The item that landed it on the ice cream list
+• Viennoiseries &amp; Pastries: House-baked croissants and breads
+• Fresh Pizzas &amp; Sandwiches: Savoury café fare</description>
+      <Point>
+        <coordinates>-73.5513306,45.5094602,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Lahmajoune Villeray (Montreal - Primary)</name>
+      <description>Lahmajoune Villeray - Montreal (Primary)
+📍 420 Rue Faillon Est, Montréal, QC H2R 2E6
+📞 +1 438-380-3805
+🔗 https://www.instagram.com/p/DYAu38lSiIy/
+⭐ Signature Items:
+• Lahmajoune: Thin baked flatbread topped with seasoned minced meat; the house signature, made fresh on the spot
+• Cheese sticks / cheese flatbreads: Fresh-baked cheese-topped flatbreads
+• Kebbeh (kibbeh): Available in meat and vegetarian versions</description>
+      <Point>
+        <coordinates>-73.6198394,45.5403758,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Le Blueboy (Artisan Glacier) (Montreal, Quebec - Primary)</name>
+      <description>Le Blueboy (Artisan Glacier) - Montreal, Quebec (Primary)
+📍 150 Avenue du Mont-Royal Est, Montréal, QC H2T 1N6
+📞 (438) 383-4034
+🔗 https://www.instagram.com/p/DXfSIpzGLll/
+⭐ Signature Items:
+• Soft Serve &amp; Frozen Yogurt: Made on-site, weekly-changing flavours
+• Churros: Fresh fried churros
+• Beignets: House beignets to pair with ice cream</description>
+      <Point>
+        <coordinates>-73.584902,45.5215511,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Le K (Le Kiosque K) (Montreal, Quebec - Primary)</name>
+      <description>Le K (Le Kiosque K) - Montreal, Quebec (Primary)
+📍 Square Saint-Louis (stone pavilion), Avenue Laval, Montréal, QC H2X 3H5
+📞 (514) 833-9810
+🔗 https://www.instagram.com/p/DXfSIpzGLll/
+⭐ Signature Items:
+• Hazelnut Gelato: A standout must-try
+• Gelato: Rotating flavours
+• Coffee &amp; Pastries: Espresso drinks, bagels, croissants, sandwiches</description>
+      <Point>
+        <coordinates>-73.5698253,45.5171171,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Le Taj (Montreal, Quebec - Primary)</name>
+      <description>Le Taj - Montreal, Quebec (Primary)
+📍 2077 Rue Stanley (at Sherbrooke), Montréal, QC H3A 1R7
+📞 (514) 845-9015
+🔗 https://instagram.com/restaurantletaj
+⭐ Signature Items:
+• Tandoori chicken: Grilled in the visible tandoor oven
+• Lamb chops: Tandoor-grilled
+• Samosas &amp; pakoras: Noted for their light, perfumed, herb-flavored batter</description>
+      <Point>
+        <coordinates>-73.5767438,45.5010421,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Les Givrés (Montreal, Quebec - Primary)</name>
+      <description>Les Givrés - Montreal, Quebec (Primary)
+📍 2730 Rue Masson, Montréal, QC H1Y 1W5
+📞 (514) 373-7558
+🔗 https://www.instagram.com/p/DXfSIpzGLll/
+⭐ Signature Items:
+• Artisanal Ice Cream: Made from scratch with natural, local ingredients
+• Sorbets: Fruit-forward dairy-free options
+• Rotating Flavours: Seasonal, Quebec-sourced</description>
+      <Point>
+        <coordinates>-73.5756472,45.5465501,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Liverpool House (Montreal, QC - Primary)</name>
+      <description>Liverpool House - Montreal, QC (Primary)
+📍 2501 Rue Notre-Dame Ouest, Montreal, QC H3J 1N6
+📞 (514) 313-6049
+🔗 https://instagram.com/liverpoolhousemtl
+⭐ Signature Items:
+• Fresh seafood and oysters: market-driven selection
+• French-Quebec comfort cooking: rich, seasonal plates</description>
+      <Point>
+        <coordinates>-73.5753751,45.4829637,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Lovebird (Montreal - Primary)</name>
+      <description>Lovebird - Montreal (Primary)
+📍 101 Rue de la Capitale, Montréal, QC H2Y 1Y8 (beneath Hôtel Nelligan)
+📞 (514) 788-4010
+🔗 https://www.instagram.com/p/DZBUPEytcHa/
+⭐ Signature Items:
+• Smoked oysters: small bite designed to complement the drinks
+• Lobster roll: small plate
+• Beef tartare: small plate</description>
+      <Point>
+        <coordinates>-73.5541613,45.503825,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Lulu Épicerie (Montreal - Primary)</name>
+      <description>Lulu Épicerie - Montreal (Primary)
+📍 2507 Rue Notre-Dame Ouest, Montréal, QC H3J 1N6
+📞 +1 514-507-5858
+🔗 https://instagram.com/luluepicerie
+⭐ Signature Items:
+• Lebanese shawarma: charcoal-grilled, a signature of the house
+• Manakeesh: homemade Lebanese flatbreads (e.g., za'atar)</description>
+      <Point>
+        <coordinates>-73.5754573,45.482918,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Mano Cornuto (Montreal - Primary)</name>
+      <description>Mano Cornuto - Montreal (Primary)
+📍 988 Rue Ottawa, Montreal, QC H3C 1S9
+📞 (514) 868-8451
+🔗 https://instagram.com/manocornuto.mtl
+⭐ Signature Items:
+• Fresh pasta: housemade, pasta program led by Emilie Madeleine
+• Daily focaccia / schiacciata: baked daily
+• Insalate (salads): seasonal</description>
+      <Point>
+        <coordinates>-73.5584696,45.4950791,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Mlle Catherine (Montreal, Quebec - Primary)</name>
+      <description>Mlle Catherine - Montreal, Quebec (Primary)
+📍 423 Place Jacques-Cartier, Montréal, QC H2Y 3B1
+📞 (514) 866-5757
+🔗 https://www.instagram.com/p/DXfSIpzGLll/
+⭐ Signature Items:
+• Soft Serve: Unique rotating soft serve flavours
+• Gelato: House-made rotating gelato
+• Sorbets: Fruit-packed dairy-free options</description>
+      <Point>
+        <coordinates>-73.5528497,45.508019,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ohayo Café (Montreal - Primary)</name>
+      <description>Ohayo Café - Montreal (Primary)
+📍 145 Avenue du Mont-Royal Est, Montreal, QC H2T 1N6
+📞 Unknown
+🔗 https://instagram.com/ohayocafemtl
+⭐ Signature Items:
+• Ebi (shrimp) burger: crispy-yet-juicy patty with tangy yuzu mayo on a soft brioche bun (a standout, rave-reviewed item)
+• Japanese-style French toast: signature yōshoku dish
+• Keema curry: with ground beef and pork</description>
+      <Point>
+        <coordinates>-73.5851555,45.5216266,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Pasta Pooks (Montreal - Primary)</name>
+      <description>Pasta Pooks - Montreal (Primary)
+📍 6700 Rue Clark, Montreal, QC H2S 1J6
+📞 Unknown
+🔗 https://instagram.com/pasta.pooks
+⭐ Signature Items:
+• Ricotta &amp; spinach ravioli: hand-rolled
+• Tagliatelle bolognese: classic ragù
+• Gnocchi (pomodoro): praised</description>
+      <Point>
+        <coordinates>-73.6131608,45.5313144,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Patati Patata (Montreal, QC - Primary)</name>
+      <description>Patati Patata - Montreal, QC (Primary)
+📍 4177 Boulevard Saint-Laurent, Montréal, QC H2W 1Y7
+📞 (514) 844-0216
+🔗 https://instagram.com/patatimontreal
+⭐ Signature Items:
+• Mini Burgers: small, flavorful burgers that are the house specialty
+• Poutine: including a version with olives; squeaky curds with a strong cheese-to-gravy-to-fry ratio</description>
+      <Point>
+        <coordinates>-73.5814607,45.5180548,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Pizza Toni (Montreal - Primary)</name>
+      <description>Pizza Toni - Montreal (Primary)
+📍 4909 Rue Notre-Dame Ouest, Montreal, QC
+📞 (514) 742-4232
+🔗 https://instagram.com/thepizzatoni
+⭐ Signature Items:
+• Spicy honey garlic pepperoni slice/pie: crispy pepperoni with hot honey
+• Pepperoni slice: praised for perfectly crispy pepperoni
+• Margherita: classic</description>
+      <Point>
+        <coordinates>-73.5906325,45.4709979,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Restaurant Mikado (Montreal, Quebec - Primary)</name>
+      <description>Restaurant Mikado - Montreal, Quebec (Primary)
+📍 399 Avenue Laurier Ouest, Montréal, QC H2V 2K3
+📞 (514) 279-4809
+🔗 https://instagram.com/restaurant.mikado
+⭐ Signature Items:
+• Sashimi: Praised by reviewers as excellent; among the kitchen's strongest offerings
+• Specialty maki rolls: Innovative house creations
+• Omakase: Multi-course chef's selection using the freshest ingredients</description>
+      <Point>
+        <coordinates>-73.5966923,45.5189785,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ripples Ice Cream (Montreal, Quebec - Primary)</name>
+      <description>Ripples Ice Cream - Montreal, Quebec (Primary)
+📍 3971 Boulevard Saint-Laurent, Montréal, QC H2W 1Y2
+📞 (514) 842-1697
+🔗 https://www.instagram.com/p/DXfSIpzGLll/
+⭐ Signature Items:
+• Homemade Ice Cream: Over 30 unique flavours
+• Sorbets: House-made fruit sorbets
+• Rotating Flavours: Changing daily/seasonal selection</description>
+      <Point>
+        <coordinates>-73.5781494,45.5165384,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Schwartz's Deli (Montreal, QC - Primary)</name>
+      <description>Schwartz's Deli - Montreal, QC (Primary)
+📍 3895 Boulevard Saint-Laurent, Montréal, QC H2W 1X9
+📞 (514) 842-4813
+🔗 https://instagram.com/schwartzsofficial
+⭐ Signature Items:
+• Smoked Meat Sandwich: hand-cut, served on rye with yellow mustard (medium-fat is the classic order)
+• Smoked Meat Platter: with pickle, fries, and a Cott Black Cherry soda</description>
+      <Point>
+        <coordinates>-73.5776499,45.5163277,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Smoke Meat Pete (L'Île-Perrot, QC - Primary)</name>
+      <description>Smoke Meat Pete - L'Île-Perrot, QC (Primary)
+📍 283 1re Avenue, L'Île-Perrot, QC J7V 5A1
+📞 (514) 425-6068
+🔗 https://instagram.com/smokemeatpete2521
+⭐ Signature Items:
+• Montreal Smoked Meat Sandwich: hand-carved smoked meat on rye with mustard
+• Poutine: classic Quebec fries, cheese curds, and gravy
+• Hardwood Charcoal Steaks: grilled over charcoal</description>
+      <Point>
+        <coordinates>-73.9613452,45.3957655,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Snowdon Deli (Montreal, Quebec - Primary)</name>
+      <description>Snowdon Deli - Montreal, Quebec (Primary)
+📍 5265 Boulevard Décarie, Montréal, QC H3W 3C2 (corner of Décarie Blvd. &amp; Isabella Ave.)
+📞 (514) 488-9129
+🔗 https://www.instagram.com/p/DZvX1L3mjx9/?img_index=1
+⭐ Signature Items:
+• Smoked Meat: Hand-carved Montreal smoked meat on rye with mustard, repeatedly called among the best in the city
+• Karnatzel: Dried, spiced beef sausage — a fan-favourite (regulars ask for &quot;a lifetime of karnatzels&quot;)
+• Party Sandwiches: Famous catering/party sandwich platters</description>
+      <Point>
+        <coordinates>-73.6317688,45.4852491,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sumac Restaurant (Montreal - Primary)</name>
+      <description>Sumac Restaurant - Montreal (Primary)
+📍 3618 Rue Notre-Dame Ouest, Montréal, QC H4C 1P5
+📞 +1 514-935-1444
+🔗 https://instagram.com/sumacrestaurant
+⭐ Signature Items:
+• Falafel sandwich: with tahini and hummus
+• Chicken shawarma: house specialty
+• Sabich: eggplant and egg sandwich</description>
+      <Point>
+        <coordinates>-73.5808424,45.4794842,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sushi Nishinokaze (Montreal - Primary)</name>
+      <description>Sushi Nishinokaze - Montreal (Primary)
+📍 5400 Boulevard Saint-Laurent, Montreal, QC H2T 1S1
+📞 (438) 558-6558
+🔗 https://instagram.com/sushi_nishinokaze
+⭐ Signature Items:
+• ~20–21 course Edomae omakase: the full experience (~$413.91 CAD per person incl. tax and service, beverages excluded)
+• Kohada (gizzard shad) nigiri: classic Edomae signature
+• Ni-hotate: wild Îles-de-la-Madeleine scallop simmered in its master stock</description>
+      <Point>
+        <coordinates>-73.5976761,45.5250404,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Taverne Sur Le Square (Westmount, QC - Primary)</name>
+      <description>Taverne Sur Le Square - Westmount, QC (Primary)
+📍 1 Westmount Square, Westmount, QC H3Z 2P9
+📞 (514) 989-9779
+🔗 https://instagram.com/tavernesquare
+⭐ Signature Items:
+• Comfort-food taverne plates: seasonal, market-driven menu</description>
+      <Point>
+        <coordinates>-73.5885888,45.4872345,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Unicone (Montreal, Quebec - Primary)</name>
+      <description>Unicone - Montreal, Quebec (Primary)
+📍 3873 Rue Saint-Denis, Montréal, QC H2W 2M4
+📞 (514) 360-8823
+🔗 https://www.instagram.com/p/DXfSIpzGLll/
+⭐ Signature Items:
+• Weekly Soft Serve: A single nostalgic, globally-inspired flavour that changes each week
+• Creative Drinks: Specialty lattes and signature beverages
+• Cookies: House cookies to pair</description>
+      <Point>
+        <coordinates>-73.5735982,45.5198817,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Vin Mon Lapin (Montreal, QC - Primary)</name>
+      <description>Vin Mon Lapin - Montreal, QC (Primary)
+📍 150 Rue Saint-Zotique Est, Montreal, QC H2S 1K9
+📞 (514) 379-4550
+🔗 https://instagram.com/vinmonlapin
+⭐ Signature Items:
+• House-made pasta: changes with the season
+• Dry-aged / matured meats: aged on the premises
+• House-made sorbets: for dessert</description>
+      <Point>
+        <coordinates>-73.6106593,45.5330224,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Dar Poeta (Rome - Primary)</name>
+      <description>Dar Poeta - Rome (Primary)
+📍 Vicolo del Bologna 45/46
+📞 +39 06 5880516
+🔗 https://www.instagram.com/p/DFcx5ItoGSg/
+⭐ Signature Items:
+• Patataccia Pizza: Unique combination with potatoes, creamed zucchini, and speck
+• Classic Margherita: Traditional pizza with their signature dough
+• Dessert Calzone: Filled with fresh ricotta and Nutella
+🔥 Popular Items:
+• Roman-style pizzas: Unique to Dar Poeta's preparation method
+• Calzones: Stuffed with spicy sausage and mozzarella
+• Creative pizza combinations: Seasonal and innovative toppings</description>
+      <Point>
+        <coordinates>12.4685635,41.8914177,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>La Matriciana dal 1870 (Rome - Primary)</name>
+      <description>La Matriciana dal 1870 - Rome (Primary)
+📍 Via del Viminale 40
+📞 +39 06 488 1775
+🔗 https://www.instagram.com/p/DFcx5ItoGSg/
+⭐ Signature Items:
+• Bucatini alla Matriciana: The restaurant's namesake dish, expertly prepared
+• Rigatoni alla Carbonara: Classic Roman pasta preparation
+• Spaghetti alle Vongole: Fresh clams with perfectly cooked pasta
+🔥 Popular Items:
+• Truffle pasta dishes: Seasonal preparations featuring fresh truffles
+• Traditional Roman secondi: Classic meat and fish preparations
+• Curated wine selection: Expertly chosen by sommelier owners</description>
+      <Point>
+        <coordinates>12.4959524,41.9002425,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Le Mani in Pasta (Rome - Primary)</name>
+      <description>Le Mani in Pasta - Rome (Primary)
+📍 Via dei Genovesi 37
+📞 +39 06 581 6017
+🔗 https://www.instagram.com/p/DFcx5ItoGSg/
+⭐ Signature Items:
+• Gnocchetti Sardi: With fava beans, cherry tomatoes, shrimp, truffles, and asparagus
+• Linguine with Lobster: Fresh seafood preparation
+• Seabass Carpaccio with Truffles: Elegant appetizer
+🔥 Popular Items:
+• Classic Roman pastas: Cacio e pepe, carbonara, and other traditional preparations
+• Fettuccine with mushrooms and truffles: Seasonal specialty
+• Grilled seafood platter: Fresh Mediterranean preparations</description>
+      <Point>
+        <coordinates>12.4771406,41.887722,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>El Pasillo del Humo (Oaxaca City - Primary)</name>
+      <description>El Pasillo del Humo - Oaxaca City (Primary)
+📍 Inside Mercado 20 de Noviembre, Miguel Cabrera 116-120, Centro, 68000 Oaxaca de Juárez, Oaxaca, Mexico
+📞 N/A (passageway of multiple vendors)
+🔗 https://www.instagram.com/p/DUJZ5y6koaE/
+⭐ Signature Items:
+• Tasajo: Thin-sliced marinated pork, grilled over charcoal until well-done but juicy
+• Cecina: Thin-sliced salted beef, charcoal grilled
+• Chorizo: Oaxacan-style grilled chorizo</description>
+      <Point>
+        <coordinates>-96.727,17.058,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>El Sabor Zapoteco (Teotitlán del Valle, Oaxaca - Primary)</name>
+      <description>El Sabor Zapoteco - Teotitlán del Valle, Oaxaca (Primary)
+📍 Avenida Juárez 30, Teotitlán del Valle, Oaxaca 70461, Mexico
+📞 Email: info@elsaborzapoteco.com
+🔗 https://www.instagram.com/p/DUJZ5y6koaE/
+⭐ Signature Items:
+• Black Bean Soup: Beans toasted on clay comal, ground on metate to powder, then cooked in aromatic chicken broth in minutes. Served with fried tortillas, avocado, cheese, and habanero-lime pickled onions
+• Mole de Pipián: Nutty, creamy mole made from toasted pumpkin seeds ground with sesame seeds, onion, garlic, tomatillos, chiles, and epazote on the metate. Served with chicken or fish
+• Salsa de Molcajete: Roma tomatoes roasted on comal with chiles de agua</description>
+      <Point>
+        <coordinates>-96.5194,17.0329,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Las Tlayudas de Mina y Bustamante (Oaxaca City - Primary)</name>
+      <description>Las Tlayudas de Mina y Bustamante - Oaxaca City (Primary)
+📍 Calle de Carlos María Bustamante 322, Centro, 68000 Oaxaca de Juárez, Oaxaca, Mexico (NW corner of Mina and Bustamante streets, ~2 blocks from the Zócalo)
+📞 +52 951 441 1704
+🔗 https://www.instagram.com/p/DUJZ5y6koaE/
+⭐ Signature Items:
+• Tlayuda: LP-sized crispy masa disk with asiento, beans, choice of fillings (standard: tomato, avocado, beef, quesillo), finished over charcoal
+• Champurrado: Hot, rich, frothy drinking chocolate made with nixtamalized corn and chocolate</description>
+      <Point>
+        <coordinates>-96.7251,17.0596,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>El Lechoncito de Oro (Oaxaca City - Primary)</name>
+      <description>El Lechoncito de Oro - Oaxaca City (Primary)
+📍 Calle de Los Libres S/N (corner of Libres and Murguía), Ruta Independencia, Centro, 68000 Oaxaca de Juárez, Oaxaca, Mexico
+📞 N/A (street food stand)
+🔗 https://www.instagram.com/p/DUJZ5y6koaE/
+⭐ Signature Items:
+• Tacos de Lechón: Juicy, slow-cooked shredded pork leg in tortillas with fiery green salsa
+• Tostadas de Lechón: Crispy tortilla topped with shredded lechón
+• Tortas de Lechón: Sandwich with shredded pork</description>
+      <Point>
+        <coordinates>-96.724,17.062,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Levadura de Olla (Oaxaca City - Primary)</name>
+      <description>Levadura de Olla - Oaxaca City (Primary)
+📍 Calle de Manuel García Vigil 304, Ruta Independencia, Centro, 68000 Oaxaca de Juárez, Oaxaca, Mexico
+📞 +52 951 269 9068
+🔗 https://www.instagram.com/p/DUJZ5y6koaE/
+⭐ Signature Items:
+• Tomato Salad: Several varieties of tomatoes and tomatillos with tomate de árbol, over beet purée, dressed with house-fermented fruit vinegar
+• Tamal: Mix of pork and chicken with roughly ground nixtamalized corn, topped with chile purée, served in a bed of smoldering corn husks adding aromatic smokiness
+• Burnt Milk and Corn Pudding: Dessert paired with cactus fruit sorbet</description>
+      <Point>
+        <coordinates>-96.7247,17.0642,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Memelas San Agustín (Oaxaca City - Primary)</name>
+      <description>Memelas San Agustín - Oaxaca City (Primary)
+📍 Calle de Manuel Fernández Fiallo 309, Centro, 68000 Oaxaca de Juárez, Oaxaca, Mexico (behind Iglesia de San Agustín)
+📞 N/A (informal street stall)
+🔗 https://www.instagram.com/p/DUJZ5y6koaE/
+⭐ Signature Items:
+• Memelas: Thick corn tortilla boats with asiento (caramelized rendered pork fat), smooth saucy refried black beans, and choice of toppings
+• Memelas con Nopales: Topped with shredded paddle cactus
+• Memelas con Quesillo: Topped with local hand-stretched mozzarella-like cheese</description>
+      <Point>
+        <coordinates>-96.723,17.0592,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Rito Chocolatería (Oaxaca City - Primary)</name>
+      <description>Rito Chocolatería - Oaxaca City (Primary)
+📍 Calle Porfirio Díaz 708-H, Ruta Independencia, Centro, 68000 Oaxaca de Juárez, Oaxaca, Mexico
+📞 +52 951 501 0937
+🔗 https://www.instagram.com/p/DUJZ5y6koaE/
+⭐ Signature Items:
+• Drinking Chocolate (Water): Traditional preparation, sharp and cacao-forward
+• Drinking Chocolate (Milk): Richer, rounder version
+• Stone-Ground Chocolate Discs: For making traditional drinking chocolate at home</description>
+      <Point>
+        <coordinates>-96.7252,17.0686,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tacos del Carmen (Oaxaca City - Primary)</name>
+      <description>Tacos del Carmen - Oaxaca City (Primary)
+📍 Jesús Carranza 110, Ruta Independencia, Centro, 68000 Oaxaca de Juárez, Oaxaca, Mexico (corner of Jesús Carranza and Manuel García Vigil, near Plazuela del Carmen Alto)
+📞 +52 951 361 5244
+🔗 https://www.instagram.com/p/DUJZ5y6koaE/
+⭐ Signature Items:
+• Empanada de Amarillo: Folded tortilla filled with stewed chicken in mole amarillo, scented with hoja santa and avocado leaf, with quesillo and beans
+• Rolled Chicken Tacos: Large, tightly rolled tacos filled to order
+• Squash Blossom Quesadilla: With quesillo</description>
+      <Point>
+        <coordinates>-96.7261,17.0669,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Cafe Harati (Bhaktapur - Primary)</name>
+      <description>Cafe Harati - Bhaktapur (Primary)
+📍 Taumadhi Square Near Nyatapola Temple, Bhaktapur 44800, Nepal
+📞 +977 1-6610346
+🔗 https://www.tripadvisor.com/Restaurant_Review-g424934-d32807326-Reviews-Cafe_Harati-Bhaktapur_Kathmandu_Valley_Bagmati_Zone_Central_Region.html
+⭐ Signature Items:
+• Sikarni: Sweet yogurt pots with cinnamon
+• Yogurt: Described by one reviewer as &quot;the best yogurt in the world&quot; (Bhaktapur is famous for its juju dhau/king yogurt)</description>
+      <Point>
+        <coordinates>85.42914,27.671167,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Newa Lahana (Bhaktapur - Primary)</name>
+      <description>Newa Lahana - Bhaktapur (Primary)
+📍 Sukuldhoka, Bhaktapur, Nepal
+📞 01-6620770
+🔗 https://www.instagram.com/newalahana.bkt/
+⭐ Signature Items:
+• Lahana Masala: House specialty (featured in Instagram highlights)
+• Samay Baji Set: Traditional Newari feast platter
+• Choila: Spiced meat preparation</description>
+      <Point>
+        <coordinates>85.4305234,27.6721722,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Restaurant Tusa (Bhaktapur, Nepal - Primary)</name>
+      <description>Restaurant Tusa - Bhaktapur, Nepal (Primary)
+📍 Naagpokhari 6, Bhaktapur 44800, Nepal
+📞 —
+🔗 https://www.tripadvisor.com/Restaurant_Review-g424934-d32683060-Reviews-Restaurant_Tusa-Bhaktapur_Kathmandu_Valley_Bagmati_Zone_Central_Region.html
+⭐ Signature Items:
+• Fermented Potato and Millet Roti: with charred garlic and tomato chutney
+• Batuk Chukauni: Magar lentil dish with yogurt-based potato achar
+• Jackfruit Skewer: with tamarind-mustard glaze</description>
+      <Point>
+        <coordinates>85.47233,27.70496,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bagaichā (Kathmandu - Primary)</name>
+      <description>Bagaichā - Kathmandu (Primary)
+📍 Thirbak Sadak, Ward No.4, Kathmandu 44600 Nepal
+📞 +977 980-1359919
+🔗 https://www.tripadvisor.com/Restaurant_Review-g293890-d26562178-Reviews-Bagaicha-Kathmandu_Kathmandu_Valley_Bagmati_Zone_Central_Region.html</description>
+      <Point>
+        <coordinates>85.331566,27.720366,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Carpe Diem Lounge &amp; Bakery (Kathmandu - Primary)</name>
+      <description>Carpe Diem Lounge &amp; Bakery - Kathmandu (Primary)
+📍 Paknajol 16 Kaldhara, Zostel Kathmandu, Kathmandu 44600 Nepal
+📞 +977 1-4389042
+🔗 https://www.tripadvisor.com/Restaurant_Review-g293890-d13157284-Reviews-Carpe_Diem_Lounge_Bakery-Kathmandu_Kathmandu_Valley_Bagmati_Zone_Central_Region.html</description>
+      <Point>
+        <coordinates>85.30795,27.717117,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Jasper Restaurant (Kathmandu - Primary)</name>
+      <description>Jasper Restaurant - Kathmandu (Primary)
+📍 P876, Thabahi Rd, Kathmandu 44600 Nepal
+📞 +977 980-3050739
+🔗 https://www.tripadvisor.com/Restaurant_Review-g293890-d25436401-Reviews-Jasper_Restaurant-Kathmandu_Kathmandu_Valley_Bagmati_Zone_Central_Region.html</description>
+      <Point>
+        <coordinates>85.311905,27.714182,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Jimbu Thakali By Capital Grill (Kalimati - Kathmandu - Primary)</name>
+      <description>Jimbu Thakali By Capital Grill - Kalimati - Kathmandu (Primary)
+📍 Ganeshman Singh Rd, Kathmandu 44600 Nepal
+📞 +977 1-5922559
+🔗 https://www.tripadvisor.com/Restaurant_Review-g293890-d30526592-Reviews-Jimbu_Thakali_By_Capital_Grill_Kalimati-Kathmandu_Kathmandu_Valley_Bagmati_Zone_.html
+⭐ Signature Items:
+• Thakali Set/Thaali: The signature wholesome Thakali set meal</description>
+      <Point>
+        <coordinates>85.32217,27.710316,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Jimbu Thakali By Capital Grill (New Baneshwor Branch - Kathmandu - Primary)</name>
+      <description>Jimbu Thakali By Capital Grill - New Baneshwor Branch - Kathmandu (Primary)
+📍 Min Bhawan, Kathmandu 44600 Nepal
+📞 +977 1-4622423
+🔗 https://www.tripadvisor.com/Restaurant_Review-g293890-d24150632-Reviews-Jimbu_Thakali_By_Capital_Grill_New_Baneshwor_Branch-Kathmandu_Kathmandu_Valley_B.html</description>
+      <Point>
+        <coordinates>85.34074,27.687351,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Lavie Garden (Kathmandu - Primary)</name>
+      <description>Lavie Garden - Kathmandu (Primary)
+📍 Phulbari Road, Kathmandu 44600 Nepal
+📞 +977 980-8996175
+🔗 https://www.tripadvisor.com/Restaurant_Review-g293890-d17433340-Reviews-Lavie_Garden-Kathmandu_Kathmandu_Valley_Bagmati_Zone_Central_Region.html</description>
+      <Point>
+        <coordinates>85.36437,27.726397,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Monalisa Thakali KTM (Kathmandu - Primary)</name>
+      <description>Monalisa Thakali KTM - Kathmandu (Primary)
+📍 Sardha Marg, Opposite of Naxal Bhatbhateni Superstore Parking, Beside Everest Restaurant Parking, Naxal-4, Kathmandu 44600, Nepal
+📞 +977-1-4516099, +977-1-4530028, +977 9808380250
+🔗 https://www.instagram.com/monalisa_thakali_restaurant/?hl=en
+⭐ Signature Items:
+• Thakali Khana Set (Thali): The flagship offering; authentic Thakali set meal with rice, dal, vegetables, pickles, and accompaniments
+• Fapar Dhido Thali Set Mutton: Buckwheat dhido served with mutton thali set
+• Jhol Momo: Momos served in a spiced soup/gravy</description>
+      <Point>
+        <coordinates>85.3319431,27.7193359,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Nectar By Carpediem (Kathmandu - Primary)</name>
+      <description>Nectar By Carpediem - Kathmandu (Primary)
+📍 Phoolbari Galli Paknajol Marg Ward 16, Kathmandu 44600 Nepal
+📞 +977 1-4389042
+🔗 https://www.tripadvisor.com/Restaurant_Review-g293890-d25254918-Reviews-Nectar_By_Carpediem-Kathmandu_Kathmandu_Valley_Bagmati_Zone_Central_Region.html</description>
+      <Point>
+        <coordinates>85.308105,27.71714,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Nepalaya Rooftop Restaurant (Kathmandu - Primary)</name>
+      <description>Nepalaya Rooftop Restaurant - Kathmandu (Primary)
+📍 Thamel, Kwabahal 17 Hotel Nepalaya, Kathmandu 44600 Nepal
+📞 +977 1-5901321
+🔗 https://www.tripadvisor.com/Restaurant_Review-g293890-d12071561-Reviews-Nepalaya_Rooftop_Restaurant-Kathmandu_Kathmandu_Valley_Bagmati_Zone_Central_Regi.html</description>
+      <Point>
+        <coordinates>85.31131,27.711996,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>The Chimney Restaurant (Kathmandu - Primary)</name>
+      <description>The Chimney Restaurant - Kathmandu (Primary)
+📍 Lal Durbar Durbar Marg, Hotel Yak and Yeti, Kathmandu 44600 Nepal
+📞 +977 1-4248999
+🔗 https://www.tripadvisor.com/Restaurant_Review-g293890-d1123614-Reviews-The_Chimney_Restaurant-Kathmandu_Kathmandu_Valley_Bagmati_Zone_Central_Region.html
+⭐ Signature Items:
+• Smoked Bekti: All-time favorite
+• Chicken a la Kiev: Classic signature dish
+• Baked Alaska Sagarmatha: Flaming dessert, named after Mt. Everest</description>
+      <Point>
+        <coordinates>85.32009,27.711342,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Yala Cafe (Kathmandu - Primary)</name>
+      <description>Yala Cafe - Kathmandu (Primary)
+📍 Thamel-17 Kawabahal St, Kathmandu 44600 Nepal
+📞 +977 980-1169212
+🔗 https://www.tripadvisor.com/Restaurant_Review-g293890-d13625935-Reviews-Yala_Cafe-Kathmandu_Kathmandu_Valley_Bagmati_Zone_Central_Region.html</description>
+      <Point>
+        <coordinates>85.31145,27.71232,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Mithila Thali by Chef Santosh Shah (Lalitpur - Primary)</name>
+      <description>Mithila Thali by Chef Santosh Shah - Lalitpur (Primary)
+📍 Jhamsikhel Road, Lalitpur 44700, Nepal
+📞 +977 970 521 5000
+🔗 https://www.tripadvisor.com/Restaurant_Review-g315764-d32972702-Reviews-Mithila_Thali_By_Chef_Santosh_Shah-Patan_Lalitpur_Kathmandu_Valley_Bagmati_Zone_.html
+⭐ Signature Items:
+• Daily Diet Thali: Rs 550; includes chokha, rice, ghee roti, taruwa, tilauri, salad, and Tawa fish from Janakpur
+• Ghee Roti: Traditional clarified butter bread
+• Taruwa: Deep-fried Mithila delicacy
+🔥 Popular Items:
+• Dhuska: Traditional Mithila fried bread
+• Bagiya: Steamed rice flour dumpling
+• Aloo Chokha: Mashed spiced potato</description>
+      <Point>
+        <coordinates>85.313126,27.67586,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Mithila Thali by Chef Santosh Shah (Gairidhara, Kathmandu)</name>
+      <description>Mithila Thali by Chef Santosh Shah - Gairidhara, Kathmandu
+📍 Gairidhara Rd, Kathmandu
+📞 +977 970 521 5000
+🔗 https://www.tripadvisor.com/Restaurant_Review-g315764-d32972702-Reviews-Mithila_Thali_By_Chef_Santosh_Shah-Patan_Lalitpur_Kathmandu_Valley_Bagmati_Zone_.html
+⭐ Signature Items:
+• Daily Diet Thali: Rs 550; includes chokha, rice, ghee roti, taruwa, tilauri, salad, and Tawa fish from Janakpur
+• Ghee Roti: Traditional clarified butter bread
+• Taruwa: Deep-fried Mithila delicacy
+🔥 Popular Items:
+• Dhuska: Traditional Mithila fried bread
+• Bagiya: Steamed rice flour dumpling
+• Aloo Chokha: Mashed spiced potato</description>
+      <Point>
+        <coordinates>85.3278,27.7177,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Mithila Thali by Chef Santosh Shah (Janakpur (Original Location))</name>
+      <description>Mithila Thali by Chef Santosh Shah - Janakpur (Original Location)
+📍 Janakpur, Nepal
+📞 +977 970 521 5000
+🔗 https://www.tripadvisor.com/Restaurant_Review-g315764-d32972702-Reviews-Mithila_Thali_By_Chef_Santosh_Shah-Patan_Lalitpur_Kathmandu_Valley_Bagmati_Zone_.html
+⭐ Signature Items:
+• Daily Diet Thali: Rs 550; includes chokha, rice, ghee roti, taruwa, tilauri, salad, and Tawa fish from Janakpur
+• Ghee Roti: Traditional clarified butter bread
+• Taruwa: Deep-fried Mithila delicacy
+🔥 Popular Items:
+• Dhuska: Traditional Mithila fried bread
+• Bagiya: Steamed rice flour dumpling
+• Aloo Chokha: Mashed spiced potato</description>
+      <Point>
+        <coordinates>85.9249,26.7285,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Raithaane (Lalitpur, Nepal - Primary)</name>
+      <description>Raithaane - Lalitpur, Nepal (Primary)
+📍 Gaja Laxmi Marga, Saugal, Patan, Lalitpur 44707, Nepal
+📞 +977-9801002971
+🔗 https://www.atlasobscura.com/places/raithaane
+⭐ Signature Items:
+• Yangben Faksa: Curry made from pig meat, pig blood, and wild lichen (yangben); a delicacy of the Limbu community from eastern Nepal
+• Rikikur: Sherpa potato pancake with yak butter, yak whey, scallion, and yogurt sauce
+• Kanchemba: Thakali buckwheat chips with timmur chop</description>
+      <Point>
+        <coordinates>85.3270058,27.6716121,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>The Village Cafe (Lalitpur, Nepal - Primary)</name>
+      <description>The Village Cafe - Lalitpur, Nepal (Primary)
+📍 Jhamsikhel Marga, Patan (Lalitpur) 44601, Nepal
+📞 +977 1-5540712
+🔗 https://www.tripadvisor.com/Restaurant_Review-g315764-d3198300-Reviews-The_Village_Cafe-Patan_Lalitpur_Kathmandu_Valley_Bagmati_Zone_Central_Region.html
+⭐ Signature Items:
+• Cheese Pakoda: Rs 90 for five pieces; described as &quot;the best thing on the menu&quot;
+• Chatamari: Egg (Rs 60) or Peanut Butter (Rs 90); Newari rice crepe
+• Chicken Chhwela: Rs 150; spiced grilled meat, a Newari classic</description>
+      <Point>
+        <coordinates>85.3162991,27.6783964,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Yala 3G Honacha (Lalitpur - Primary)</name>
+      <description>Yala 3G Honacha - Lalitpur (Primary)
+📍 Behind Krishna Mandir, Patan Durbar Square, Patko, Lalitpur 44700, Nepal
+📞 +977 984-1460984
+🔗 https://www.instagram.com/yala3ghonacha/?hl=en
+⭐ Signature Items:
+• Chatamari: Traditional Newari savory crepe (rice flour base with toppings)
+• Haku Choila: Spiced buffalo meat, a Newari delicacy
+• Syapumhicha: Newari leaf/vegetable dish</description>
+      <Point>
+        <coordinates>85.325,27.6736,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Yala 3G Honacha (Honacha II)</name>
+      <description>Yala 3G Honacha - Honacha II
+📍 Near Bhimsen Mandir, Patan Durbar Square area
+📞 +977 984-1460984
+🔗 https://www.instagram.com/yala3ghonacha/?hl=en
+⭐ Signature Items:
+• Chatamari: Traditional Newari savory crepe (rice flour base with toppings)
+• Haku Choila: Spiced buffalo meat, a Newari delicacy
+• Syapumhicha: Newari leaf/vegetable dish</description>
+      <Point>
+        <coordinates>85.3248,27.673,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Caffe Concerto (Pokhara - Primary)</name>
+      <description>Caffe Concerto - Pokhara (Primary)
+📍 Lakeside Road Gaurighat, Pardi, Pokhara 33411 Nepal
+📞 +977 61-453529
+🔗 https://www.tripadvisor.com/Restaurant_Review-g293891-d1156685-Reviews-Caffe_Concerto-Pokhara_Gandaki_Zone_Western_Region.html
+⭐ Signature Items:
+• Pizza: Consistently praised as the best in Pokhara; thin, well-cooked, &quot;would not disfigure in Italy&quot;
+• Gelato / Homemade Ice Cream: Made in-house, free from colors and preservatives; &quot;excellent&quot;
+• Tiramisu: Described as &quot;excellent&quot; by reviewers</description>
+      <Point>
+        <coordinates>83.96044,28.20618,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Fresh Elements Restaurant (Pokhara - Primary)</name>
+      <description>Fresh Elements Restaurant - Pokhara (Primary)
+📍 Street 16 (Middle Path Street), Lakeside, Pokhara 33700
+📞 +977-61-455744 / +977-9846442683 / +977-9708871886
+🔗 https://www.instagram.com/freshelements.pokhara/?hl=en
+⭐ Signature Items:
+• Lava Grilled Beef Steak: Grilled on lava stone
+• Aglio Olio Pasta: Popular Italian pasta dish
+• Couscous Salad: Fresh gourmet salad</description>
+      <Point>
+        <coordinates>83.9582761,28.2114416,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Marwadi Restaurant (Pokhara - Primary)</name>
+      <description>Marwadi Restaurant - Pokhara (Primary)
+📍 Street No 5 Lakeside, Ambot Left side of 5th street entrance, Pokhara 33411 Nepal
+📞 +977 61-590044
+🔗 https://www.tripadvisor.com/Restaurant_Review-g293891-d25291313-Reviews-Marwadi_Restaurant-Pokhara_Gandaki_Zone_Western_Region.html
+⭐ Signature Items:
+• Marwadi Set Thali: Choice of Butter Naan or Tandoori Roti with Plain Steamed Rice or Masala Rice, served with Dal, Standard Baajis, Paneer Butter Masala, Palak, Curds, Salad &amp; Pickle
+• Masala Dosa: Highly praised by multiple reviewers
+• Aloo Paratha: Recommended as a must-try by reviewers</description>
+      <Point>
+        <coordinates>83.958167,28.214647,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hotel Monalisa &amp; Thakali Restaurant (Pokhara - Primary)</name>
+      <description>Hotel Monalisa &amp; Thakali Restaurant - Pokhara (Primary)
+📍 Pardi, Damside, Pokhara-17, Nepal, P.O. Box No. 105
+📞 +977-061-455680, +977-061-453863
+🔗 https://www.instagram.com/monalisa_thakali_restaurant/?hl=en
+⭐ Signature Items:
+• Thakali Khana Set (Thali): Authentic Thakali set meal with rice, dal, vegetables, pickles, and accompaniments
+• Local Fish Fry: Pokhara specialty, highly recommended as a starter
+• Sukuti: Dried meat, recommended as a starter</description>
+      <Point>
+        <coordinates>83.969604,28.196585,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Moondance Restaurant &amp; Bar (Pokhara - Primary)</name>
+      <description>Moondance Restaurant &amp; Bar - Pokhara (Primary)
+📍 Central Lakeside-6, Barahi Chowk, opposite Tourist Police, Pokhara 33700
+📞 +977-61-461835
+🔗 https://www.instagram.com/moondance_restaurantpokhara/?hl=en
+⭐ Signature Items:
+• Tenderloin Beef Steaks: House specialty
+• BBQ Spareribs: Highly praised in reviews
+• Lemon Meringue Pie: Their most popular dessert</description>
+      <Point>
+        <coordinates>83.9574446,28.2082895,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Pokhara Thakali Kitchen (Pokhara - Primary)</name>
+      <description>Pokhara Thakali Kitchen - Pokhara (Primary)
+📍 7th Street (Shiva Marga), Baidam, Lakeside, Pokhara 33700
+📞 +977-61-206536 / +977-61-457379
+🔗 https://www.instagram.com/explore/locations/428989160899763/pokhara-thakali-kitchen/
+⭐ Signature Items:
+• Thakali Dal Bhat Set (Veg): Traditional thali with dal, rice, seasonal vegetable tarkari, achar (pickle), papadum, curd - rice and vegetables are refilled unlimited
+• Thakali Dal Bhat Set (Non-Veg): Same as above plus chicken or mutton curry; approximately £4 / NPR ~650 for starter, soup, drink, and unlimited thali
+• Mutton Thali: Dal bhat set with mutton curry, noted for rich spicing</description>
+      <Point>
+        <coordinates>83.9616266,28.2058835,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Rockaway Brewing Company (Beach Taproom) (Arverne, Queens - Primary)</name>
+      <description>Rockaway Brewing Company (Beach Taproom) - Arverne, Queens (Primary)
+📍 415 Beach 72nd Street, Arverne, Queens, NY 11692
+📞 N/A
+🔗 https://secretnyc.co/guide-to-rockaway-beach/
+⭐ Signature Items:
+• ROCKAWAY (Pilsner / flagship beers): House-brewed lagers and ales
+• Rotating Drafts: Six beers on rotation
+• Seasonal Brews: Changing seasonal taps</description>
+      <Point>
+        <coordinates>-73.8010455,40.5930317,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
       <name>Zyara Restaurant (Astoria - Primary)</name>
       <description>Zyara Restaurant - Astoria (Primary)
 📍 25-53 Steinway Street
@@ -82,6 +1204,74 @@
       </Point>
     </Placemark>
     <Placemark>
+      <name>Anchovies (Boston, Massachusetts - Primary)</name>
+      <description>Anchovies - Boston, Massachusetts (Primary)
+📍 433 Columbus Avenue, Boston, MA 02116
+📞 (617) 266-5088
+🔗 https://www.instagram.com/p/DYsZvFCSaS3/
+⭐ Signature Items:
+• Dirty Martini: A regular's go-to order (called out by commenters)
+• Truffle Parmesan Fries: Popular appetizer
+• Fried Ravioli: Signature starter</description>
+      <Point>
+        <coordinates>-71.0778575,42.3440299,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Blind Duck (Boston, Massachusetts - Primary)</name>
+      <description>Blind Duck - Boston, Massachusetts (Primary)
+📍 40 Trinity Place, 17th–18th Floor, Boston, MA 02116 (inside Raffles Boston)
+📞 (617) 351-8888 (Raffles Boston)
+🔗 https://www.instagram.com/p/DYnPRSSSKB2/
+⭐ Signature Items:
+• Soufflé Espresso Martini: Signature espresso martini
+• Midnight Garden: Signature seasonal cocktail
+• Okonomiyaki Fries: Japanese-inspired loaded fries (~$18)</description>
+      <Point>
+        <coordinates>-71.0750133,42.3484279,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hecate (Boston, Massachusetts - Primary)</name>
+      <description>Hecate - Boston, Massachusetts (Primary)
+📍 Public Alley 443 (beneath Krasi, 48 Gloucester Street), Boston, MA 02115
+📞 No phone — inquiries to hello@hecatebar.com
+🔗 https://www.instagram.com/p/DYnPRSSSKB2/
+⭐ Signature Items:
+• Story-driven cocktails: Each drink crafted by beverage director Lou Charbonneau, with house-made infusions and unusual ingredients inspired by spice markets, travels, and culinary discovery
+• Rare-spirit selections: Ambitious pours featuring rare and unusual spirits</description>
+      <Point>
+        <coordinates>-71.0840674,42.3486892,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Offsuit (Boston, Massachusetts - Primary)</name>
+      <description>Offsuit - Boston, Massachusetts (Primary)
+📍 5 Utica Street, Boston, MA 02111 (inside/behind Troquet on South)
+📞 (617) 631-7064
+🔗 https://www.instagram.com/p/DYnPRSSSKB2/
+⭐ Signature Items:
+• Creative, visually striking cocktails: Artisan bartenders craft inventive, photogenic drinks
+• &quot;Espresso Fucking Martini&quot;: A house favorite, also immortalized on branded merch</description>
+      <Point>
+        <coordinates>-71.057954,42.351437,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>The Wig Shop (Boston, Massachusetts - Primary)</name>
+      <description>The Wig Shop - Boston, Massachusetts (Primary)
+📍 27 Temple Place, Boston, MA 02111
+📞 (617) 338-6333
+🔗 https://www.instagram.com/p/DYsZvFCSaS3/
+⭐ Signature Items:
+• Bourbon-forward cocktails: Edgy menu highlight, e.g. bourbon with cinnamon and passionfruit coffee
+• Salmon Crudo: Standout small plate
+• Beef Skewers: Popular shareable</description>
+      <Point>
+        <coordinates>-71.0622169,42.3551912,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
       <name>Gastronome Europe (Brighton Beach - Primary)</name>
       <description>Gastronome Europe - Brighton Beach (Primary)
 📍 307 Brighton Beach Ave
@@ -93,6 +1283,62 @@
 • Salad Bar: $3.99/lb</description>
       <Point>
         <coordinates>-73.9639218,40.5773301,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tatiana Restaurant &amp; Night Club (Brooklyn, NY - Primary)</name>
+      <description>Tatiana Restaurant &amp; Night Club - Brooklyn, NY (Primary)
+📍 3152 Brighton 6th St, Brooklyn, NY 11235 (on the Riegelmann Boardwalk)
+📞 (718) 891-5151
+🔗 https://www.instagram.com/reels/DZA6vWWv9_h/
+⭐ Signature Items:
+• Blini with Salmon Roe: Classic Russian pancakes with caviar; one of the best bites in the house
+• Tatiana Salad: House salad with daikon radish and fried onions
+• Shish Kebabs (Shashlik): Straightforward grilled skewers, a boardwalk staple</description>
+      <Point>
+        <coordinates>-73.9616883,40.5751562,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Mahaniyom (Brookline, Massachusetts - Primary)</name>
+      <description>Mahaniyom - Brookline, Massachusetts (Primary)
+📍 236 Washington Street, Brookline, MA 02445
+📞 (617) 487-5986
+🔗 https://www.instagram.com/p/DYsZvFCSaS3/
+⭐ Signature Items:
+• Kang Pu (Crabmeat Curry): Signature curry
+• Pomelo Salad: Bright, citrusy Thai salad
+• Thai Tapas / Small Plates: Rotating &quot;Ran-Lao&quot; style shared dishes</description>
+      <Point>
+        <coordinates>-71.1187699,42.3326339,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Merai (Brookline, Massachusetts - Primary)</name>
+      <description>Merai - Brookline, Massachusetts (Primary)
+📍 14 Harvard Street, Brookline, MA 02445
+📞 (617) 505-6851
+🔗 https://www.instagram.com/p/DYsZvFCSaS3/
+⭐ Signature Items:
+• Wonka's Ticket: Cocktail layered with brown butter coconut, coffee, and pandan
+• Hojicha Highball: Topo Chico highball with small-batch Teeling Irish Whiskey, hojicha tea, and honey (&quot;smoky, light&quot;)
+• Sober Opera: Citadelle Gin, St. Germain elderflower, rose, and lychee-honey foam (&quot;floral, sweet&quot;)</description>
+      <Point>
+        <coordinates>-71.1187192,42.3336291,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Fireboat (New York City - Primary)</name>
+      <description>Fireboat - New York City (Primary)
+📍 Pier 6, Brooklyn Bridge Park, Brooklyn, NY 11201
+📞 [Not yet listed]
+🔗 https://www.instagram.com/p/DZa1ffxkrW1/?img_index=1
+⭐ Signature Items:
+• Frozen cocktails: Dispensed from the boat's original fire hoses and cannons
+• Tropical cocktails: Umbrella-friendly harborside drinks
+• Caribbean-inspired bites: Small plates to pair with the drinks</description>
+      <Point>
+        <coordinates>-74.0026566,40.6932147,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -110,6 +1356,20 @@
       </Point>
     </Placemark>
     <Placemark>
+      <name>Darling (Cambridge, Massachusetts - Primary)</name>
+      <description>Darling - Cambridge, Massachusetts (Primary)
+📍 464 Massachusetts Avenue, Cambridge, MA 02139
+📞 (617) 945-1317
+🔗 https://www.instagram.com/p/DYnPRSSSKB2/
+⭐ Signature Items:
+• Hope I Packed a Parachute: Taro foam-topped clarified milk punch with matcha, red bean, house-made coconut amazake, and crème de cacao
+• Holy Trinity: Roku Japanese gin, shochu, ginger, scallion, garlic, green chile, and Junmai Genshu sake
+• Filet o' Fish Bao: Reimagined dim sum signature</description>
+      <Point>
+        <coordinates>-71.101199,42.3636932,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
       <name>Chelsea Square Diner (New York City - Primary)</name>
       <description>Chelsea Square Diner - New York City (Primary)
 📍 368 W 23rd St, New York, NY 10011
@@ -121,6 +1381,20 @@
 • Diner Classics: Traditional American comfort food</description>
       <Point>
         <coordinates>-74.0012771,40.7462163,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Crown Alley (New York City - Primary)</name>
+      <description>Crown Alley - New York City (Primary)
+📍 263 West 19th Street, New York, NY 10011
+📞 (646) 892-3003
+🔗 https://www.instagram.com/p/DZIefR8FmUk/?img_index=1
+⭐ Signature Items:
+• Oysters: The happy-hour headliner (post cites $1 oysters; current menu lists ~$2.50 each, min. order of six)
+• Perfectly poured Guinness: A founding point of pride
+• Classic cocktails: Negroni, whiskey sour, mojito, Aperol spritz and 13+ libations</description>
+      <Point>
+        <coordinates>-73.9996864,40.7427872,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -204,6 +1478,20 @@
       </Point>
     </Placemark>
     <Placemark>
+      <name>56 Social (Shaker Heights, OH - Primary)</name>
+      <description>56 Social - Shaker Heights, OH (Primary)
+📍 3245 Warrensville Center Road, Shaker Heights, OH 44122
+📞 (216) 283-3663
+🔗 https://www.instagram.com/p/DV1W1SckbVB/
+⭐ Signature Items:
+• BALT Sandwich: BLT with avocado (described as &quot;the best BLT&quot; by reviewer)
+• Kefta Burger: House blend kefta patty with tzatziki, lettuce, tomato, and onion on a brioche bun
+• Grilled Cheese &amp; Tomato Soup: Recommended by commenter as &quot;perfection&quot;</description>
+      <Point>
+        <coordinates>-81.536,41.4715,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
       <name>B &amp; J's Corned Beef Shoppe &amp; Deli (Cleveland - Primary)</name>
       <description>B &amp; J's Corned Beef Shoppe &amp; Deli - Cleveland (Primary)
 📍 9717 Lorain Ave
@@ -250,6 +1538,46 @@
       </Point>
     </Placemark>
     <Placemark>
+      <name>Cleveland Chop (Cleveland, OH - Primary)</name>
+      <description>Cleveland Chop - Cleveland, OH (Primary)
+📍 824 W St Clair Ave, Cleveland, OH 44113
+📞 (216) 696-2467
+🔗 https://www.instagram.com/p/DWq5D_-kd8R/?img_index=1
+⭐ Signature Items:
+• Tomahawk Pork Chop: House signature
+• Veal Chop: Classic steakhouse cut
+• Lobster Mac &amp; Cheese: Popular side/entrée</description>
+      <Point>
+        <coordinates>-81.6998,41.4991,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Condado Tacos (Cleveland Area, OH - Primary)</name>
+      <description>Condado Tacos - Cleveland Area, OH (Primary)
+📍 10 Park Ave, Ste 112, Orange, OH 44122
+📞 (216) 230-2722
+🔗 https://www.instagram.com/p/DWq5D_-kd8R/?img_index=1
+⭐ Signature Items:
+• Build-Your-Own Tacos: Choose protein, shell, toppings, and sauce
+• Easy Pleasy Burrito: Signature burrito</description>
+      <Point>
+        <coordinates>-81.4866,41.4551,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Condado Tacos (Crocker Park (Westlake))</name>
+      <description>Condado Tacos - Crocker Park (Westlake)
+📍 203 Market St, Westlake, OH 44145
+📞 (216) 230-2722
+🔗 https://www.instagram.com/p/DWq5D_-kd8R/?img_index=1
+⭐ Signature Items:
+• Build-Your-Own Tacos: Choose protein, shell, toppings, and sauce
+• Easy Pleasy Burrito: Signature burrito</description>
+      <Point>
+        <coordinates>-81.9518,41.4573,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
       <name>George's Kitchen (Cleveland - Primary)</name>
       <description>George's Kitchen - Cleveland (Primary)
 📍 13101 Triskett Rd
@@ -261,6 +1589,20 @@
 • Meatloaf: Traditional diner favorite (4 reviews)</description>
       <Point>
         <coordinates>-81.782872,41.465244,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Guarino's Restaurant (Cleveland, OH - Primary)</name>
+      <description>Guarino's Restaurant - Cleveland, OH (Primary)
+📍 12309 Mayfield Rd, Cleveland, OH 44106
+📞 (216) 231-3100
+🔗 https://www.instagram.com/p/DWq5D_-kd8R/?img_index=1
+⭐ Signature Items:
+• Veal Piccata: Classic Italian preparation
+• Lasagna: Old-school Italian-American house specialty
+• Gnocchi Pesto: House pasta</description>
+      <Point>
+        <coordinates>-81.5971,41.5087,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -318,6 +1660,16 @@
       </Point>
     </Placemark>
     <Placemark>
+      <name>Il Rione Pizzeria (Cleveland, OH - Primary)</name>
+      <description>Il Rione Pizzeria - Cleveland, OH (Primary)
+📍 1303 W 65th St, Cleveland, OH 44102
+📞 (216) 282-1451
+🔗 https://www.instagram.com/p/DU1FTERCN6b/</description>
+      <Point>
+        <coordinates>-81.7300618,41.4866729,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
       <name>Larder Delicatessen &amp; Bakery (Cleveland - Primary)</name>
       <description>Larder Delicatessen &amp; Bakery - Cleveland (Primary)
 📍 1455 W 29th Street, Cleveland, Ohio 44113
@@ -332,6 +1684,48 @@
       </Point>
     </Placemark>
     <Placemark>
+      <name>Marie's Restaurant (Cleveland, OH - Primary)</name>
+      <description>Marie's Restaurant - Cleveland, OH (Primary)
+📍 4502 St. Clair Ave, Cleveland, OH 44103
+📞 (216) 361-1816
+🔗 https://www.instagram.com/p/DUWokTpjtLQ/
+⭐ Signature Items:
+• Cevapi: Grilled beef, pork, and veal sausage links served with raw onion ($15.75)
+• Stuffed Cabbage: Made from scratch, considered among the best in Cleveland
+• Beef Goulash: $16</description>
+      <Point>
+        <coordinates>-81.6608443,41.5179568,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Mason's Creamery (Cleveland, OH - Primary)</name>
+      <description>Mason's Creamery - Cleveland, OH (Primary)
+📍 4401 Bridge Ave, Cleveland, OH 44113
+📞 (216) 762-1095
+🔗 https://www.instagram.com/p/DWq5D_-kd8R/?img_index=1
+⭐ Signature Items:
+• Housemade Ice Cream: Creative and classic flavors including cocoa puff, floral grey, vanilla bean
+• Korean Corn Dogs: Panko-crusted, drizzled with gochujang sauce
+• Vegan Options: Vegan Buckeye, Vegan Chocolate Cookie Butter</description>
+      <Point>
+        <coordinates>-81.7166,41.4806,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Mitchell's Homemade Ice Cream (Cleveland, OH - Primary)</name>
+      <description>Mitchell's Homemade Ice Cream - Cleveland, OH (Primary)
+📍 1867 W 25th St, Cleveland, OH 44113
+📞 (216) 861-2799
+🔗 https://www.instagram.com/p/DWq5D_-kd8R/?img_index=1
+⭐ Signature Items:
+• Vanilla Bean: Classic housemade
+• Cookies and Cream: Perennial favorite
+• Vegan Buckeye: Vegan option</description>
+      <Point>
+        <coordinates>-81.7044,41.4858,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
       <name>Mt. Pleasant Bar-B-Q (Cleveland - Primary)</name>
       <description>Mt. Pleasant Bar-B-Q - Cleveland (Primary)
 📍 12725 Kinsman Rd
@@ -343,6 +1737,47 @@
 • Polish Boy: Popular Cleveland specialty</description>
       <Point>
         <coordinates>-81.5937611,41.4662128,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Patron Saint Cafe + Bar (Cleveland - Primary)</name>
+      <description>Patron Saint Cafe + Bar - Cleveland (Primary)
+📍 2915 Detroit Ave, Cleveland, OH 44113
+📞 Unknown
+🔗 https://www.instagram.com/p/DVTYDrAgJ0_/
+⭐ Signature Items:
+• Hazelnut Mocha: Smooth, not too sweet espresso drink
+• Olive Oil Cake: Dense but soft and delicious
+• Espresso Old Fashioned: Cocktail</description>
+      <Point>
+        <coordinates>-81.711373,41.4895593,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Poppy (Cleveland, OH - Primary)</name>
+      <description>Poppy - Cleveland, OH (Primary)
+📍 12502 Larchmere Blvd, Cleveland, OH 44120
+📞 (216) 415-5069
+🔗 https://www.instagram.com/p/DWq5D_-kd8R/?img_index=1
+⭐ Signature Items:
+• Beef Tartare: Signature small plate
+• Bone-in Pork Schnitzel: Acclaimed entrée
+• Gochujang Meatballs: Popular appetizer</description>
+      <Point>
+        <coordinates>-81.596,41.4876,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>The South Side (Cleveland, OH - Primary)</name>
+      <description>The South Side - Cleveland, OH (Primary)
+📍 2207 W 11th St, Cleveland, OH 44113
+📞 (216) 937-2288
+🔗 https://www.instagram.com/p/DWq5D_-kd8R/?img_index=1
+⭐ Signature Items:
+• Tremont Burger: House signature burger
+• Fat Kids Nachos: Popular appetizer</description>
+      <Point>
+        <coordinates>-81.6892,41.4821,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -375,6 +1810,20 @@
 • Filter Kaapi Soft Serve: Special seasonal offering</description>
       <Point>
         <coordinates>-73.9851622,40.6923347,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Baos &amp; Bowls (East Village - Primary)</name>
+      <description>Baos &amp; Bowls - East Village (Primary)
+📍 401 E 13th Street, New York, NY 10009
+📞 (646) 370-4725
+🔗 https://www.instagram.com/reels/DVltKL9jqjR/
+⭐ Signature Items:
+• Xiaolongbao (XLB / Steamed Soup Dumplings): Shanghainese-style steamed soup dumplings
+• Chicken Soup Dumplings: $9.00
+• Pan-Fried Dumplings: Fried soup dumplings</description>
+      <Point>
+        <coordinates>-73.9827539,40.7306341,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -488,6 +1937,20 @@
       </Point>
     </Placemark>
     <Placemark>
+      <name>Streecha (Streecha Ukrainian Kitchen) (New York - Primary)</name>
+      <description>Streecha (Streecha Ukrainian Kitchen) - New York (Primary)
+📍 33 East 7th Street, New York, NY 10003
+📞 212-677-7160
+🔗 https://www.instagram.com/p/DZSYkQOOAuE/
+⭐ Signature Items:
+• Potato varenyky: Ukrainian potato-filled dumplings (pierogi); a must-order per the post
+• Holubtsi (stuffed cabbage): Cabbage rolls stuffed with rice/meat; a must-order per the post
+• Borscht: Traditional beet soup</description>
+      <Point>
+        <coordinates>-73.9889619,40.7284522,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
       <name>Uluh (East Village - Primary)</name>
       <description>Uluh - East Village (Primary)
 📍 152 Second Avenue, New York, NY 10003
@@ -513,6 +1976,20 @@
 • Old-School Sodas: Traditional soda fountain beverages</description>
       <Point>
         <coordinates>-73.9835462,40.7262821,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Warung Selasa (Elmhurst, Queens - Primary)</name>
+      <description>Warung Selasa - Elmhurst, Queens (Primary)
+📍 85-12 Queens Blvd #1, Elmhurst, NY 11373
+📞 N/A (inside Indo Java Groceries)
+🔗 https://www.instagram.com/p/DY8NL0uFv3g/?img_index=1
+⭐ Signature Items:
+• Nasi Campur: Mixed rice plate with tamarind-curried vegetables and a rotating array of proteins (fried kingfish, chicken, beef jerky, etc., depending on the day)
+• Nasi Gudeg: Young jackfruit boiled in coconut milk, served with rice, chicken, spicy beef, and egg
+• Soto Ayam: Turmeric chicken soup with prawn crackers and noodles</description>
+      <Point>
+        <coordinates>-73.8783259,40.7366146,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -719,6 +2196,20 @@
 • Marinated Beef Shank: $1.20 per skewer (classic Dongbei favorite)</description>
       <Point>
         <coordinates>-73.9914272,40.753586,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Shanghai Time (Garment District - Primary)</name>
+      <description>Shanghai Time - Garment District (Primary)
+📍 273 West 38th Street, New York, NY 10018
+📞 (646) 351-6699
+🔗 https://www.instagram.com/reels/DVltKL9jqjR/
+⭐ Signature Items:
+• Shengjianbao (SJB / Pan-Fried Soup Buns): Crispy-bottomed, juicy pork buns; each weighed at 60g for precision
+• Xiaolongbao (XLB / Steamed Soup Dumplings): Handmade, authentic Shanghai-style
+• Crab Noodles: Glossy noodles with crab, QQ texture, plenty of sauce to mix in</description>
+      <Point>
+        <coordinates>-73.9910756,40.754718,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -1004,6 +2495,20 @@
       </Point>
     </Placemark>
     <Placemark>
+      <name>Tatiana by Kwame Onwuachi (New York, NY - Primary)</name>
+      <description>Tatiana by Kwame Onwuachi - New York, NY (Primary)
+📍 10 Lincoln Center Plaza (inside David Geffen Hall), New York, NY 10023
+📞 (212) 875-5222
+🔗 https://www.instagram.com/reels/DZA6vWWv9_h/
+⭐ Signature Items:
+• Short Rib Pastrami Suya: Served with caraway coco bread and melted red cabbage; the menu's most famous dish
+• Egusi Dumplings: Nigerian-inspired riff pairing egusi-seed stew flavors with dumplings
+• Curried Goat Patties: Flaky Jamaican-style patties</description>
+      <Point>
+        <coordinates>-73.9829908,40.7728561,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
       <name>Son Del North (New York - Primary)</name>
       <description>Son Del North - New York (Primary)
 📍 177 Orchard St
@@ -1117,6 +2622,20 @@
 • Kung Pao Chicken: Traditional Sichuan preparation</description>
       <Point>
         <coordinates>-73.9885755,40.7291717,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Piccolo Morini (New York City - Primary)</name>
+      <description>Piccolo Morini - New York City (Primary)
+📍 40 Kenmare Street (at Elizabeth Street)
+📞 [Not yet available]
+🔗 https://www.instagram.com/p/DYnQ2nXoO4L/?img_index=1
+⭐ Signature Items:
+• Mascarpone-stuffed cappelletti: with truffles and prosciutto
+• Gramigna: with sausage ragù, white wine, and tomato
+• Handmade pastas: over a dozen / up to 15 fresh pasta dishes on offer</description>
+      <Point>
+        <coordinates>-73.9951708,40.7205649,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -1696,57 +3215,167 @@
       </Point>
     </Placemark>
     <Placemark>
-      <name>Dar Poeta (Rome - Primary)</name>
-      <description>Dar Poeta - Rome (Primary)
-📍 Vicolo del Bologna 45/46
-📞 +39 06 5880516
-🔗 https://www.instagram.com/p/DFcx5ItoGSg/
+      <name>Bungalow Bar (Rockaway Beach, Queens - Primary)</name>
+      <description>Bungalow Bar - Rockaway Beach, Queens (Primary)
+📍 377 Beach 92nd Street (on Jamaica Bay, at the foot of the Cross Bay Bridge)
+📞 (718) 945-2100
+🔗 https://secretnyc.co/guide-to-rockaway-beach/
 ⭐ Signature Items:
-• Patataccia Pizza: Unique combination with potatoes, creamed zucchini, and speck
-• Classic Margherita: Traditional pizza with their signature dough
-• Dessert Calzone: Filled with fresh ricotta and Nutella
-🔥 Popular Items:
-• Roman-style pizzas: Unique to Dar Poeta's preparation method
-• Calzones: Stuffed with spicy sausage and mozzarella
-• Creative pizza combinations: Seasonal and innovative toppings</description>
+• Crab Cakes: A house specialty since opening
+• Tequila Shrimp: Popular seafood plate
+• Fish Tacos: Beach-bar staple</description>
       <Point>
-        <coordinates>12.4685635,41.8914177,0</coordinates>
+        <coordinates>-73.8159358,40.5864725,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
-      <name>La Matriciana dal 1870 (Rome - Primary)</name>
-      <description>La Matriciana dal 1870 - Rome (Primary)
-📍 Via del Viminale 40
-📞 +39 06 488 1775
-🔗 https://www.instagram.com/p/DFcx5ItoGSg/
+      <name>Connolly's Bar (Rockaway Beach, Queens - Primary)</name>
+      <description>Connolly's Bar - Rockaway Beach, Queens (Primary)
+📍 155 Beach 95th Street
+📞 N/A
+🔗 https://secretnyc.co/guide-to-rockaway-beach/
 ⭐ Signature Items:
-• Bucatini alla Matriciana: The restaurant's namesake dish, expertly prepared
-• Rigatoni alla Carbonara: Classic Roman pasta preparation
-• Spaghetti alle Vongole: Fresh clams with perfectly cooked pasta
-🔥 Popular Items:
-• Truffle pasta dishes: Seasonal preparations featuring fresh truffles
-• Traditional Roman secondi: Classic meat and fish preparations
-• Curated wine selection: Expertly chosen by sommelier owners</description>
+• Frozen Piña Colada: The legendary signature drink
+• Frozen Cocktails: Other slushie-style frozen drinks
+• Cold Beer: Classic bar pours</description>
       <Point>
-        <coordinates>12.4959524,41.9002425,0</coordinates>
+        <coordinates>-73.8166958,40.5844065,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
-      <name>Le Mani in Pasta (Rome - Primary)</name>
-      <description>Le Mani in Pasta - Rome (Primary)
-📍 Via dei Genovesi 37
-📞 +39 06 581 6017
-🔗 https://www.instagram.com/p/DFcx5ItoGSg/
+      <name>Rippers (Rockaway Beach, Queens - Primary)</name>
+      <description>Rippers - Rockaway Beach, Queens (Primary)
+📍 8601 Shore Front Parkway
+📞 N/A
+🔗 https://secretnyc.co/guide-to-rockaway-beach/
 ⭐ Signature Items:
-• Gnocchetti Sardi: With fava beans, cherry tomatoes, shrimp, truffles, and asparagus
-• Linguine with Lobster: Fresh seafood preparation
-• Seabass Carpaccio with Truffles: Elegant appetizer
-🔥 Popular Items:
-• Classic Roman pastas: Cacio e pepe, carbonara, and other traditional preparations
-• Fettuccine with mushrooms and truffles: Seasonal specialty
-• Grilled seafood platter: Fresh Mediterranean preparations</description>
+• Grass-Fed Burger: The signature build
+• All-Beef Franks: Classic boardwalk hot dogs
+• Vegan Burger: Plant-based option</description>
       <Point>
-        <coordinates>12.4771406,41.887722,0</coordinates>
+        <coordinates>-73.8108529,40.5846431,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Rockaway Beach Surf Club (Rockaway Beach, Queens - Primary)</name>
+      <description>Rockaway Beach Surf Club - Rockaway Beach, Queens (Primary)
+📍 302 Beach 87th Street
+📞 N/A
+🔗 https://secretnyc.co/guide-to-rockaway-beach/
+⭐ Signature Items:
+• Fish Tacos: From the in-house Tacoway Beach kitchen
+• Frozen / Fruity Cocktails: Beachy mixed drinks
+• Craft Pints: Rotating draft beer</description>
+      <Point>
+        <coordinates>-73.8121609,40.588782,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sayra's Wine Bar (Rockaway Beach, Queens - Primary)</name>
+      <description>Sayra's Wine Bar - Rockaway Beach, Queens (Primary)
+📍 91-11 Rockaway Beach Boulevard
+📞 N/A
+🔗 https://secretnyc.co/guide-to-rockaway-beach/
+⭐ Signature Items:
+• Curated Wines by the Glass: Rotating wine selection
+• Craft Cocktails: House mixed drinks
+• Light Bites / Small Plates: Charcuterie and shareable snacks</description>
+      <Point>
+        <coordinates>-73.8150074,40.5865214,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tacoway Beach (Rockaway Beach, Queens - Primary)</name>
+      <description>Tacoway Beach - Rockaway Beach, Queens (Primary)
+📍 302 Beach 87th Street (inside Rockaway Beach Surf Club)
+📞 N/A
+🔗 https://secretnyc.co/guide-to-rockaway-beach/
+⭐ Signature Items:
+• Crispy Beer-Battered Fish Tacos: The standout, lightly battered and fried fish
+• Mushroom &quot;Meat&quot; Tacos: Popular vegetarian/vegan option
+• Tofu Tacos: Another plant-based choice</description>
+      <Point>
+        <coordinates>-73.8121609,40.588782,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Uma's (Rockaway Beach, Queens - Primary)</name>
+      <description>Uma's - Rockaway Beach, Queens (Primary)
+📍 92-07 Rockaway Beach Blvd, Rockaway Beach, NY 11693
+📞 (718) 318-9100
+🔗 https://www.yelp.com/biz/umas-rockaway-beach?osq=restaurants
+⭐ Signature Items:
+• Plov: Traditional Uzbek beef-and-rice dish; a frequently recommended standout
+• Scallion Pancakes: Flaky, with great scallion flavor, served with a yogurt sauce
+• Pelmeni: Handmade Russian dumplings (&quot;raviolis&quot;), juicy and delicious</description>
+      <Point>
+        <coordinates>-73.8156393,40.5861783,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Whit's End (Rockaway Beach, Queens - Primary)</name>
+      <description>Whit's End - Rockaway Beach, Queens (Primary)
+📍 97-02 Rockaway Beach Boulevard
+📞 N/A
+🔗 https://secretnyc.co/guide-to-rockaway-beach/
+⭐ Signature Items:
+• Brussels Sprouts Pizza: A signature vegetable pie
+• Seafood Pizzas: Rotating seafood-topped options
+• Wood-Fired Margherita: Classic blistered-crust pie</description>
+      <Point>
+        <coordinates>-73.8190492,40.5849485,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Caracas Arepa Bar (Rockaway Park, Queens - Primary)</name>
+      <description>Caracas Arepa Bar - Rockaway Park, Queens (Primary)
+📍 106-01 Shore Front Parkway
+📞 N/A
+🔗 https://secretnyc.co/guide-to-rockaway-beach/
+⭐ Signature Items:
+• Arepas: Cornmeal pockets with a range of savory fillings (shredded beef, cheese, plantain, etc.)
+• Tequeños: Fried cheese sticks
+• Yuca Balls / Bolitas: Fried yucca side</description>
+      <Point>
+        <coordinates>-73.8260314,40.5805716,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Claudette's (Cuisine by Claudette) (Rockaway Park, Queens - Primary)</name>
+      <description>Claudette's (Cuisine by Claudette) - Rockaway Park, Queens (Primary)
+📍 143 Beach 116th Street
+📞 N/A
+🔗 https://secretnyc.co/guide-to-rockaway-beach/
+⭐ Signature Items:
+• Açai Bowls: A signature offering
+• Baked Goods: House-made pastries and treats
+• Gourmet Coffee: Specialty coffee drinks</description>
+      <Point>
+        <coordinates>-73.8368557,40.5788356,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>The Rockaway Hotel + Spa (Margie's &amp; The Rooftop) (Rockaway Park, Queens - Primary)</name>
+      <description>The Rockaway Hotel + Spa (Margie's &amp; The Rooftop) - Rockaway Park, Queens (Primary)
+📍 108-10 Rockaway Beach Drive
+📞 (718) 514-2900
+🔗 https://secretnyc.co/guide-to-rockaway-beach/
+⭐ Signature Items:
+• $2 Oysters (Wednesdays at Margie's): Weekly oyster special
+• American Classics (Margie's): Seasonal American menu
+• Rooftop Cocktails: Craft drinks with skyline views</description>
+      <Point>
+        <coordinates>-73.8301158,40.5813453,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Gather Food + Drink (Rocky River, OH - Primary)</name>
+      <description>Gather Food + Drink - Rocky River, OH (Primary)
+📍 20253 Lake Rd, Rocky River, OH 44116
+📞 (440) 799-4083
+🔗 https://www.instagram.com/p/DWq5D_-kd8R/?img_index=1</description>
+      <Point>
+        <coordinates>-81.8454,41.4835,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -1806,6 +3435,34 @@
       </Point>
     </Placemark>
     <Placemark>
+      <name>Spoke Wine Bar (Somerville, Massachusetts - Primary)</name>
+      <description>Spoke Wine Bar - Somerville, Massachusetts (Primary)
+📍 89 Holland Street, Somerville, MA 02144
+📞 (617) 718-9463
+🔗 https://www.instagram.com/p/DYsZvFCSaS3/
+⭐ Signature Items:
+• Charcuterie: Curated boards
+• Tartare: Seasonal preparation
+• House-made Pasta: Rotating seasonal pasta</description>
+      <Point>
+        <coordinates>-71.1243071,42.3988942,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tall Order (Somerville, Massachusetts - Primary)</name>
+      <description>Tall Order - Somerville, Massachusetts (Primary)
+📍 70 Beacon Street, Somerville, MA 02143
+📞 (857) 214-0678
+🔗 https://www.instagram.com/p/DYnPRSSSKB2/
+⭐ Signature Items:
+• Burger: A reviewer-favorite standout
+• Cod: Highlighted entrée
+• Chicken sandwich: Praised by patrons</description>
+      <Point>
+        <coordinates>-71.1042368,42.3763245,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
       <name>Caravan Restaurant &amp; Coffee (South Beach, Staten Island - Primary)</name>
       <description>Caravan Restaurant &amp; Coffee - South Beach, Staten Island (Primary)
 📍 317 Sand Lane
@@ -1853,6 +3510,20 @@
 • Family Recipe Dishes: Each grandmother prepares recipes passed down through generations</description>
       <Point>
         <coordinates>-74.077292,40.6419968,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Makina Cafe (Sunnyside, Queens - Primary)</name>
+      <description>Makina Cafe - Sunnyside, Queens (Primary)
+📍 46-11 Skillman Avenue, Sunnyside, Queens, NY 11104
+📞 (917) 426-5649
+🔗 https://www.instagram.com/p/DXR5-zBpdPG/
+⭐ Signature Items:
+• Injera platters: Spongy teff flatbread served with an array of stews
+• Eritrean-Ethiopian combination plates: Mix of meat and vegetarian wots (stews)
+• Vegetarian/vegan options: Lentils (misir), collard greens (gomen), and other plant-based dishes</description>
+      <Point>
+        <coordinates>-73.9176102,40.7466804,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -1943,6 +3614,20 @@
       </Point>
     </Placemark>
     <Placemark>
+      <name>Nightly's (New York - Primary)</name>
+      <description>Nightly's - New York (Primary)
+📍 1496 Second Ave, New York, NY 10075
+📞 (646) 678-5846
+🔗 https://www.theinfatuation.com/new-york/reviews/nightlys
+⭐ Signature Items:
+• Butterfly Prawns: Charred prawns served with a lemon butter sauce on the side; drench the prawns in the sauce. &quot;Simple. Wonderful. No notes.&quot;
+• Short Rib: A large chunk of pull-apart short rib over mashed potatoes, served as a starter, with a notably thick red wine gravy
+• Black Tie Burger: An homage to Minetta Tavern: ultra-thick patty topped with caramelized onions and a cap of melted white cheddar</description>
+      <Point>
+        <coordinates>-73.9554399,40.7724775,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
       <name>Pastrami Queen (New York City - Primary)</name>
       <description>Pastrami Queen - New York City (Primary)
 📍 1125 Lexington Ave, New York, NY 10075
@@ -2015,6 +3700,20 @@
       </Point>
     </Placemark>
     <Placemark>
+      <name>Tatra Haus (Wallington, New Jersey - Primary)</name>
+      <description>Tatra Haus - Wallington, New Jersey (Primary)
+📍 115 Main Avenue, Wallington, NJ 07057
+📞 (201) 393-2400
+🔗 https://www.instagram.com/p/DXaNsvxj72r/
+⭐ Signature Items:
+• Pierogi fried with bacon and onions: Called out as easily the best thing on the menu
+• Żurek: Sour rye soup with kielbasa and eggs, served in a bread bowl
+• Bigos (Hunter's Stew): Traditional hunter's stew with kielbasa</description>
+      <Point>
+        <coordinates>-74.1134139,40.8550113,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
       <name>Bartolo (New York City - Primary)</name>
       <description>Bartolo - New York City (Primary)
 📍 310 West 4th Street, New York, NY 10014
@@ -2030,6 +3729,20 @@
 • Ginitonic: Briny gin and tonic garnished with an entire preserved lemon</description>
       <Point>
         <coordinates>-74.0039713,40.7372563,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Cellar Dog (formerly Fat Cat) (New York - Primary)</name>
+      <description>Cellar Dog (formerly Fat Cat) - New York (Primary)
+📍 75 Christopher Street, New York, NY 10014
+📞 (212) 675-6056
+🔗 https://www.instagram.com/p/DY8JTVmPChX/
+⭐ Signature Items:
+• Draft &amp; bottled beer: Standard bar beer selection
+• Cocktails: Bar cocktails (note: some drinks served in plastic cups per commenters)
+• Live jazz + games: The real &quot;signature&quot; is the experience: pool and live jazz, not the food/drink menu</description>
+      <Point>
+        <coordinates>-74.0032842,40.7336334,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -2114,6 +3827,20 @@
       </Point>
     </Placemark>
     <Placemark>
+      <name>Ninth Street Espresso (New York City - Primary)</name>
+      <description>Ninth Street Espresso - New York City (Primary)
+📍 700 E 9th Street (between Avenues C &amp; D), New York, NY 10009
+📞 (212) 358-9225
+🔗 https://www.instagram.com/ninthstreetespresso/
+⭐ Signature Items:
+• Espresso: The house centerpiece; manual pulls on a tradition that started with a Faema E61 Legend in 2001
+• Cappuccino: Served small and traditional, a longtime customer favorite
+• Macchiato: Classic short milk-and-espresso pour, a menu staple</description>
+      <Point>
+        <coordinates>-73.9777631,40.725087,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
       <name>IBN Hamido Seafood (Astoria - Primary)</name>
       <description>IBN Hamido Seafood - Astoria (Primary)
 📍 3129 Ditmars Boulevard, Astoria, NY 11105
@@ -2129,6 +3856,84 @@
 • Lobster Tails: Premium seafood offering with Mediterranean seasoning</description>
       <Point>
         <coordinates>-73.9104217,40.7758466,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Il Fornaio Bakery (Astoria, Queens - Primary)</name>
+      <description>Il Fornaio Bakery - Astoria, Queens (Primary)
+📍 29-14 30th Avenue, Astoria, NY 11102
+📞 (718) 267-0052
+🔗 https://www.instagram.com/p/DTHEodCjHmT/
+⭐ Signature Items:
+• Rainbow Cookies: Il Fornaio's most famous item; layered rainbow pastry with cannoli cream, iced in chocolate. Available by the pound and in various forms (cookies, pastries, cupcake-filled, breakable chocolate hearts filled with rainbow cookies)
+• Custom Themed Cakes: Elaborate designs including designer purses, luxury items, character designs
+• Cannolis: Classic Italian cannolis
+🔥 Popular Items:
+• Pre-made Cakes: Tiramisu, cookies and cream, cannoli cream, carrot cake, strawberry shortcake, red velvet, chocolate fudge layer
+• Morning Bites: Flaky croissants (plain, multigrain, almond, Nutella, apricot jam), cheese Danish, apple turnovers, strudel with seasonal fruits
+• Mochaccino: Most popular coffee drink, made with a touch of chocolate ganache</description>
+      <Point>
+        <coordinates>-73.9271417,40.7695857,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Il Fornaio Bakery (Il Fornaio Bakery Due)</name>
+      <description>Il Fornaio Bakery - Il Fornaio Bakery Due
+📍 33-14 30th Avenue, Astoria, NY 11103
+📞 (718) 267-0052
+🔗 https://www.instagram.com/p/DTHEodCjHmT/
+⭐ Signature Items:
+• Rainbow Cookies: Il Fornaio's most famous item; layered rainbow pastry with cannoli cream, iced in chocolate. Available by the pound and in various forms (cookies, pastries, cupcake-filled, breakable chocolate hearts filled with rainbow cookies)
+• Custom Themed Cakes: Elaborate designs including designer purses, luxury items, character designs
+• Cannolis: Classic Italian cannolis
+🔥 Popular Items:
+• Pre-made Cakes: Tiramisu, cookies and cream, cannoli cream, carrot cake, strawberry shortcake, red velvet, chocolate fudge layer
+• Morning Bites: Flaky croissants (plain, multigrain, almond, Nutella, apricot jam), cheese Danish, apple turnovers, strudel with seasonal fruits
+• Mochaccino: Most popular coffee drink, made with a touch of chocolate ganache</description>
+      <Point>
+        <coordinates>-73.9271417,40.7695857,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Taverna Kyclades (Astoria - Primary)</name>
+      <description>Taverna Kyclades - Astoria (Primary)
+📍 36-01 Ditmars Blvd, Astoria, NY 11105
+📞 (718) 545-8666
+🔗 https://www.instagram.com/p/DS752kCAZQr/
+⭐ Signature Items:
+• Grilled Octopus: Charcoal-grilled Mediterranean octopus, tender and smoky; the signature appetizer
+• Lemon Potatoes: Legendary side dish; tart, melt-in-your-mouth roasted potatoes; nearly universally ordered
+• Whole Grilled Fish: Market-fresh whole fish, simply grilled with olive oil and lemon (varies daily)</description>
+      <Point>
+        <coordinates>-73.9116,40.7746,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Taverna Kyclades (Bayside, Queens)</name>
+      <description>Taverna Kyclades - Bayside, Queens
+📍 39-28 Bell Blvd, Bayside, NY 11361
+📞 (718) 545-8666
+🔗 https://www.instagram.com/p/DS752kCAZQr/
+⭐ Signature Items:
+• Grilled Octopus: Charcoal-grilled Mediterranean octopus, tender and smoky; the signature appetizer
+• Lemon Potatoes: Legendary side dish; tart, melt-in-your-mouth roasted potatoes; nearly universally ordered
+• Whole Grilled Fish: Market-fresh whole fish, simply grilled with olive oil and lemon (varies daily)</description>
+      <Point>
+        <coordinates>-73.7728421,40.7671401,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Taverna Kyclades (East Village, Manhattan (Temporarily Closed))</name>
+      <description>Taverna Kyclades - East Village, Manhattan (Temporarily Closed)
+📍 228 1st Ave, New York, NY 10009
+📞 (718) 545-8666
+🔗 https://www.instagram.com/p/DS752kCAZQr/
+⭐ Signature Items:
+• Grilled Octopus: Charcoal-grilled Mediterranean octopus, tender and smoky; the signature appetizer
+• Lemon Potatoes: Legendary side dish; tart, melt-in-your-mouth roasted potatoes; nearly universally ordered
+• Whole Grilled Fish: Market-fresh whole fish, simply grilled with olive oil and lemon (varies daily)</description>
+      <Point>
+        <coordinates>-73.982565,40.7310339,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -2214,6 +4019,20 @@
       </Point>
     </Placemark>
     <Placemark>
+      <name>Hungry Thirsty (Carroll Gardens - Primary)</name>
+      <description>Hungry Thirsty - Carroll Gardens (Primary)
+📍 407 Smith Street, Brooklyn, NY 11231
+📞 (347) 227-8004
+🔗 https://www.instagram.com/p/DS752kCAZQr/
+⭐ Signature Items:
+• Thai Iced Tea Slushie: Signature drink served in collectible Care Bear / cartoon animal-head mugs; cold, thick, and delicious
+• Kai Tod Hat-Yai: Hat-Yai-style fried chicken with sticky rice, marinated in aromatic herbs, topped with crispy fried shallots
+• Kua Kling: Dry curry; the spiciest dish on the menu, with fragrant curry paste stir-fried rather than simmered</description>
+      <Point>
+        <coordinates>-73.9960483,40.6779351,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
       <name>Lobby Bar (New York - Primary)</name>
       <description>Lobby Bar - New York (Primary)
 📍 226 W 23rd St, New York, NY 10011
@@ -2292,6 +4111,20 @@
       </Point>
     </Placemark>
     <Placemark>
+      <name>Harper's Bread House (Chinatown - Primary)</name>
+      <description>Harper's Bread House - Chinatown (Primary)
+📍 271 Grand St, New York, NY 10002
+📞 (212) 226-8882
+🔗 https://www.instagram.com/p/DTYM6eVjhuz/
+⭐ Signature Items:
+• Dan Tat (Egg Custard Tart): Flaky crust with smooth custard
+• Portuguese Egg Tart: Flaky crust with soft custard, $1.50
+• Onigiri (Japanese Rice Balls): Various fillings, wrapped in seaweed</description>
+      <Point>
+        <coordinates>-73.9929963,40.7177801,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
       <name>Jin Mei Dumpling (Chinatown - Primary)</name>
       <description>Jin Mei Dumpling - Chinatown (Primary)
 📍 25B Henry St, New York, NY 10002
@@ -2324,6 +4157,16 @@
       </Point>
     </Placemark>
     <Placemark>
+      <name>Kong Sihk Tong 港食堂 (New York, NY - Primary)</name>
+      <description>Kong Sihk Tong 港食堂 - New York, NY (Primary)
+📍 65 Bayard Street, New York, NY 10013
+📞 (646) 850-6140
+🔗 https://www.instagram.com/p/DTnz-vvEfBg/</description>
+      <Point>
+        <coordinates>-73.9982,40.7153,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
       <name>Lululala (Chinatown - Primary)</name>
       <description>Lululala - Chinatown (Primary)
 📍 139 Hester St, New York, NY 10002
@@ -2339,6 +4182,20 @@
 • Banchan: Various Korean side dishes</description>
       <Point>
         <coordinates>-73.9946836,40.7171362,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Mei Lai Wah Bakery (Chinatown - Primary)</name>
+      <description>Mei Lai Wah Bakery - Chinatown (Primary)
+📍 41 Mott St, New York, NY 10013
+📞 (212) 925-5435
+🔗 https://www.instagram.com/p/DTYM6eVjhuz/
+⭐ Signature Items:
+• Roast Pork Bun (Char Siu Bao): The iconic item, $1.95 each
+• Pineapple Bun with Roast Pork: Flaky pineapple crust with char siu filling, $2.55
+• Portuguese Egg Tart (Dan Tat): Creamy custard in flaky pastry</description>
+      <Point>
+        <coordinates>-73.9990557,40.7151859,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -2398,6 +4255,20 @@
       </Point>
     </Placemark>
     <Placemark>
+      <name>Spongies Cafe (Chinatown - Primary)</name>
+      <description>Spongies Cafe - Chinatown (Primary)
+📍 121 Baxter St, New York, NY 10013
+📞 (646) 559-0668
+🔗 https://www.instagram.com/p/DTYM6eVjhuz/
+⭐ Signature Items:
+• Hong Kong Sponge Cakes: Baked fresh daily in various flavors, $1.25 each
+• Chrysanthemum Tea: Refreshing traditional Chinese tea
+• Vietnamese Coffee: Rich, strong iced coffee</description>
+      <Point>
+        <coordinates>-73.9988345,40.7179796,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
       <name>Super Taste (Chinatown - Primary)</name>
       <description>Super Taste - Chinatown (Primary)
 📍 26 Eldridge St, New York, NY 10002
@@ -2423,6 +4294,34 @@
 • Pan-Fried Dumplings: Crispy bottom, tender top, around $0.50 each</description>
       <Point>
         <coordinates>-73.9995217,40.7149732,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>West Rice Roll King (Chinatown - Primary)</name>
+      <description>West Rice Roll King - Chinatown (Primary)
+📍 124 Hester Street, New York, NY 10002
+📞 (646) 830-2437
+🔗 https://www.instagram.com/p/DS752kCAZQr/
+⭐ Signature Items:
+• Shrimp Rice Roll (#1): The most recommended item; loaded with juicy, perfectly seasoned shrimp
+• Curry Fish Ball Rice Roll: A distinctive and popular specialty option
+• Mixed Sauce Rice Roll (#12): Showcases the chef's skill with sauce combinations</description>
+      <Point>
+        <coordinates>-73.9931543,40.7164913,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Yi Ji Shi Mo Noodle Corp (Chinatown - Primary)</name>
+      <description>Yi Ji Shi Mo Noodle Corp - Chinatown (Primary)
+📍 88 Elizabeth St
+📞 (646) 233-6311
+🔗 https://www.instagram.com/p/DNMqgtzKpYF/?img_index=1
+⭐ Signature Items:
+• Stone-Ground Rice Rolls: Made with freshly ground rice flour, thin and delicate texture ($3+ depending on filling)
+• Shrimp Party Roll: Shrimp, dried shrimp, cilantro, and egg ($7.50)
+• Signature Rice Roll: Shrimp, pork, and fresh cilantro</description>
+      <Point>
+        <coordinates>-73.9958285,40.7182009,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -2458,6 +4357,20 @@
       </Point>
     </Placemark>
     <Placemark>
+      <name>Bong (Crown Heights - Primary)</name>
+      <description>Bong - Crown Heights (Primary)
+📍 724 Sterling Place, Brooklyn, NY 11216
+📞 Phone not available
+🔗 https://www.instagram.com/p/DS752kCAZQr/
+⭐ Signature Items:
+• Mama Kim's Lobster: Whole lobster cooked in its shell with ginger and shallots, from a secret family recipe refined with Chef Cha's mother
+• Salaw Machu Kroeung: Traditional Khmer sour soup, recipe passed down from the chef's mother
+• Golden Squid: With salted duck egg and scallion oil</description>
+      <Point>
+        <coordinates>-73.9548016,40.6727061,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
       <name>Gage &amp; Tollner (Brooklyn - Primary)</name>
       <description>Gage &amp; Tollner - Brooklyn (Primary)
 📍 372 Fulton St, Brooklyn, NY 11201
@@ -2469,6 +4382,48 @@
 • Fresh Oysters: Historic oyster house specialties</description>
       <Point>
         <coordinates>-73.987767,40.691467,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Lechonera La Isla (East Harlem - Primary)</name>
+      <description>Lechonera La Isla - East Harlem (Primary)
+📍 254 E 125th Street, New York, NY 10035
+📞 (212) 996-1972
+🔗 https://www.instagram.com/p/DS752kCAZQr/
+⭐ Signature Items:
+• Pernil (Roast Pork / Lechon): The star dish; heavily seasoned roast pork shoulder, tender and loaded with flavor, with fatty, sticky chunks of crackly skin; served in a generous aluminum dish with rice and beans (~$16, often enough for two)
+• Pollo Rostizado (Rotisserie Chicken): One of the two go-to items alongside the lechon
+• Chicharron de Cerdo: Crispy and fluffy fried pork</description>
+      <Point>
+        <coordinates>-73.9346839,40.8031286,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Adda (East Village - Primary)</name>
+      <description>Adda - East Village (Primary)
+📍 107 1st Avenue, New York, NY 10003
+📞 (917) 502-3396
+🔗 https://www.instagram.com/p/DS752kCAZQr/
+⭐ Signature Items:
+• Baby Goat Biryani: Stuffed with baby goat leg meat, sealed with dough cap, carved open tableside
+• Bheja Fry: Fried goat brains with ginger, red onions, chili, and pao (bread)
+• Bheja Masala: Creamy, custardy goat brain masala with pao</description>
+      <Point>
+        <coordinates>-73.986228,40.7268472,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Banh Anh Em (East Village - Primary)</name>
+      <description>Banh Anh Em - East Village (Primary)
+📍 99 3rd Avenue, New York, NY 10003
+📞 (833) 674-5878
+🔗 https://www.instagram.com/p/DS752kCAZQr/
+⭐ Signature Items:
+• Pho Nam Dinh: Rarely seen outside Vietnam; homemade fresh noodles and broth cooked for hours; the Pho Ga Dac Biet adds chicken gizzards and eggs
+• Banh Cuon Ha Noi: Delicate Hanoi-style steamed rice rolls filled with sweet ground pork, shrimp, and wood ear mushrooms; named &quot;Dish of the Week&quot; by Eat This NY
+• Banh Xeo: Crispy golden Vietnamese crepes with bundles of fresh herbs</description>
+      <Point>
+        <coordinates>-73.987672,40.7322913,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -2497,6 +4452,48 @@
 • Oreja Tacos: Pig's ear carnitas - $5.00</description>
       <Point>
         <coordinates>-73.982765,40.7224776,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Soothr (East Village - Primary)</name>
+      <description>Soothr - East Village (Primary)
+📍 204 E 13th Street, New York, NY 10003
+📞 (212) 844-9789
+🔗 https://www.instagram.com/p/DS752kCAZQr/
+⭐ Signature Items:
+• Koong Karee (Shrimp Egg Curry): THE signature dish; sauteed shrimp in creamy egg curry sauce with red pepper, scallions, onion, and celery
+• Ba Mii Pu (Dry Crab Noodles): Spicy dry crab noodle dish; a requirement for first-time visitors
+• Khao Soi: Warm curry noodles with fried galangal and balanced chili heat</description>
+      <Point>
+        <coordinates>-73.9873518,40.7322692,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Wayne &amp; Sons (East Village - Primary)</name>
+      <description>Wayne &amp; Sons - East Village (Primary)
+📍 221 2nd Ave Suite A
+📞 (917) 261-2816
+🔗 https://www.instagram.com/p/DKvBY7XysCK/
+⭐ Signature Items:
+• Crunchy Tacos: Seasoned and made fresh using bagel toaster technique (price varies by filling)
+• Bean &amp; Cheese Burrito: Highly praised by food influencers as &quot;THE BEST&quot; 
+• Frozen Margaritas: Signature cocktail offering</description>
+      <Point>
+        <coordinates>-73.9854342,40.7321135,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ammazza Deli (East Williamsburg, Brooklyn - Primary)</name>
+      <description>Ammazza Deli - East Williamsburg, Brooklyn (Primary)
+📍 100 Woodpoint Road, Brooklyn, NY 11211
+📞 N/A (contact via email)
+🔗 https://www.instagram.com/p/DV_daruDapu/
+⭐ Signature Items:
+• Bulgogi Chopped Cheese: house beef blend, 3 cheese, onion pepper, kimchi 100 island dressing (gluten free bun available) - $17.00. Featured by Kenji Lopez-Alt who called it &quot;a tasty bulgogi chop cheese-ish thing... still delicious.&quot;
+• &quot;The Fonz&quot; Burrito: Best breakfast seller. Housemade jalapeno chorizo (sub faux-rizo for vegetarian), potato queso hash, bouncy eggs, flour tortilla, special sauce - $13.00. Commenters confirm &quot;breakfast burrito is fantastic.&quot;
+• Ammazza Fried Rice: Best lunch seller. Eggs, scallion, cilantro, Thai chili, house secret seasoning. Gluten free - $12.00-$20.00</description>
+      <Point>
+        <coordinates>-73.9407228,40.7185777,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -2636,6 +4633,24 @@
       </Point>
     </Placemark>
     <Placemark>
+      <name>Bersi Ethiopian Restaurant (Greenpoint, Brooklyn - Primary)</name>
+      <description>Bersi Ethiopian Restaurant - Greenpoint, Brooklyn (Primary)
+📍 1049 Manhattan Ave, Brooklyn, NY 11222
+📞 (347) 335-0920
+🔗 https://www.instagram.com/p/DWE6o7Vgnyi/
+⭐ Signature Items:
+• Bersi Combo: Shimbra asa, Engudaye tibs, Shiro, Misir, Keyi ser, taste of Bersi, rice, and Azifa - $65.00
+• The Greenpoint: Vegan kitfo, Tofu tibs, Gomen, Defen Misir, Shiro, and Potato-Carrot alicha gently simmered with Turmeric - $50.00
+• Zenach: Misir, Atir kik alicha, Shiro, Tikel gomen, Fosalia, and Gomen - $40.00
+🔥 Popular Items:
+• Dirkosh/Avocado: Mashed avocado with onion, jalapeno, tomato, cilantro, lemon, and mitmita served with Berbere-flavored dirkosh - $14.00
+• Kategna: Toasted injera heated with awaze spread and spiced olive oil - $6.00
+• Sambusa (Veggie or Lentil): Brown lentils, onion, cilantro, and jalapeno - $10.00</description>
+      <Point>
+        <coordinates>-73.9553198,40.7346704,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
       <name>Chiko (Greenpoint - Primary)</name>
       <description>Chiko - Greenpoint (Primary)
 📍 954 Manhattan Ave, Brooklyn, NY 11222
@@ -2651,6 +4666,19 @@
 • Various Sichuan Preparations: Authentic China-style dishes with traditional spicing</description>
       <Point>
         <coordinates>-73.954261,40.7318978,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Jubilee Marketplace (Brooklyn, NY - Primary)</name>
+      <description>Jubilee Marketplace - Brooklyn, NY (Primary)
+📍 145 West Street, Brooklyn, NY 11222
+📞 (718) 383-0262
+🔗 https://www.instagram.com/p/DVjuxgiCVrw/
+⭐ Signature Items:
+• Smashburger: Slider-sized smashed patty with pickles, caramelized onions, garlic confit, special sauce ($2.90; +$0.40 for cheese)
+• Korean Sandwiches: Sizeable sandwiches with in-house butchered meats (~$10, FiDi location)</description>
+      <Point>
+        <coordinates>-73.9598,40.732,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -3104,6 +5132,34 @@
       </Point>
     </Placemark>
     <Placemark>
+      <name>Baby Smoker (Brooklyn, NY - Primary)</name>
+      <description>Baby Smoker - Brooklyn, NY (Primary)
+📍 6 Bay St, 1st Floor, Brooklyn, NY 11231 (inside Brooklyn Stillhouse)
+📞 N/A
+🔗 https://www.instagram.com/p/DYKuyIgliyU/?img_index=3
+⭐ Signature Items:
+• Smoked Brisket: Southern/Texas-style, slow-smoked over a blend of local woods for extra tenderness
+• Smoked Ribs: Slow-smoked pork ribs
+• Smoked Chicken: Part of the rotating smoked-meat lineup</description>
+      <Point>
+        <coordinates>-74.0100877,40.6737176,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Pitt's (Red Hook - Primary)</name>
+      <description>Pitt's - Red Hook (Primary)
+📍 347 Van Brunt St, Brooklyn, NY 11231
+📞 (718) 440-4232
+🔗 https://www.instagram.com/p/DS752kCAZQr/
+⭐ Signature Items:
+• Pancake Souffle: The signature dessert; a maple syrup flavored pudding cloud; weekends only, requires 40 minutes prep
+• Gouda Pimento Cheese: Made with two types of Gouda, served with fried saltines
+• Carolina Grit Rice: Anson Mills rice with fish stock, shrimp butter, and bottarga; risotto-like texture</description>
+      <Point>
+        <coordinates>-74.0128205,40.6771045,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
       <name>The Wharf Bar &amp; Grill (Rockaway Park - Primary)</name>
       <description>The Wharf Bar &amp; Grill - Rockaway Park (Primary)
 📍 416 Beach 116th Street, Rockaway Park, NY 11694
@@ -3275,6 +5331,19 @@
 • Jazz Club Atmosphere: Live music from legendary and emerging artists</description>
       <Point>
         <coordinates>-73.9682057,40.8011187,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>4 Charles Prime Rib (West Village - Primary)</name>
+      <description>4 Charles Prime Rib - West Village (Primary)
+📍 4 Charles Street, New York, NY 10014
+📞 (212) 561-5992
+🔗 https://www.instagram.com/p/DS752kCAZQr/
+⭐ Signature Items:
+• Prime Rib: Salt-crusted USDA prime rib, roasted low and slow, with horseradish cream and natural beef jus:
+• French Dip Sandwich: A fan favorite</description>
+      <Point>
+        <coordinates>-74.0006348,40.735084,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>

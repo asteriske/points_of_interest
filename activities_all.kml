@@ -4,6 +4,392 @@
     <name>Activities Map</name>
     <description>Activity locations extracted from markdown files</description>
     <Placemark>
+      <name>National Archives of Montreal (BAnQ Vieux-Montréal) (Montreal, Quebec)</name>
+      <description>National Archives of Montreal (BAnQ Vieux-Montréal) - Montreal, Quebec
+📍 535 Avenue Viger Est, Montreal, QC H2L 2P3
+📞 +1 514-873-1100
+🌐 https://www.banq.qc.ca
+🔗 https://www.instagram.com/p/DWy80PCEc1h/
+ℹ️ The &quot;National Archives of Montreal&quot; is the Montreal archives centre of Bibliothèque et Archives nationales du Québec (BAnQ), housed in the magnificent Édifice Gilles-Hocquart. The building, completed in 1916, was originally the École des hautes études commerciales (HEC) and is a striking Beaux-Arts...</description>
+      <Point>
+        <coordinates>-73.5546515,45.5132734,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Biosphère (Montreal, Canada)</name>
+      <description>Biosphère - Montreal, Canada
+📍 160 Chemin du Tour-de-l'Isle, Montréal, QC H3C 4G8
+📞 +1 514-868-3000
+🌐 https://espacepourlavie.ca/en/biosphere
+🔗 https://www.instagram.com/p/DZNvFGXMRE8/
+ℹ️ The Biosphère is one of Montréal's most iconic landmarks — a giant geodesic dome originally built as the United States Pavilion for Expo 67, designed by architect Buckminster Fuller. Today it houses an environmental museum (part of Espace pour la vie / Space for Life), with exhibitions on ecology,...</description>
+      <Point>
+        <coordinates>-73.5314268,45.5140865,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Château Dufresne (Montreal, Quebec)</name>
+      <description>Château Dufresne - Montreal, Quebec
+📍 2929 Avenue Jeanne-d'Arc, Montreal, QC H1W 1E7
+📞 +1 514-259-9201
+🌐 https://www.chateaudufresne.com
+🔗 https://www.instagram.com/p/DWy80PCEc1h/
+ℹ️ Château Dufresne is a historic museum housed in a grand Beaux-Arts mansion that feels straight out of a European fairytale. Built between 1915 and 1918, it was originally the twin private residence of brothers Marius and Oscar Dufresne — Marius an engineer and architect, Oscar an industrialist. The...</description>
+      <Point>
+        <coordinates>-73.5538942,45.5539015,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Château Ramezay (Montreal, Quebec)</name>
+      <description>Château Ramezay - Montreal, Quebec
+📍 280 Rue Notre-Dame Est, Montreal, QC H2Y 3B3
+📞 +1 514-861-3708
+🌐 https://www.chateauramezay.qc.ca
+🔗 https://www.instagram.com/p/DWy80PCEc1h/
+ℹ️ Château Ramezay is a historic house museum in the heart of Old Montreal, directly across from City Hall. Built in 1705 as the residence of Claude de Ramezay, governor of Montreal, it is one of the oldest buildings in the city and was the first building in Quebec to be classified as a historic...</description>
+      <Point>
+        <coordinates>-73.5531691,45.5087643,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Circuit Gilles-Villeneuve (Montreal, Canada)</name>
+      <description>Circuit Gilles-Villeneuve - Montreal, Canada
+📍 Circuit Gilles-Villeneuve, Île Notre-Dame, Montréal, QC H3C 4W7
+📞 +1 514-872-6120
+🌐 https://www.parcjeandrapeau.com/en/
+🔗 https://www.instagram.com/p/DZNvFGXMRE8/
+ℹ️ The Circuit Gilles-Villeneuve is the famous motor-racing track on Île Notre-Dame that hosts the Formula 1 Canadian Grand Prix each year. Named after Canadian F1 driver Gilles Villeneuve, it's known for its high-speed straights and the legendary &quot;Wall of Champions.&quot;</description>
+      <Point>
+        <coordinates>-73.5287484,45.5027842,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Port of Montreal Tower (Grand Quai Observation Tower) (Montreal, Quebec)</name>
+      <description>Port of Montreal Tower (Grand Quai Observation Tower) - Montreal, Quebec
+📍 Grand Quai du Port de Montréal, 200 Rue de la Commune Ouest, Montreal, QC H2Y 3Y5
+📞 +1 514-283-7011 (Port of Montreal)
+🌐 https://www.grandquai.com
+🔗 https://www.instagram.com/p/DWy80PCEc1h/
+ℹ️ The Port of Montreal Tower (Tour du Port de Montréal) is an observation tower atop the Grand Quai du Port de Montréal in Old Montreal. Opened in 2019, the tower rises about 65 metres and offers one of the most underrated 360-degree panoramas of the city — sweeping views of the St. Lawrence River,...</description>
+      <Point>
+        <coordinates>-73.5511212,45.5024668,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Île Sainte-Hélène (Montreal, Canada)</name>
+      <description>Île Sainte-Hélène - Montreal, Canada
+📍 Île Sainte-Hélène, Parc Jean-Drapeau, Montréal, QC
+📞 +1 514-872-6120
+🌐 https://www.parcjeandrapeau.com/en/
+🔗 https://www.instagram.com/p/DZNvFGXMRE8/
+ℹ️ Île Sainte-Hélène is the northern island of Parc Jean-Drapeau, a natural island in the St. Lawrence River that was expanded with rock excavated from the Montréal Metro for Expo 67. The post highlights it for its gardens, picnic spots, nature trails, and some of the best views of Montréal's skyline.</description>
+      <Point>
+        <coordinates>-73.53459,45.5188744,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Jean-Doré Beach (Plage Jean-Doré) (Montreal, Canada)</name>
+      <description>Jean-Doré Beach (Plage Jean-Doré) - Montreal, Canada
+📍 151 Circuit Gilles-Villeneuve, Montréal, QC H3C 1A9
+📞 +1 514-872-6120
+🌐 https://www.parcjeandrapeau.com/en/jean-dore-beach-sand-swimming-sun-montreal/
+🔗 https://www.instagram.com/p/DZNvFGXMRE8/
+ℹ️ Jean-Doré Beach is a sandy beach on Île Notre-Dame, just minutes from downtown Montréal. It features a roughly 600-meter sandy shoreline with a designated ~15,000 m² supervised swimming area in a filtered natural lake. The beach was renamed Jean-Doré Beach in 2015 (on its 25th anniversary) in honor...</description>
+      <Point>
+        <coordinates>-73.532,45.5009,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Navettes Fluviales (River Shuttles) (Montreal, Quebec)</name>
+      <description>Navettes Fluviales (River Shuttles) - Montreal, Quebec
+📍 Vieux-Port de Montréal (Old Port), Ville-Marie, Montreal, Quebec
+📞 See navettesfluviales.com/contact-us
+🌐 https://navettesfluviales.com
+🔗 https://www.instagram.com/p/DX2bgvlsaBz/
+ℹ️ The navettes fluviales are seasonal river shuttle boats that carry passengers across the St. Lawrence River, offering both practical transit and a scenic way to see Montreal from the water during the summer. They connect the Old Port (Vieux-Port) with destinations including Boucherville, Île...</description>
+      <Point>
+        <coordinates>-73.5529866,45.5042344,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Parc Jean-Drapeau (Montreal, Canada)</name>
+      <description>Parc Jean-Drapeau - Montreal, Canada
+📍 1 Circuit Gilles-Villeneuve, Montréal, QC H3C 1A9
+📞 +1 514-872-6120
+🌐 https://www.parcjeandrapeau.com/en/
+🔗 https://www.instagram.com/p/DZNvFGXMRE8/
+ℹ️ Parc Jean-Drapeau is one of Montréal's most beautiful places to visit — a sprawling island park that offers an escape from the city without actually leaving it. Spread across Île Sainte-Hélène and the man-made Île Notre-Dame in the middle of the St. Lawrence River, it was the site of Expo 67 and...</description>
+      <Point>
+        <coordinates>-73.5343331,45.5138637,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Pointe-à-Callière (Montréal Museum of Archaeology and History) (Montreal, Quebec)</name>
+      <description>Pointe-à-Callière (Montréal Museum of Archaeology and History) - Montreal, Quebec
+📍 350 Place Royale, Montréal, QC H2Y 3Y5
+📞 (514) 872-9150
+🌐 https://pacmusee.qc.ca/
+🔗 https://www.instagram.com/p/DXdLsXckUhA/
+ℹ️ Pointe-à-Callière is Montreal's Museum of Archaeology and History, established in 1992 and built directly above the actual remains of the city's birthplace at Place Royale — a National Historic Site. An archaeological tour leads visitors from the Indigenous occupation of the site, through the...</description>
+      <Point>
+        <coordinates>-73.55418,45.5025957,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Redpath Museum (Montreal, Quebec)</name>
+      <description>Redpath Museum - Montreal, Quebec
+📍 859 Sherbrooke Street West, Montreal, Quebec H3A 0C4
+📞 514-398-4861
+🌐 https://www.mcgill.ca/redpath/
+🔗 https://www.instagram.com/p/DaG2XNPx3Mr/
+ℹ️ The Redpath Museum is a natural history museum on the McGill University campus in downtown Montreal. Housed in a striking Greek Revival building completed in 1882, it is the oldest building in Canada purpose-built to be a museum. The collections span natural history, world cultures, and the history...</description>
+      <Point>
+        <coordinates>-73.5775143,45.5044713,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Westmount Conservatory &amp; Greenhouse (Westmount, Quebec)</name>
+      <description>Westmount Conservatory &amp; Greenhouse - Westmount, Quebec
+📍 4574 Sherbrooke Street West (Westmount Park, near Avenue Lansdowne), Westmount, QC H3Z 1G1
+📞 +1 514-989-5200 (City of Westmount)
+🌐 https://westmount.org
+🔗 https://www.instagram.com/p/DWy80PCEc1h/
+ℹ️ The Westmount Conservatory (Conservatoire de Westmount) is a charming Victorian-style glass greenhouse adjoining the Westmount Public Library in Westmount Park. Built in 1927, it offers a tiny tropical escape in the middle of the city — lush greenery, soft humidity, and sweet little pathways that...</description>
+      <Point>
+        <coordinates>-73.5994743,45.4810205,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Helvetia &amp; Bristol (Florence)</name>
+      <description>Helvetia &amp; Bristol - Florence
+📍 Via dei Pescioni, 2, Firenze, Toscana 50123, Italy
+📞 +39 055 26651
+🌐 https://collezione.starhotels.com/en/our-hotels/helvetia-and-bristol-florence/
+🔗 https://collezione.starhotels.com/en/our-hotels/helvetia-and-bristol-florence/
+ℹ️ Helvetia &amp; Bristol has been enchanting guests since 1885, when Florence was a popular stop on the Grand Tour. One of Florence's most storied 5-star luxury hotels, it is part of the Starhotels Collezione group and holds membership in the Leading Hotels of the World, Virtuoso, and Altagamma.</description>
+      <Point>
+        <coordinates>11.2522361,43.7717275,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Biblioteca Angelica (Rome, Italy)</name>
+      <description>Biblioteca Angelica - Rome, Italy
+📍 Piazza di Sant'Agostino 8, 00186 Roma, Italia
+📞 +39 06 6840801
+🌐 https://bibliotecaangelica.cultura.gov.it/en/
+🔗 https://www.instagram.com/p/DU31RXQCMRe/
+ℹ️ Founded in 1604, the Biblioteca Angelica is one of the oldest public libraries in Europe — described by commenters as &quot;the oldest first public library in Europe.&quot; It was created with a revolutionary vision for its time: free and open access to books and knowledge, regardless of social standing or...</description>
+      <Point>
+        <coordinates>12.4745524,41.9006444,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>San Nicola in Carcere (Rome, Italy)</name>
+      <description>San Nicola in Carcere - Rome, Italy
+📍 Via del Teatro Marcello 46, Rome, Italy (near Forum Boarium)
+📞 +39 06 6889 6972
+🌐 https://www.turismoroma.it/en/places/basilica-di-san-nicola-carcere
+🔗 https://www.instagram.com/p/DVUGarTjTiK/
+ℹ️ San Nicola in Carcere is an ancient titular church and minor basilica in Rome, built in the 1100s on top of three Ancient Roman temples from the 3rd century BC — the Temple of Spes, Temple of Juno, and Temple of Janus. These temples formed part of the Forum Holitorium (ancient Rome's vegetable...</description>
+      <Point>
+        <coordinates>12.4799495,41.8911096,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>San Pantalon (Venice)</name>
+      <description>San Pantalon - Venice
+📍 Campo San Pantalon, Dorsoduro 3703, 30123 Venice, Italy
+📞 Not available
+🌐 Not available
+🔗 https://www.instagram.com/p/DLVPrrqNhs0/
+ℹ️ San Pantalon (Chiesa di San Pantaleone Martire) is one of Venice's most underrated hidden gems, famous for housing the world's largest oil painting on canvas. Despite its unfinished brick facade (construction funds ran short before completion), the interior reveals a breathtaking masterpiece that...</description>
+      <Point>
+        <coordinates>12.3245657,45.4353738,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bhaktapur Durbar Square (Bhaktapur, Nepal)</name>
+      <description>Bhaktapur Durbar Square - Bhaktapur, Nepal
+📍 Bhaktapur-02, Bhaktapur District, Bagmati Province, Nepal
+🌐 N/A
+🔗 https://www.tripadvisor.com/AttractionProductReview-g293890-d19709437-The_Most_Beautiful_1_Day_Experience_in_Kathmandu_Nepal-Kathmandu_Kathmandu_Valley_.html
+ℹ️ Bhaktapur Durbar Square is a UNESCO World Heritage Site and one of three royal palace squares in the Kathmandu Valley. The ancient city of Bhaktapur, also known as &quot;the city of devotees,&quot; was once the capital of the Malla Kingdom and remains the best-preserved medieval town in Nepal. The Durbar...</description>
+      <Point>
+        <coordinates>85.4281,27.6721,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Changu Narayan Temple (Changunarayan, Nepal)</name>
+      <description>Changu Narayan Temple - Changunarayan, Nepal
+📍 Changunarayan-04, Bhaktapur District, Bagmati Province, Nepal
+🌐 N/A
+🔗 https://www.tripadvisor.com/AttractionProductReview-g293890-d19709437-The_Most_Beautiful_1_Day_Experience_in_Kathmandu_Nepal-Kathmandu_Kathmandu_Valley_.html
+ℹ️ Changu Narayan Temple is the oldest Hindu temple in the Kathmandu Valley and a UNESCO World Heritage Site. Dedicated to Lord Vishnu (Narayan), the temple dates back to the 4th century AD and sits atop a hill at the end of the Kathmandu Valley. The temple complex features exceptional stone, wood,...</description>
+      <Point>
+        <coordinates>85.4279,27.7163,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Chitwan National Park (Chitwan, Nepal)</name>
+      <description>Chitwan National Park - Chitwan, Nepal
+📍 Chitwan National Park, Narayani Zone, Central Region, Nepal
+🌐 https://chitwannationalpark.gov.np/
+🔗 https://www.tripadvisor.com/AttractionProductReview-g293890-d17990421-8_Days_Tour_in_Nepal_3_Star_Accommodation-Kathmandu_Kathmandu_Valley_Bagmati_Zone_.html
+ℹ️ Chitwan National Park is Nepal's first national park, established in 1973, and a UNESCO World Heritage Site. Covering 952.63 square kilometers of subtropical lowland in the Terai region, it is home to one of the last populations of single-horned Asiatic rhinoceros and is one of the last refuges of...</description>
+      <Point>
+        <coordinates>84.4383,27.5168,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Boudhanath Stupa (Kathmandu, Nepal)</name>
+      <description>Boudhanath Stupa - Kathmandu, Nepal
+📍 Boudhanath, Kathmandu, Bagmati Province, Nepal
+🌐 N/A
+🔗 https://www.tripadvisor.com/AttractionProductReview-g293890-d17990421-8_Days_Tour_in_Nepal_3_Star_Accommodation-Kathmandu_Kathmandu_Valley_Bagmati_Zone_.html
+ℹ️ Boudhanath Stupa is one of the largest spherical stupas in Nepal and the holiest Tibetan Buddhist temple outside Tibet. The massive mandala-style stupa dominates the skyline and serves as the center of Tibetan culture in Kathmandu, particularly after the 1959 Tibetan diaspora when many refugees...</description>
+      <Point>
+        <coordinates>85.362,27.7214,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kumari Chowk (Kumari Bahal) (Kathmandu, Nepal)</name>
+      <description>Kumari Chowk (Kumari Bahal) - Kathmandu, Nepal
+📍 Hridaya Chandra Singh Marg, Basantapur, Kathmandu 44600, Nepal
+📞 +977 9841027948
+🌐 N/A (no official website)
+🔗 https://www.tripadvisor.com/Attraction_Review-g293890-d310706-Reviews-Kumari_Chowk-Kathmandu_Kathmandu_Valley_Bagmati_Zone_Central_Region.html
+ℹ️ Kumari Chowk is a three-story red-brick palace built in 1757 by King Jaya Prakash Malla. It is the residence of the Royal Kumari of Kathmandu -- a prepubescent girl selected from the Newar Shakya community who is worshipped as the living incarnation of the Hindu goddess Taleju (a form of Durga)....</description>
+      <Point>
+        <coordinates>85.30472,27.70532,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Pashupatinath Temple (Kathmandu, Nepal)</name>
+      <description>Pashupatinath Temple - Kathmandu, Nepal
+📍 Pashupati Nath Road, Kathmandu 44600, Nepal
+📞 +977-1-4471828
+🌐 https://pashupatinathtemple.org/
+🔗 https://www.tripadvisor.com/Attraction_Review-g293890-d310712-Reviews-Pashupatinath_Temple-Kathmandu_Kathmandu_Valley_Bagmati_Zone_Central_Region.html
+ℹ️ Pashupatinath Temple is one of the most sacred Hindu temples in Nepal and a UNESCO World Heritage Site since 1979. Located on both banks of the holy Bagmati River on the eastern outskirts of Kathmandu, it is the primary temple dedicated to Lord Shiva (Pashupati, &quot;Lord of Animals&quot;). The temple...</description>
+      <Point>
+        <coordinates>85.3486653,27.7104647,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Patan Durbar Square (Lalitpur, Nepal)</name>
+      <description>Patan Durbar Square - Lalitpur, Nepal
+📍 Patan Durbar Square, Lalitpur, Bagmati Province, Nepal
+🌐 N/A
+🔗 https://www.tripadvisor.com/AttractionProductReview-g293890-d17990421-8_Days_Tour_in_Nepal_3_Star_Accommodation-Kathmandu_Kathmandu_Valley_Bagmati_Zone_.html
+ℹ️ Patan Durbar Square is one of the three Durbar Squares in the Kathmandu Valley, all of which are UNESCO World Heritage Sites. Located in the heart of Lalitpur (historically known as Patan), it is considered the oldest and most artistically accomplished of the three royal palace squares. The square...</description>
+      <Point>
+        <coordinates>85.325,27.6734,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Swayambhunath (Monkey Temple) (Kathmandu, Nepal)</name>
+      <description>Swayambhunath (Monkey Temple) - Kathmandu, Nepal
+📍 Swayambhunath, Kathmandu-15, Kathmandu, Bagmati Province, Nepal
+🌐 N/A
+🔗 https://www.tripadvisor.com/AttractionProductReview-g293890-d17990421-8_Days_Tour_in_Nepal_3_Star_Accommodation-Kathmandu_Kathmandu_Valley_Bagmati_Zone_.html
+ℹ️ Swayambhunath, popularly known as the &quot;Monkey Temple&quot; due to the holy monkeys living in parts of the temple, is an ancient religious complex atop a hill in the Kathmandu Valley. The site is one of the oldest and most revered Buddhist pilgrimage sites in Nepal, dating back over 2,500 years. The...</description>
+      <Point>
+        <coordinates>85.2903,27.7152,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Thamel (Kathmandu, Nepal)</name>
+      <description>Thamel - Kathmandu, Nepal
+📍 Thamel, Kathmandu-26, Kathmandu, Bagmati Province, Nepal
+📞 N/A (neighborhood, not a single venue)
+🌐 N/A
+🔗 https://www.tripadvisor.com/Attraction_Review-g293890-d379305-Reviews-Thamel-Kathmandu_Kathmandu_Valley_Bagmati_Zone_Central_Region.html
+ℹ️ Thamel is Kathmandu's primary tourist district and the commercial hub for travelers visiting Nepal. Rated 4.2/5 on TripAdvisor with over 5,781 reviews, it ranks #8 of 283 things to do in Kathmandu and holds a Travelers' Choice 2025 award.</description>
+      <Point>
+        <coordinates>85.3127015,27.7166578,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Nagarkot Buddha Peace Park Hiking Trail (Nagarkot, Nepal)</name>
+      <description>Nagarkot Buddha Peace Park Hiking Trail - Nagarkot, Nepal
+📍 Nagarkot to Changu Narayan, Kavrepalanchok District, Bagmati Province, Nepal
+🌐 N/A
+🔗 https://www.tripadvisor.com/AttractionProductReview-g293890-d19709437-The_Most_Beautiful_1_Day_Experience_in_Kathmandu_Nepal-Kathmandu_Kathmandu_Valley_.html
+ℹ️ The Nagarkot Buddha Peace Park Hiking Trail is a scenic 4-hour hiking route that winds through traditional mountain villages, picturesque hills, and forested areas between Nagarkot and Changu Narayan Temple. The trail offers hikers an authentic glimpse into rural Nepali life, passing through...</description>
+      <Point>
+        <coordinates>85.5197,27.7185,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Nagarkot View Tower (Nagarkot, Nepal)</name>
+      <description>Nagarkot View Tower - Nagarkot, Nepal
+📍 Nagarkot, Kavrepalanchok District, Bagmati Province, Nepal
+🌐 N/A
+🔗 https://www.tripadvisor.com/AttractionProductReview-g293890-d19709437-The_Most_Beautiful_1_Day_Experience_in_Kathmandu_Nepal-Kathmandu_Kathmandu_Valley_.html
+ℹ️ Nagarkot View Tower is a popular observation point located at one of the highest points in the Nagarkot area, offering a stunning 360-degree panoramic view of the Himalayan mountain range. The tower provides visitors with unobstructed views of Mount Everest, Annapurna, and other major Himalayan...</description>
+      <Point>
+        <coordinates>85.5197,27.7185,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Patan Museum (Patan (Lalitpur), Nepal)</name>
+      <description>Patan Museum - Patan (Lalitpur), Nepal
+📍 Royal Palace Complex, Durbar Marg, Patan (Lalitpur) 44700, Nepal
+📞 Not publicly listed
+🌐 http://www.patanmuseum.gov.np/
+🔗 https://www.tripadvisor.com/Attraction_Review-g315764-d310829-Reviews-Patan_Museum-Patan_Lalitpur_Kathmandu_Valley_Bagmati_Zone_Central_Region.html
+ℹ️ Patan Museum is housed within the meticulously restored Keshav Narayan Chowk, an ancient residential court of the former royal palace in Patan Durbar Square. It takes all three floors of the restored palace to cover thirteen centuries of Nepal's religious art history, making it easily Nepal's...</description>
+      <Point>
+        <coordinates>85.3253354,27.6734438,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Mahendra Cave (Pokhara, Nepal)</name>
+      <description>Mahendra Cave - Pokhara, Nepal
+📍 Mahendra Cave, Thulibesi Marg, Pokhara-16, Kaski District, Gandaki Province, Nepal
+🌐 N/A
+🔗 https://www.tripadvisor.com/AttractionProductReview-g293890-d17990421-8_Days_Tour_in_Nepal_3_Star_Accommodation-Kathmandu_Kathmandu_Valley_Bagmati_Zone_.html
+ℹ️ Mahendra Cave is a large limestone cave located in the northern part of Pokhara, named after the late King Mahendra who visited the cave in 1950. The cave features impressive stalactite and stalagmite formations created over thousands of years by mineral-rich water. The main cave chamber extends...</description>
+      <Point>
+        <coordinates>83.9791,28.2724,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Phewa Lake (Phewa Tal) (Pokhara, Nepal)</name>
+      <description>Phewa Lake (Phewa Tal) - Pokhara, Nepal
+📍 Phewa Lake, Pokhara, Kaski District, Gandaki Province, Nepal
+🌐 N/A
+🔗 https://www.tripadvisor.com/AttractionProductReview-g293890-d17990421-8_Days_Tour_in_Nepal_3_Star_Accommodation-Kathmandu_Kathmandu_Valley_Bagmati_Zone_.html
+ℹ️ Phewa Lake is the second largest lake in Nepal and the most famous lake in Pokhara, serving as the centerpiece of the city's tourism. The lake stretches over 4.43 square kilometers and offers stunning reflections of the Annapurna range, including the iconic Machhapuchhre (Fishtail) peak. The...</description>
+      <Point>
+        <coordinates>83.9488,28.2117,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Quinta da Regaleira (Sintra, Portugal)</name>
+      <description>Quinta da Regaleira - Sintra, Portugal
+📍 Rua Barbosa du Bocage, s/n, 2710-567 Sintra, Portugal
+📞 N/A
+🌐 https://www.regaleira.pt/en
+🔗 https://www.instagram.com/p/DWvjZlbk56J/
+ℹ️ Quinta da Regaleira is a 19th-century estate in Sintra built for António Augusto Carvalho Monteiro, a wealthy Portuguese eccentric and Freemason. The grounds are steeped in esoteric symbolism — Masonic, Rosicrucian, and Templar imagery is woven throughout. The most famous feature is the Poço...</description>
+      <Point>
+        <coordinates>-9.3962,38.7951,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Basilica Cistern (Yerebatan Sarnıcı) (Istanbul, Turkey)</name>
+      <description>Basilica Cistern (Yerebatan Sarnıcı) - Istanbul, Turkey
+📍 Alemdar, Yerebatan Cd. 1/3, 34110 Fatih, Istanbul, Turkey
+📞 N/A
+🌐 https://yerebatan.com/en/
+🔗 https://www.instagram.com/p/DWoMO7LgiM5/
+ℹ️ The Basilica Cistern (Yerebatan Sarnıcı — &quot;Sunken Palace&quot;) is a vast 6th-century underground Roman water cistern built by Emperor Justinian I in 532 AD. It stretches 138m × 65m and is supported by 336 marble columns, many repurposed from earlier Roman structures. It once supplied water to the Great...</description>
+      <Point>
+        <coordinates>28.9784,41.0085,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
       <name>Wethersfield Estate &amp; Garden (Amenia)</name>
       <description>Wethersfield Estate &amp; Garden - Amenia
 📍 257 Pugsley Hill Road
@@ -40,6 +426,18 @@
       </Point>
     </Placemark>
     <Placemark>
+      <name>The Skyscraper Museum (New York City)</name>
+      <description>The Skyscraper Museum - New York City
+📍 39 Battery Place, New York, NY 10280
+📞 (212) 968-1961
+🌐 https://www.skyscraper.org
+🔗 https://www.instagram.com/p/DYfV0pRGUBQ/?img_index=1
+ℹ️ Since 1996, the Skyscraper Museum has been dedicated to the architecture, engineering, science, and history behind tall buildings. Located in Battery Park City at the southern tip of Manhattan — fittingly amid the skyscrapers it celebrates — the museum features miniature building replicas, scale...</description>
+      <Point>
+        <coordinates>-74.017691,40.70575,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
       <name>Dia Beacon (Beacon)</name>
       <description>Dia Beacon - Beacon
 📍 3 Beekman Street, Beacon, NY 12508
@@ -61,6 +459,30 @@
 ℹ️ The KuBe (Kunsthalle Beacon) repurposes the site of a former high school as a space to promote international exchange of culture and art, as well as unite local and global artists in a community forum. With over 60 artist studios, 10 gallery spaces, and 2 libraries, KuBe is a thriving space that...</description>
       <Point>
         <coordinates>-73.964994,41.505818,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Mount Beacon Fire Tower (Beacon, New York)</name>
+      <description>Mount Beacon Fire Tower - Beacon, New York
+📍 788 Wolcott Avenue, Beacon, NY 12508 (Casino trailhead)
+📞 N/A
+🌐 https://scenichudson.org/parks/mount-beacon-park/
+🔗 https://observer.com/list/best-hikes-near-new-york-city-no-cars/
+ℹ️ The hike up Mount Beacon follows a **200-step staircase** along the bed of the old **Mount Beacon Funicular**—the steepest incline railway in the world when it opened in 1902—and tops out at the restored **1931 fire tower**. The summit offers Manhattan to the south and the Catskills to the north on...</description>
+      <Point>
+        <coordinates>-73.9601812,41.4941963,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bear Mountain Loop (Bear Mountain, New York)</name>
+      <description>Bear Mountain Loop - Bear Mountain, New York
+📍 Bear Mountain Inn, 3020 Seven Lakes Drive, Tomkins Cove, NY 10986
+📞 (845) 786-2731
+🌐 https://visitbearmountain.com/
+🔗 https://observer.com/list/best-hikes-near-new-york-city-no-cars/
+ℹ️ Run the loop clockwise: up the **Major Welch Trail's** rock scrambles to **Perkins Memorial Tower** (1934; panoramic on clear days to the Manhattan skyline and four states), then down the engineered **Appalachian Trail stone staircase**—more than 700 hand-laid steps that are the most ambitious...</description>
+      <Point>
+        <coordinates>-73.9898017,41.3130775,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -100,6 +522,18 @@
       </Point>
     </Placemark>
     <Placemark>
+      <name>Underground Thrift Store (Brooklyn Heights, Brooklyn)</name>
+      <description>Underground Thrift Store - Brooklyn Heights, Brooklyn
+📍 65 Hicks St, Brooklyn, NY 11201
+📞 (718) 624-4743
+🌐 https://www.plymouthchurch.org/undergroundthriftstore
+🔗 https://www.instagram.com/p/DVpNIIvifJI/
+ℹ️ The Underground Thrift Store is located at Plymouth Church in Brooklyn Heights. It offers designer clothing (men's and women's), quality children's wear, fabulous shoes and accessories, plus high-end housewares, glassware, books, and decor. The store is volunteer-run and curated with high-quality...</description>
+      <Point>
+        <coordinates>-73.9935289,40.6995079,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
       <name>Highland Park to Forest Park Trail (Brooklyn/Queens)</name>
       <description>Highland Park to Forest Park Trail - Brooklyn/Queens
 📍 Accessible via J train at Cleveland Street
@@ -124,6 +558,102 @@
       </Point>
     </Placemark>
     <Placemark>
+      <name>Poster House (New York City)</name>
+      <description>Poster House - New York City
+📍 119 West 23rd Street, New York, NY 10011
+📞 (917) 722-2439
+🌐 https://posterhouse.org
+🔗 https://www.instagram.com/p/DYfV0pRGUBQ/?img_index=1
+ℹ️ Poster House is the first U.S. museum dedicated exclusively to the art of the poster, examining its cultural and historical significance from the late 19th century to the present day. Opened in 2019, the museum's rotating exhibitions explore everything from political movements, AIDS activism, and...</description>
+      <Point>
+        <coordinates>-73.9933365,40.7435881,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Salvation Army Thrift Store (Chelsea)</name>
+      <description>Salvation Army Thrift Store - Chelsea
+📍 208 8th Avenue, New York, NY 10011
+📞 (212) 929-4618
+🌐 https://www.salvationarmyusa.org
+🔗 https://www.instagram.com/p/DSAroIJDpLu/
+ℹ️ Salvation Army thrift store located in Chelsea near the corner of W 21st St and 8th Ave. Featured by @codey___ in his list of top Salvation Army thrift stores in Manhattan. Carries clothing, furniture, home goods, and accessories at thrift prices.</description>
+      <Point>
+        <coordinates>-73.9993,40.7437,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>NROCKS Via Ferrata (Circleville, West Virginia)</name>
+      <description>NROCKS Via Ferrata - Circleville, West Virginia
+📍 141 Nelson Gap Road, Circleville, WV 26804
+📞 (540) 437-9901
+🌐 https://nrocks.com/via-ferrata/
+🔗 https://www.instagram.com/p/DUQ60lciSy3/
+ℹ️ NROCKS Outdoor Adventures operates one of the only via ferratas on the East Coast and the longest one east of the Mississippi. Italian for &quot;by way of iron,&quot; a via ferrata is a permanently installed system of steel rungs and cables that allows participants to climb up and over towering sandstone...</description>
+      <Point>
+        <coordinates>-79.4721024,38.7005593,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Visible Voice Books (Cleveland, OH)</name>
+      <description>Visible Voice Books - Cleveland, OH
+📍 4601 Lorain Ave, Cleveland, OH 44102
+📞 216-961-0084
+🌐 https://www.visiblevoicebooks.com
+🔗 https://www.instagram.com/p/DWMAkmCjD6W/?img_index=5
+ℹ️ Visible Voice Books is a nearly 20-year-old independent bookstore founded by owner Dave Ferrante. The shop features a curated mix of new and used books with a focus on modern fiction, counterculture, poetry, and collectible art and music titles. Originally located in Cleveland's Tremont...</description>
+      <Point>
+        <coordinates>-81.7182443,41.4785354,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bull Hill (Mount Taurus) (Cold Spring, New York)</name>
+      <description>Bull Hill (Mount Taurus) - Cold Spring, New York
+📍 Little Stony Point, Route 9D, Cold Spring, NY 10516
+📞 N/A
+🌐 https://parks.ny.gov/parks/hudsonhighlands
+🔗 https://observer.com/list/best-hikes-near-new-york-city-no-cars/
+ℹ️ With Breakneck Ridge closed through 2026, Bull Hill is what New York State Parks and the Fjord Trail are now steering everyone toward—the argument being it was the better ridge anyway: more rewarding, no notorious scrambles, same minutes on the train. The full loop runs 5.5 miles and 1,400 feet up...</description>
+      <Point>
+        <coordinates>-73.9650901,41.4259948,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Cold Spring Harbor State Park (Long Island, New York)</name>
+      <description>Cold Spring Harbor State Park - Long Island, New York
+📍 Route 25A / Harbor Road, Cold Spring Harbor, NY 11724
+📞 (631) 423-1770 (NY State Parks, Long Island Region)
+🌐 https://parks.ny.gov/parks/coldspringharbor
+🔗 https://www.nationalgeographic.com/travel/article/new-york-city-train-to-hiking-trails
+ℹ️ Featured in National Geographic's &quot;6 spectacular hikes near New York City—and you can reach them by train&quot; (by Lina Zeldovich). Cold Spring Harbor State Park is a 47-acre state park on Long Island's North Shore with two moderate trails winding through dense forest. It connects to the Long Island...</description>
+      <Point>
+        <coordinates>-73.4592824,40.8632136,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hudson Highlands State Park Preserve (Cold Spring, New York)</name>
+      <description>Hudson Highlands State Park Preserve - Cold Spring, New York
+📍 Route 9D, Cold Spring, NY 10516 (multiple trailheads along 9D)
+📞 (845) 225-7207 (NY State Parks, Taconic Region)
+🌐 https://parks.ny.gov/parks/hudsonhighlands
+🔗 https://www.nationalgeographic.com/travel/article/new-york-city-train-to-hiking-trails
+ℹ️ Featured in National Geographic's &quot;6 spectacular hikes near New York City—and you can reach them by train&quot; (by Lina Zeldovich). Hudson Highlands State Park Preserve is a rugged, undeveloped preserve on the east side of the Hudson River known for steep climbs and panoramic river views. The article...</description>
+      <Point>
+        <coordinates>-73.9499107,41.4772251,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Little Stony Point (Cold Spring, New York)</name>
+      <description>Little Stony Point - Cold Spring, New York
+📍 3011 Route 9D, Cold Spring, NY 10516
+📞 (845) 225-7207 (NY State Parks, Taconic Region)
+🌐 https://littlestonypoint.org
+🔗 https://www.nationalgeographic.com/travel/article/new-york-city-train-to-hiking-trails
+ℹ️ Mentioned in National Geographic's &quot;6 spectacular hikes near New York City—and you can reach them by train&quot; (by Lina Zeldovich) as an easy option alongside the Hudson Highlands hikes. Little Stony Point is a small peninsula jutting into the Hudson River just north of Cold Spring village. Its **easy...</description>
+      <Point>
+        <coordinates>-73.9650901,41.4259948,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
       <name>Magazzino Italian Art (Cold Spring)</name>
       <description>Magazzino Italian Art - Cold Spring
 📍 2700 Route 9, Cold Spring, NY 10516
@@ -133,6 +663,66 @@
 ℹ️ Magazzino Italian Art is a museum and research center dedicated to advancing scholarship and public appreciation of postwar and contemporary Italian art in the United States. Meaning &quot;warehouse&quot; in Italian, Magazzino was co-founded by Nancy Olnick and Giorgio Spanu. The 20,000 square-foot museum,...</description>
       <Point>
         <coordinates>-73.9148517,41.429881,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Cold Spring Waterfront and Boscobel (Cold Spring, New York)</name>
+      <description>Cold Spring Waterfront and Boscobel - Cold Spring, New York
+📍 1601 Route 9D, Garrison, NY 10524
+📞 (845) 265-3638
+🌐 https://www.boscobel.org/
+🔗 https://observer.com/list/best-hikes-near-new-york-city-no-cars/
+ℹ️ This is a gentle riverfront walk paired with a historic mansion. **Boscobel**, an 1808 Federal-style house overlooking West Point, reopened in August 2025 after a 17-month closure that began when its library ceiling came down in April 2024. The new **&quot;Preservation in Progress&quot; tours** walk guests...</description>
+      <Point>
+        <coordinates>-73.9474557,41.3699231,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Storm King State Park (Cornwall-on-Hudson, New York)</name>
+      <description>Storm King State Park - Cornwall-on-Hudson, New York
+📍 Storm King State Park, Cornwall-on-Hudson, NY 12520
+📞 (845) 786-2701 (Palisades Interstate Park Commission, NY)
+🌐 https://parks.ny.gov/parks/stormking
+🔗 https://www.nationalgeographic.com/travel/article/new-york-city-train-to-hiking-trails
+ℹ️ Featured in National Geographic's &quot;6 spectacular hikes near New York City—and you can reach them by train&quot; (by Lina Zeldovich). Storm King State Park sits on the west side of the Hudson Highlands and is known for dramatic, panoramic river views. Highlights include the **Highland Trail** (about 5...</description>
+      <Point>
+        <coordinates>-73.9929715,41.4246342,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Croton Gorge Park (Cortlandt, Westchester County, NY)</name>
+      <description>Croton Gorge Park - Cortlandt, Westchester County, NY
+📍 35 Yorktown Road (Route 129), Cortlandt, NY 10520
+📞 +1 914-862-5290 (Westchester County Parks)
+🌐 https://parks.westchestergov.com/croton-gorge-park
+🔗 https://www.instagram.com/p/DYTKdadNacp/
+ℹ️ Croton Gorge Park is a 97-acre Westchester County park set at the base of the New Croton Dam, about an hour north of New York City in the Hudson Valley. Featured by @goloveny as a &quot;scenic day trip just 1 hour north of NYC,&quot; it's a popular easy escape known for its dramatic views of the masonry dam...</description>
+      <Point>
+        <coordinates>-73.8531213,41.2217974,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Brooklyn Seltzer Museum (New York City)</name>
+      <description>Brooklyn Seltzer Museum - New York City
+📍 474 Hemlock Street, Brooklyn, NY 11208
+📞 (718) 437-7782
+🌐 https://www.brooklynseltzermuseum.com
+🔗 https://www.instagram.com/p/DYfV0pRGUBQ/?img_index=1
+ℹ️ The family-owned Brooklyn Seltzer Museum and factory gives visitors a peek into the science and history of carbonated refreshment. Run by the Gomberg family — longtime seltzer bottlers behind Brooklyn Seltzer Boys — the museum showcases the heritage of New York's beloved fizzy water, including...</description>
+      <Point>
+        <coordinates>-73.8698351,40.6777636,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New York Transit Museum (Downtown Brooklyn)</name>
+      <description>New York Transit Museum - Downtown Brooklyn
+📍 99 Schermerhorn Street, Brooklyn, NY 11201
+📞 (718) 694-1600
+🌐 https://www.nytransitmuseum.org/
+🔗 https://www.instagram.com/p/DVL38qyDfqY/
+ℹ️ The New York Transit Museum is the largest museum in the United States devoted to urban public transportation history. Housed in a historic 1936 IND subway station in Downtown Brooklyn, the museum features vintage subway cars, bus exhibits, and interactive displays covering the history of NYC's...</description>
+      <Point>
+        <coordinates>-73.99,40.6905,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -206,6 +796,78 @@
       </Point>
     </Placemark>
     <Placemark>
+      <name>Salvation Army Thrift Store (Gramercy)</name>
+      <description>Salvation Army Thrift Store - Gramercy
+📍 208 E 23rd Street, New York, NY 10010
+📞 (212) 532-8115
+🌐 https://www.salvationarmyusa.org
+🔗 https://www.instagram.com/p/DSAroIJDpLu/
+ℹ️ One of the larger and more well-known Salvation Army Family Stores in Manhattan, located near Gramercy Park. Featured by @codey___ in his list of top Salvation Army thrift stores in Manhattan. Carries clothing, furniture, home goods, and accessories at thrift prices.</description>
+      <Point>
+        <coordinates>-73.9826,40.7384,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Leaves Bookstore (Greenpoint, Brooklyn)</name>
+      <description>Leaves Bookstore - Greenpoint, Brooklyn
+📍 140 Nassau Ave, Brooklyn, NY 11222
+📞 (518) 406-7637
+🌐 https://www.leavesbookstore.com
+🔗 https://www.instagram.com/p/DVgkCm7DUex/?img_index=9
+ℹ️ Leaves is an independent, second-hand bookstore committed to community, sustainability, and affordability. They carry books of all genres, ranging in price from one dollar to many thousands. The Greenpoint storefront is home to a wide range of materials including discount books and reading copies....</description>
+      <Point>
+        <coordinates>-73.9477321,40.7246271,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sleeping Giant Tower Trail (Hamden, Connecticut)</name>
+      <description>Sleeping Giant Tower Trail - Hamden, Connecticut
+📍 3230 Mount Carmel Avenue, Hamden, CT 06518
+📞 (203) 287-5658
+🌐 https://portal.ct.gov/deep/state-parks/parks/sleeping-giant-state-park
+🔗 https://observer.com/list/best-hikes-near-new-york-city-no-cars/
+ℹ️ The crushed-stone **Tower Trail** switchbacks 1.6 miles up the Giant's &quot;left hip&quot; to a four-story stone observation tower with a vantage point all the way to Long Island Sound. The blue-blazed **Quinnipiac loop** adds a real scramble up the Giant's &quot;head&quot; and 400-foot cliff overlooks for a five- to...</description>
+      <Point>
+        <coordinates>-72.9013809,41.4203514,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Salvation Army Thrift Store (Harlem)</name>
+      <description>Salvation Army Thrift Store - Harlem
+📍 26 E 125th Street, New York, NY 10035
+📞 (212) 996-0378
+🌐 https://www.salvationarmyusa.org
+🔗 https://www.instagram.com/p/DSAroIJDpLu/
+ℹ️ Salvation Army thrift store and donation center in central Harlem, near the Metro-North station. Featured by @codey___ in his list of top Salvation Army thrift stores in Manhattan. Carries clothing, furniture, home goods, and accessories at thrift prices. One commenter (jan071974) noted: &quot;I love...</description>
+      <Point>
+        <coordinates>-73.9412,40.8057,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Salvation Army Thrift Store (Hell's Kitchen)</name>
+      <description>Salvation Army Thrift Store - Hell's Kitchen
+📍 536 W 46th Street, New York, NY 10036
+📞 (800) 728-7825
+🌐 https://www.salvationarmyusa.org
+🔗 https://www.instagram.com/p/DSAroIJDpLu/
+ℹ️ Two-floor Salvation Army thrift store and donation center in Hell's Kitchen. One floor is dedicated to clothing and the other to furniture and home goods. Featured by @codey___ as potentially &quot;the biggest thrift in all of New York&quot; and his favorite &quot;REAL thrift store in New York City.&quot; This is a...</description>
+      <Point>
+        <coordinates>-73.9954,40.7627,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Franny Reese State Park (Highland, New York)</name>
+      <description>Franny Reese State Park - Highland, New York
+📍 Franny Reese State Park, Highland, NY 12528 (trailhead off Haviland Road, near the Walkway Over the Hudson west end)
+📞 (845) 473-4440 (Scenic Hudson / NY State Parks)
+🌐 https://parks.ny.gov/parks/frannyreese
+🔗 https://www.nationalgeographic.com/travel/article/new-york-city-train-to-hiking-trails
+ℹ️ Featured in National Geographic's &quot;6 spectacular hikes near New York City—and you can reach them by train&quot; (by Lina Zeldovich). Franny Reese State Park is a quiet, wooded preserve on the west bank of the Hudson, directly accessible by walking across the Walkway Over the Hudson from Poughkeepsie....</description>
+      <Point>
+        <coordinates>-73.9566575,41.699472,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
       <name>Fishkill Farms (Hopewell Junction, NY)</name>
       <description>Fishkill Farms - Hopewell Junction, NY
 📍 9 Fishkill Farm Road, Hopewell Junction, NY 12533
@@ -254,6 +916,30 @@
       </Point>
     </Placemark>
     <Placemark>
+      <name>American Folk Art Museum (Lincoln Square, Manhattan)</name>
+      <description>American Folk Art Museum - Lincoln Square, Manhattan
+📍 2 Lincoln Square, Columbus Avenue at 66th Street, New York, NY 10023
+📞 (212) 595-9533
+🌐 https://folkartmuseum.org/
+🔗 https://www.instagram.com/p/DVL38qyDfqY/
+ℹ️ The American Folk Art Museum is dedicated to presenting American folk art, including traditional and contemporary folk art from various cultures and time periods. The museum features rotating exhibitions and a permanent collection spanning centuries of American creative expression. Featured in a...</description>
+      <Point>
+        <coordinates>-73.9844,40.7723,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>SculptureCenter (Long Island City, Queens)</name>
+      <description>SculptureCenter - Long Island City, Queens
+📍 44-19 Purves Street, Long Island City, NY 11101
+📞 (718) 361-1750
+🌐 https://www.sculpture-center.org/
+🔗 https://www.instagram.com/p/DVL38qyDfqY/
+ℹ️ SculptureCenter is an independent, non-profit contemporary art museum housed in a converted trolley repair shop in Long Island City. The space showcases cutting-edge sculpture and installation art exhibitions. Featured in a list of lesser-known NYC museums by @caityb as museum #1 of 6...</description>
+      <Point>
+        <coordinates>-73.9409,40.7469,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
       <name>Army &amp; Navy Bags (New York City)</name>
       <description>Army &amp; Navy Bags - New York City
 📍 177 E Houston St #2, New York, NY 10002
@@ -263,6 +949,18 @@
 ℹ️ Army &amp; Navy Bags is a beloved military surplus store that has been operating for over 60 years, first established in 1956 by a Polish couple. When they were ready to retire, they gifted the store to their loyal long-term employee, Henry Yao, who has been the sole owner and operator since 1997.</description>
       <Point>
         <coordinates>-73.988366,40.7226194,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>International Center of Photography (ICP) (Lower East Side, Manhattan)</name>
+      <description>International Center of Photography (ICP) - Lower East Side, Manhattan
+📍 84 Ludlow Street, New York, NY 10002
+📞 (212) 857-0000
+🌐 https://www.icp.org/
+🔗 https://www.instagram.com/p/DVL38qyDfqY/
+ℹ️ The International Center of Photography is a leading international museum and school dedicated to photography and visual culture. ICP offers exhibitions featuring photography from around the world and educational programs. Timed entry tickets can be reserved online or purchased at the admission...</description>
+      <Point>
+        <coordinates>-73.9889,40.7182,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -278,6 +976,54 @@
       </Point>
     </Placemark>
     <Placemark>
+      <name>Anthony's Nose (Manitou, New York)</name>
+      <description>Anthony's Nose - Manitou, New York
+📍 South Mountain Pass at Route 9D, Garrison, NY 10524
+📞 N/A
+🌐 https://parks.ny.gov/parks/hudsonhighlands
+🔗 https://observer.com/list/best-hikes-near-new-york-city-no-cars/
+ℹ️ A steep climb on stone steps lands you at a cliff that frames the **Bear Mountain Bridge** directly below. Peregrines nest on the bridge itself in spring, and the air is the cleanest of the year. Note: the **New York Bridge Authority began decking replacement in 2026**, so you'll be staring down at...</description>
+      <Point>
+        <coordinates>-73.9746625,41.3183195,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>The AKC Museum of the Dog (New York City)</name>
+      <description>The AKC Museum of the Dog - New York City
+📍 101 Park Avenue, New York, NY 10016
+📞 (212) 696-8360
+🌐 https://www.museumofthedog.org
+🔗 https://www.instagram.com/p/DYfV0pRGUBQ/?img_index=1
+ℹ️ The American Kennel Club opened the Museum of the Dog in 2019 at the AKC headquarters near Grand Central. Inside, you'll find classical and contemporary art honoring man's best friend, alongside interactive exhibits that are fun for kids and adult canine enthusiasts alike. The collection is one of...</description>
+      <Point>
+        <coordinates>-73.9775762,40.7506105,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>BOOKOFF New York (Midtown, Manhattan)</name>
+      <description>BOOKOFF New York - Midtown, Manhattan
+📍 49 West 45th St, New York, NY 10036
+📞 (212) 685-1410
+🌐 https://www.bookoffusa.com/bookoff-49-w-45th-ny-store/
+🔗 https://www.instagram.com/p/DVgkCm7DUex/?img_index=9
+ℹ️ BOOKOFF is a Japanese chain specializing in used books, manga, CDs, DVDs, video games, and other media. The New York Midtown location is their US flagship. They buy and sell secondhand media at affordable prices. As of September 2025, they stopped buying Japanese books at this location but continue...</description>
+      <Point>
+        <coordinates>-73.9813442,40.7564355,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>The Grolier Club (Midtown East, Manhattan)</name>
+      <description>The Grolier Club - Midtown East, Manhattan
+📍 47 East 60th Street, New York, NY 10065 (between Park and Madison Avenues)
+📞 (212) 838-6690
+🌐 https://www.grolierclub.org/
+🔗 https://www.instagram.com/p/DVL38qyDfqY/
+ℹ️ The Grolier Club is a historic private club dedicated to the arts of the book and related subjects. Its ground floor and second floor galleries are open to the public and feature rotating exhibitions on bookmaking, typography, illustration, and related arts. Visitors must sign in at the front desk;...</description>
+      <Point>
+        <coordinates>-73.9698,40.764,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
       <name>Tomi Jazz (New York City)</name>
       <description>Tomi Jazz - New York City
 📍 239 E 53rd Street (Between 2nd &amp; 3rd Avenue)
@@ -287,6 +1033,18 @@
 ℹ️ Tomi Jazz is a cozy speakeasy-style Japanese jazz bar and restaurant in Midtown East. This intimate venue combines live jazz performances with authentic Japanese cuisine and a wide variety of whiskey and sake. Known for its intimate atmosphere and nightly live jazz bands, Tomi Jazz has become a...</description>
       <Point>
         <coordinates>-73.9677693,40.7572284,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hemlock Falls (South Mountain Reservation, New Jersey)</name>
+      <description>Hemlock Falls - South Mountain Reservation, New Jersey
+📍 Locust Grove Trailhead, Glen Avenue, Millburn, NJ 07041
+📞 N/A
+🌐 https://www.essexcountyparks.org/parks/south-mountain-reservation
+🔗 https://observer.com/list/best-hikes-near-new-york-city-no-cars/
+ℹ️ South Mountain Reservation is a 2,000+ acre forest reservation laid out by the Olmsted Brothers—sons of Frederick Law Olmsted, who designed Central Park—and the carriage roads still hold their original logic a century on. The signature route is the **Lenape–Rahway loop**, running 5.9 miles with...</description>
+      <Point>
+        <coordinates>-74.2914908,40.725158,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -302,6 +1060,18 @@
       </Point>
     </Placemark>
     <Placemark>
+      <name>Scandinavia House: The Nordic Center in America (Murray Hill, Manhattan)</name>
+      <description>Scandinavia House: The Nordic Center in America - Murray Hill, Manhattan
+📍 58 Park Avenue, New York, NY 10016
+📞 (212) 779-3587
+🌐 https://www.scandinaviahouse.org/
+🔗 https://www.instagram.com/p/DVL38qyDfqY/
+ℹ️ Scandinavia House is the Nordic cultural center in America, showcasing Scandinavian art, design, and culture. The center features galleries, films, concerts, and other cultural programs celebrating Nordic heritage. Located just 4 blocks south of Grand Central Station. Featured in a list of...</description>
+      <Point>
+        <coordinates>-73.9801,40.7495,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
       <name>Storm King Art Center (New Windsor)</name>
       <description>Storm King Art Center - New Windsor
 📍 1 Museum Rd, New Windsor, NY 12553
@@ -314,6 +1084,30 @@
       </Point>
     </Placemark>
     <Placemark>
+      <name>Hook Mountain and Nyack (Nyack, New York)</name>
+      <description>Hook Mountain and Nyack - Nyack, New York
+📍 698 North Broadway, Upper Nyack, NY 10960
+📞 (845) 268-3020
+🌐 https://parks.ny.gov/parks/nyackbeach
+🔗 https://observer.com/list/best-hikes-near-new-york-city-no-cars/
+ℹ️ A 5.9-mile loop over **Hook Mountain**, the 730-foot diabase prow that anchors the northern Palisades and is a federally registered **National Natural Landmark**. Twelve thousand raptors a year ride the thermals through the summit's hawk-watch site, and the **Knickerbocker Ice Company ruins** line...</description>
+      <Point>
+        <coordinates>-73.9149807,41.1188787,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>The Palisades Long Path (George Washington Bridge to Alpine Lookout, New Jersey)</name>
+      <description>The Palisades Long Path - George Washington Bridge to Alpine Lookout, New Jersey
+📍 GWB Northwalk entrance, 178th Street and Cabrini Boulevard, New York, NY 10033
+📞 N/A
+🌐 https://www.njpalisades.org/longPath.html
+🔗 https://observer.com/list/best-hikes-near-new-york-city-no-cars/
+ℹ️ The Long Path rolls north along the Palisades cliff edge through active peregrine falcon country. From the GWB it climbs into 200-million-year-old diabase, passing **Rockefeller Lookout** at about 4.85 miles and **Alpine Lookout** at roughly eight miles. The hike ends at the **Alpine Boat Basin**,...</description>
+      <Point>
+        <coordinates>-73.9526661,40.8516669,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
       <name>Hudson Valley MOCA (Peekskill)</name>
       <description>Hudson Valley MOCA - Peekskill
 📍 1701 Main Street, Peekskill, NY 10566
@@ -323,6 +1117,30 @@
 ℹ️ The Hudson Valley Center for Contemporary Art (Hudson Valley MOCA), located in Peekskill, NY, is a 501(c)(3) non-profit arts and education organization founded by the Marc and Livia Straus family. The Center is dedicated to the development and presentation of exhibitions and interdisciplinary...</description>
       <Point>
         <coordinates>-73.906835,41.2932806,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>The Barnes Foundation (Philadelphia, PA)</name>
+      <description>The Barnes Foundation - Philadelphia, PA
+📍 2025 Benjamin Franklin Parkway, Philadelphia, PA 19130
+📞 215-278-7000
+🌐 https://www.barnesfoundation.org
+🔗 https://www.tripadvisor.com/Attraction_Review-g60795-d3187840-Reviews-Barnes-Philadelphia_Pennsylvania.html
+ℹ️ The Barnes Foundation was founded in 1922 by Dr. Albert C. Barnes, who made his fortune co-developing Argyrol, an antiseptic silver compound. Inspired by philosopher John Dewey's writings on education and democracy, Barnes chartered the foundation as an educational institution dedicated to teaching...</description>
+      <Point>
+        <coordinates>-75.1727,39.9605,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Calder Gardens (Philadelphia, PA)</name>
+      <description>Calder Gardens - Philadelphia, PA
+📍 2100 Benjamin Franklin Parkway, Philadelphia, PA 19130
+📞 215-278-7250
+🌐 https://caldergardens.org
+🔗 https://www.visitphilly.com/things-to-do/attractions/calder-gardens/
+ℹ️ Calder Gardens is a geometric wonderland dedicated entirely to the work of Alexander Calder (1898-1976), one of the most acclaimed and influential artists of the 20th century and a native Philadelphian. Spanning his entire 50-year career, the attraction features rotating selections of kinetic...</description>
+      <Point>
+        <coordinates>-75.1748,39.9603,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -350,6 +1168,18 @@
       </Point>
     </Placemark>
     <Placemark>
+      <name>Walkway Over the Hudson (Poughkeepsie, New York)</name>
+      <description>Walkway Over the Hudson - Poughkeepsie, New York
+📍 87 Haviland Road, Highland, NY 12528 (west landing)
+📞 (845) 834-2867
+🌐 https://walkway.org/
+🔗 https://observer.com/list/best-hikes-near-new-york-city-no-cars/
+ℹ️ Walkway Over the Hudson is 1.28 miles of repurposed 1888 railroad bridge, opening 212 feet above the river—&quot;the laziest legitimate hike on this list, because the bridge does all the climbing for you.&quot; The **Hyde Park Trail** strings together nine miles of woodland between the FDR estates, doable in...</description>
+      <Point>
+        <coordinates>-73.954303,41.7106541,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
       <name>Eastern Queens Greenway (Queens)</name>
       <description>Eastern Queens Greenway - Queens
 📍 Starts at Main Street-Flushing (7 train)
@@ -374,6 +1204,54 @@
       </Point>
     </Placemark>
     <Placemark>
+      <name>Waterfront Museum (New York City)</name>
+      <description>Waterfront Museum - New York City
+📍 290 Conover Street, Brooklyn, NY 11231
+📞 (718) 624-4719
+🌐 https://waterfrontmuseum.org
+🔗 https://www.instagram.com/p/DYfV0pRGUBQ/?img_index=1
+ℹ️ The Waterfront Museum is housed aboard the Lehigh Valley Barge #79, a wooden covered barge built in 1914 and now docked in Red Hook, Brooklyn. The floating museum preserves maritime history through artifacts and oral histories from longshoremen and harbor workers, while hosting cultural programming...</description>
+      <Point>
+        <coordinates>-74.0182882,40.6752578,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Community Boathouse (Rockaway Beach, Queens)</name>
+      <description>Community Boathouse - Rockaway Beach, Queens
+📍 Vernam Barbadoes Preserve, Corner of Beach 75th St. &amp; Amstel Blvd, Far Rockaway, NY 11692
+📞 N/A (contact via email)
+🌐 https://www.communityboathouse.org/
+🔗 https://www.communityboathouse.org/
+ℹ️ The Community Boathouse (formerly the Gateway Bike &amp; Boathouse, founded in 2008) is a 501(c)3 not-for-profit, all-volunteer organization providing **free kayaking on Jamaica Bay** in Rockaway Beach and at Riis Landing. Visitors can experience the natural beauty of the Bay while enjoying fresh air...</description>
+      <Point>
+        <coordinates>-73.8058514,40.5938374,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sandy Hook Beach Ferry Day Trip (Seastreak) (Sandy Hook, NJ)</name>
+      <description>Sandy Hook Beach Ferry Day Trip (Seastreak) - Sandy Hook, NJ
+📍 Sandy Hook Ferry Dock, Fort Hancock, Sandy Hook Unit, Gateway National Recreation Area, Highlands, NJ 07732
+📞 +1 800-262-8743 (Seastreak); +1 732-872-5970 (Sandy Hook / Gateway NRA)
+🌐 https://seastreak.com/ferry-routes-and-schedules/between-new-york-city-sandy-hook-beach-nj/
+🔗 https://www.instagram.com/p/DY4eMsfNfP6/
+ℹ️ A car-free NYC summer beach day trip: hop the Seastreak ferry from Manhattan (East 35th Street or Pier 11/Wall Street) and ride roughly 40 minutes across New York Harbor and Sandy Hook Bay to Sandy Hook, the northern barrier-beach peninsula of Gateway National Recreation Area in New Jersey. The...</description>
+      <Point>
+        <coordinates>-74.0093,40.4686,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Rockefeller State Park Preserve (Westchester County, New York)</name>
+      <description>Rockefeller State Park Preserve - Westchester County, New York
+📍 125 Phelps Way (Route 117), Pleasantville / Sleepy Hollow, NY 10570
+📞 (914) 631-1470 (NY State Parks)
+🌐 https://parks.ny.gov/parks/rockefeller
+🔗 https://www.nationalgeographic.com/travel/article/new-york-city-train-to-hiking-trails
+ℹ️ Featured in National Geographic's &quot;6 spectacular hikes near New York City—and you can reach them by train&quot; (by Lina Zeldovich). Rockefeller State Park Preserve offers roughly **55 miles of wide, easy-to-moderate carriage road trails** on former Rockefeller family land in Westchester's Pocantico...</description>
+      <Point>
+        <coordinates>-73.8309454,41.1077178,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
       <name>Cooper's Beach (Southampton, NY)</name>
       <description>Cooper's Beach - Southampton, NY
 📍 268 Meadow Lane, Southampton, NY 11968
@@ -383,6 +1261,18 @@
 ℹ️ Cooper's Beach is a premier beach destination located on the south shore of Long Island in Southampton, New York. The beach was named the #1 beach in America for 2025 by Dr. Beach (coastal scientist Stephen Leatherman), who has been ranking beaches across the United States for over three decades...</description>
       <Point>
         <coordinates>-72.4042757,40.8654425,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New York Chinese Scholar's Garden (Staten Island)</name>
+      <description>New York Chinese Scholar's Garden - Staten Island
+📍 1000 Richmond Terrace, Staten Island, NY 10301 (Entrance at Cottage E on Cottage Row)
+📞 (718) 425-3504
+🌐 https://snug-harbor.org/botanical-garden/new-york-chinese-scholars-garden/
+🔗 https://www.instagram.com/p/DVgS0xmDf6e/
+ℹ️ The New York Chinese Scholar's Garden is one of only two authentic classical outdoor Chinese gardens built in the United States, located within the Snug Harbor Cultural Center &amp; Botanical Garden campus. Based on Ming Dynasty design (1368-1644 AD), it features eight pavilions, bamboo forests,...</description>
+      <Point>
+        <coordinates>-74.1019,40.6419,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -410,6 +1300,18 @@
       </Point>
     </Placemark>
     <Placemark>
+      <name>The New York Historical (New York City)</name>
+      <description>The New York Historical - New York City
+📍 170 Central Park West (at 77th Street), New York, NY 10024
+📞 (212) 873-3400
+🌐 https://www.nyhistory.org
+🔗 https://www.instagram.com/p/DYfV0pRGUBQ/?img_index=1
+ℹ️ The New York Historical (formerly the New-York Historical Society) is New York City's oldest museum, founded in 1804, and is dedicated to both the history of the Big Apple and the United States. The museum features rotating art and history exhibitions — recent highlights include shows for America's...</description>
+      <Point>
+        <coordinates>-73.9743038,40.7792489,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
       <name>Nicholas Roerich Museum (New York City)</name>
       <description>Nicholas Roerich Museum - New York City
 📍 319 West 107th Street, New York, NY 10025
@@ -422,15 +1324,15 @@
       </Point>
     </Placemark>
     <Placemark>
-      <name>San Pantalon (Venice)</name>
-      <description>San Pantalon - Venice
-📍 Campo San Pantalon, Dorsoduro 3703, 30123 Venice, Italy
-📞 Not available
-🌐 Not available
-🔗 https://www.instagram.com/p/DLVPrrqNhs0/
-ℹ️ San Pantalon (Chiesa di San Pantaleone Martire) is one of Venice's most underrated hidden gems, famous for housing the world's largest oil painting on canvas. Despite its unfinished brick facade (construction funds ran short before completion), the interior reveals a breathtaking masterpiece that...</description>
+      <name>Ashley Gorge Via Ferrata (Vernal, Utah)</name>
+      <description>Ashley Gorge Via Ferrata - Vernal, Utah
+📍 Ashley Gorge, approximately 12 miles north of Vernal, Utah
+📞 435-790-6455 (Dyno Outfitters / Utah Via Ferrata)
+🌐 https://www.utahviaferrata.com/via-ferrata
+🔗 https://www.instagram.com/p/DVRem8qAIbI/
+ℹ️ Set against the dramatic canyon walls of Ashley Gorge, this is Utah's very first public via ferrata and the longest via ferrata route in North America. Via ferrata (Italian for &quot;Iron Path&quot;) is a form of protected rock climbing using fixed cables, iron rungs, ladders, and metal footholds attached to...</description>
       <Point>
-        <coordinates>12.3245657,45.4353738,0</coordinates>
+        <coordinates>-109.615,40.5596,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -469,6 +1371,18 @@
       </Point>
     </Placemark>
     <Placemark>
+      <name>Belmont Lake State Park (West Babylon, New York)</name>
+      <description>Belmont Lake State Park - West Babylon, New York
+📍 625 Belmont Avenue, West Babylon, NY 11704
+📞 (631) 667-5055 (NY State Parks)
+🌐 https://parks.ny.gov/parks/belmontlake
+🔗 https://www.nationalgeographic.com/travel/article/new-york-city-train-to-hiking-trails
+ℹ️ Featured in National Geographic's &quot;6 spectacular hikes near New York City—and you can reach them by train&quot; (by Lina Zeldovich). Belmont Lake State Park is an easy, family-friendly hiking destination on Long Island. A 3.8-mile path connects **Belmont Lake** and **Argyle Lake** via flat, wooded...</description>
+      <Point>
+        <coordinates>-73.3445578,40.7341477,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
       <name>Living By Stella Dallas (Williamsburg)</name>
       <description>Living By Stella Dallas - Williamsburg
 📍 281 N 6th St, Brooklyn, NY 11211
@@ -478,6 +1392,18 @@
 ℹ️ Living By Stella Dallas is a vintage and textile shop in Williamsburg specializing in vintage clothing, global textiles, and furnishing textiles. The shop carries women's clothing ranging from pieces dating back to the 1840s to current items, along with vintage buttons and sewing notions. The shop...</description>
       <Point>
         <coordinates>-73.9536014,40.7146296,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Habitat NYC and Westchester ReStore (Yonkers, NY)</name>
+      <description>Habitat NYC and Westchester ReStore - Yonkers, NY
+📍 470 Nepperhan Ave, Yonkers, NY 10701
+📞 (332) 777-5060
+🌐 https://www.habitatnycwc.org/restore/
+🔗 https://www.instagram.com/p/DTiQQ8_jvit/
+ℹ️ The Habitat NYC and Westchester ReStore is a nonprofit thrift store operated by Habitat for Humanity New York City and Westchester County. The store sells donated furniture, home goods, building materials, appliances, and vintage finds at affordable prices. All proceeds support Habitat for...</description>
+      <Point>
+        <coordinates>-73.8835206,40.9422481,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -502,6 +1428,30 @@
 ℹ️ Untermyer Gardens is a spectacular Persian-style garden that offers a magical escape just 35 minutes from NYC. This historic garden features stunning architecture, beautiful landscaping, and serves as a perfect day trip destination from Manhattan. The gardens were once part of a grand estate and...</description>
       <Point>
         <coordinates>-73.8860174,40.9659946,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bygone Icons (Long Island City, NY)</name>
+      <description>Bygone Icons - Long Island City, NY
+📍 42-33 24th Street, Long Island City, NY 11101
+📞 +1 (212) 796-1920
+🌐 https://bygoneicons.com/
+🔗 https://www.instagram.com/p/DMJAMVpgs9o/
+ℹ️ Bygone Icons is a warehouse-based vintage and high-end furniture retailer specializing in carefully curated pieces from over 65 renowned brands including Herman Miller, Eames, Knoll, Saarinen, USM Haller, Vitsoe, Walter Knoll, Vitra, Steelcase, Humanscale, Bernhardt, and Coalesse. They offer both...</description>
+      <Point>
+        <coordinates>-73.9421142,40.7500301,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Watkins Glen Gorge Trail (Watkins Glen State Park)</name>
+      <description>Watkins Glen Gorge Trail - Watkins Glen State Park
+📍 1009 N Franklin St, Watkins Glen, NY 14891
+📞 (607) 535-4511
+🌐 https://parks.ny.gov/visit/state-parks/watkins-glen-state-park
+🔗 https://www.instagram.com/p/DTg2QawjjRU/, https://www.instagram.com/p/DVWO2BaEXiV/
+ℹ️ Watkins Glen State Park is the most famous of the Finger Lakes State Parks, renowned for leaving visitors spellbound. Within two miles, the glen's stream descends 400 feet past 200-foot cliffs, generating 19 waterfalls along its path. The Gorge Trail is a stone pathway carved straight into the...</description>
+      <Point>
+        <coordinates>-76.9288,42.3615,0</coordinates>
       </Point>
     </Placemark>
   </Document>

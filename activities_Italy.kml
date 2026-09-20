@@ -15,5 +15,41 @@
         <coordinates>11.2522361,43.7717275,0</coordinates>
       </Point>
     </Placemark>
+    <Placemark>
+      <name>Biblioteca Angelica (Rome, Italy)</name>
+      <description>Biblioteca Angelica - Rome, Italy
+📍 Piazza di Sant'Agostino 8, 00186 Roma, Italia
+📞 +39 06 6840801
+🌐 https://bibliotecaangelica.cultura.gov.it/en/
+🔗 https://www.instagram.com/p/DU31RXQCMRe/
+ℹ️ Founded in 1604, the Biblioteca Angelica is one of the oldest public libraries in Europe — described by commenters as &quot;the oldest first public library in Europe.&quot; It was created with a revolutionary vision for its time: free and open access to books and knowledge, regardless of social standing or...</description>
+      <Point>
+        <coordinates>12.4745524,41.9006444,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>San Nicola in Carcere (Rome, Italy)</name>
+      <description>San Nicola in Carcere - Rome, Italy
+📍 Via del Teatro Marcello 46, Rome, Italy (near Forum Boarium)
+📞 +39 06 6889 6972
+🌐 https://www.turismoroma.it/en/places/basilica-di-san-nicola-carcere
+🔗 https://www.instagram.com/p/DVUGarTjTiK/
+ℹ️ San Nicola in Carcere is an ancient titular church and minor basilica in Rome, built in the 1100s on top of three Ancient Roman temples from the 3rd century BC — the Temple of Spes, Temple of Juno, and Temple of Janus. These temples formed part of the Forum Holitorium (ancient Rome's vegetable...</description>
+      <Point>
+        <coordinates>12.4799495,41.8911096,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>San Pantalon (Venice)</name>
+      <description>San Pantalon - Venice
+📍 Campo San Pantalon, Dorsoduro 3703, 30123 Venice, Italy
+📞 Not available
+🌐 Not available
+🔗 https://www.instagram.com/p/DLVPrrqNhs0/
+ℹ️ San Pantalon (Chiesa di San Pantaleone Martire) is one of Venice's most underrated hidden gems, famous for housing the world's largest oil painting on canvas. Despite its unfinished brick facade (construction funds ran short before completion), the interior reveals a breathtaking masterpiece that...</description>
+      <Point>
+        <coordinates>12.3245657,45.4353738,0</coordinates>
+      </Point>
+    </Placemark>
   </Document>
 </kml>
