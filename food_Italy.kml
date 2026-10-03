@@ -4,6 +4,20 @@
     <name>NYC Restaurant Map</name>
     <description>Restaurant locations extracted from markdown files</description>
     <Placemark>
+      <name>Caffetteria Bistrot Chiostro del Bramante (Rome, Italy - Primary)</name>
+      <description>Caffetteria Bistrot Chiostro del Bramante - Rome, Italy (Primary)
+📍 Via Arco della Pace 5, 00186 Roma RM, Italy
+📞 +39 06 6880 9035
+🔗 https://www.instagram.com/p/DdTktLiN6XR/
+⭐ Signature Items:
+• Macchiatone: The house coffee order: espresso with steamed milk foam in a large cup, taken at the Caffetteria counter or in the Sala delle Sibille
+• Torte fatte in casa: Strictly home-made cakes, the kitchen's stated specialty
+• Risotti: House risottos, one of the two named lunch specialties</description>
+      <Point>
+        <coordinates>12.4715,41.9,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
       <name>Dar Poeta (Rome - Primary)</name>
       <description>Dar Poeta - Rome (Primary)
 📍 Vicolo del Bologna 45/46
